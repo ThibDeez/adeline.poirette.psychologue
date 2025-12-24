@@ -5,52 +5,92 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  emoji: string;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Enfants & Adolescents',
+    emoji: '👶',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Accompagnement des enfants et adolescents pour les difficultés scolaires,
+        troubles du comportement, anxiété, troubles de l'attention, estime de soi,
+        relations familiales et sociales.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Adultes',
+    emoji: '🧑',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Soutien psychologique pour les adultes traversant des périodes difficiles :
+        stress, anxiété, dépression, burn-out, difficultés relationnelles,
+        transitions de vie, deuil.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Troubles anxieux',
+    emoji: '😰',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Prise en charge des troubles anxieux, crises d'angoisse, phobies,
+        troubles obsessionnels compulsifs (TOC), anxiété généralisée et
+        troubles du stress post-traumatique.
+      </>
+    ),
+  },
+  {
+    title: 'Dépression',
+    emoji: '😔',
+    description: (
+      <>
+        Accompagnement dans la gestion de la dépression, troubles de l'humeur,
+        perte de motivation, tristesse persistante, et difficultés à retrouver
+        du sens dans sa vie.
+      </>
+    ),
+  },
+  {
+    title: 'Estime de soi',
+    emoji: '💪',
+    description: (
+      <>
+        Travail sur la confiance en soi, l'affirmation de soi, la gestion
+        des émotions, et le développement personnel pour mieux se connaître
+        et s'épanouir.
+      </>
+    ),
+  },
+  {
+    title: 'Relations & Famille',
+    emoji: '👨‍👩‍👧',
+    description: (
+      <>
+        Aide pour les difficultés relationnelles, conflits familiaux,
+        séparations, problèmes de couple, communication, et dynamiques
+        familiales complexes.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, emoji, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+      <div className="card" style={{padding: '1.5rem', height: '100%', margin: '1rem 0'}}>
+        <div className="text--center">
+          <span style={{fontSize: '4rem'}} role="img" aria-label={title}>
+            {emoji}
+          </span>
+        </div>
+        <div className="text--center padding-horiz--md">
+          <Heading as="h3">{title}</Heading>
+          <p>{description}</p>
+        </div>
       </div>
     </div>
   );
@@ -58,8 +98,11 @@ function Feature({title, Svg, description}: FeatureItem) {
 
 export default function HomepageFeatures(): ReactNode {
   return (
-    <section className={styles.features}>
+    <section id="specialites" className={styles.features}>
       <div className="container">
+        <Heading as="h2" style={{textAlign: 'center', marginBottom: '3rem'}}>
+          Spécialités & Accompagnements
+        </Heading>
         <div className="row">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

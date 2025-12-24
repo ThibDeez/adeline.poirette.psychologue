@@ -8,16 +8,44 @@
   text-align: center;
   position: relative;
   overflow: hidden;
-}
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+  background: linear-gradient(135deg, #4a90a4 0%, #7fa99b 100%);
+  color: white;
 }
 
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 2rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.aboutSection {
+  padding: 4rem 0;
+}
+
+.pricingSection {
+  padding: 4rem 0;
+}
+
+.contactSection {
+  padding: 4rem 0;
+  background-color: #f8f9fa;
+}
+
+[data-theme='dark'] .contactSection {
+  background-color: #1e1e1e;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+
+  .aboutSection,
+  .pricingSection,
+  .contactSection {
+    padding: 2rem 0;
+  }
 }

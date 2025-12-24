@@ -1,30 +1,97 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Custom CSS for Adeline Poirette - Psychologue
+ * Couleurs apaisantes et professionnelles
  */
 
-/* You can override the default Infima variables here. */
+/* Palette de couleurs inspirée de la psychologie - tons bleus/verts apaisants */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #4a90a4;
+  --ifm-color-primary-dark: #427f91;
+  --ifm-color-primary-darker: #3e7889;
+  --ifm-color-primary-darkest: #336371;
+  --ifm-color-primary-light: #5fa0b3;
+  --ifm-color-primary-lighter: #6ba8bb;
+  --ifm-color-primary-lightest: #8dbcc9;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Couleurs complémentaires */
+  --ifm-color-secondary: #7fa99b;
+  --ifm-heading-color: #2c3e50;
+  --ifm-font-color-base: #444;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #6ba8bb;
+  --ifm-color-primary-dark: #5a9cb1;
+  --ifm-color-primary-darker: #5394a9;
+  --ifm-color-primary-darkest: #447a8c;
+  --ifm-color-primary-light: #7db4c5;
+  --ifm-color-primary-lighter: #84b9cd;
+  --ifm-color-primary-lightest: #a0cad7;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Styles personnalisés */
+.hero {
+  background: linear-gradient(135deg, var(--ifm-color-primary) 0%, var(--ifm-color-secondary) 100%);
+  padding: 4rem 0;
+}
+
+.hero__title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* Sections avec fond alterné */
+section:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+[data-theme='dark'] section:nth-child(even) {
+  background-color: #1e1e1e;
+}
+
+/* Cards stylisées */
+.card {
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Bouton CTA amélioré */
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border: none;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+}
+
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  transform: scale(1.05);
+}
+
+/* Amélioration de la lisibilité */
+p {
+  line-height: 1.8;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: var(--ifm-heading-color);
+}
+

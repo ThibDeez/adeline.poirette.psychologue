@@ -1,47 +1,111 @@
 ---
 sidebar_position: 1
+title: Informations pratiques
+description: Tout ce qu'il faut savoir avant votre première consultation
 ---
 
-# Tutorial Intro
+# Informations pratiques
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Bienvenue sur la page d'informations pratiques du cabinet d'Adeline Poirette, psychologue à Saint-Amand-les-Eaux.
 
-## Getting Started
+## 🏥 Quand consulter un psychologue ?
 
-Get started by **creating a new site**.
+Consulter un psychologue peut être bénéfique dans de nombreuses situations :
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Pour vous-même (adultes)
+- Vous traversez une période difficile (séparation, deuil, perte d'emploi)
+- Vous ressentez de l'anxiété, du stress ou de l'angoisse
+- Vous êtes confronté à la dépression ou à des troubles de l'humeur
+- Vous souhaitez mieux vous connaître et développer votre potentiel
+- Vous avez des difficultés relationnelles (couple, famille, travail)
+- Vous vivez un burn-out ou un épuisement professionnel
+- Vous avez vécu un traumatisme
 
-### What you'll need
+### Pour votre enfant ou adolescent
+- Difficultés scolaires ou de concentration
+- Troubles du comportement
+- Anxiété, peurs, phobies
+- Troubles du sommeil
+- Difficultés relationnelles avec les pairs
+- Manque de confiance en soi
+- Changements importants dans la vie (séparation des parents, déménagement)
+- Troubles de l'attention (TDAH)
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+:::tip Bon à savoir
+Il n'est pas nécessaire d'attendre que la situation devienne critique pour consulter. 
+Au contraire, plus tôt on consulte, plus vite on peut trouver des solutions adaptées.
+:::
 
-## Generate a new site
+## 📋 Déroulement d'une séance
 
-Generate a new Docusaurus site using the **classic template**.
+### Première consultation
+La première séance est essentielle. Elle permet de :
+- Faire connaissance dans un cadre bienveillant
+- Exposer les raisons de votre venue
+- Définir ensemble vos objectifs
+- Établir un cadre thérapeutique adapté
 
-The classic template will automatically be added to your project after you run the command:
+### Séances suivantes
+- **Durée** : environ 45-50 minutes
+- **Fréquence** : variable selon les besoins (hebdomadaire, bimensuelle, mensuelle)
+- **Contenu** : écoute, échanges, techniques thérapeutiques adaptées
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Pour les enfants
+- Les parents sont présents lors du premier rendez-vous
+- Utilisation de supports ludiques et créatifs (jeux, dessins)
+- Communication régulière avec les parents sur l'évolution
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 💳 Tarifs et remboursements
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Tarifs
+- **Consultation adulte** : 50€
+- **Consultation enfant/adolescent** : 50€
 
-## Start your site
+### Moyens de paiement
+- Chèque
+- Espèces
 
-Run the development server:
+### Remboursement
+Les consultations chez un psychologue en libéral ne sont généralement **pas remboursées par la Sécurité Sociale**.
 
-```bash
-cd my-website
-npm run start
-```
+Cependant, de nombreuses **mutuelles** proposent une prise en charge partielle ou totale des consultations psychologiques. 
+Je vous invite à vous renseigner auprès de votre complémentaire santé.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+:::info Information remboursement
+Certaines mutuelles remboursent entre 20€ et 60€ par séance, dans la limite d'un certain nombre de séances par an.
+N'hésitez pas à demander une facture que vous pourrez transmettre à votre mutuelle.
+:::
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## 📅 Prendre rendez-vous
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Les rendez-vous se prennent exclusivement via la plateforme **Doctolib** :
+
+👉 [**Prendre rendez-vous sur Doctolib**](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
+
+### Annulation
+En cas d'empêchement, merci de prévenir **au moins 48h à l'avance** pour annuler ou reporter votre rendez-vous.
+
+## 🔒 Confidentialité
+
+Tout ce qui est dit en séance reste **strictement confidentiel**. 
+Le secret professionnel est un principe fondamental de la pratique psychologique.
+
+### Pour les mineurs
+Les échanges avec l'enfant ou l'adolescent restent confidentiels, sauf en cas de danger imminent. 
+Des points réguliers avec les parents permettent de faire le lien sans trahir la confidentialité.
+
+## 📍 Accès au cabinet
+
+**Adresse** : Saint-Amand-les-Eaux, 59230
+
+Le cabinet est facilement accessible et dispose de places de stationnement à proximité.
+
+## 📞 Contact
+
+Pour toute question avant votre première consultation, n'hésitez pas à me contacter via la messagerie Doctolib.
+
+---
+
+*Adeline Poirette - Psychologue*  
+*N° ADELI : [À compléter si souhaité]*
+
