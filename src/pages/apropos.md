@@ -30,13 +30,22 @@ Je me forme régulièrement pour vous offrir un accompagnement de qualité :
 
 ## Mon approche
 
-Ma pratique se concentre sur l'**accompagnement psychologique des adultes et des nourrissons**, avec une **expertise particulière en périnatalité**. Je crois fermement que chaque personne est unique et mérite un accompagnement adapté à ses besoins spécifiques.
+Je propose des **accompagnements psychologiques pour adultes** traversant un mal-être, des difficultés émotionnelles, de l'anxiété, un besoin de prise de recul ou d'introspection, des périodes de transition, une situation de deuil, une démarche personnelle de connaissance de soi...
+
+Je suis **spécialisée en périnatalité et accompagnement à la parentalité**. J'offre une prise en charge pensée pour les parents et futurs parents pendant la grossesse et le post-partum ainsi que les situations liées à la parentalité grâce à un espace de réflexion.
+
+La période périnatale est souvent remplie de joie mais peut s'accompagner légitimement de doutes, d'angoisses et de nombreux questionnements. Je suis disponible pour vous accompagner dans ces changements physiques et psychiques.
+
+Je propose des **suivis psychologiques parentaux** (pour parents d'enfants de tout âge) pour vous aider à mieux comprendre vos réactions, développer vos ressources personnelles et parentales et renforcer les relations avec vos enfants.
+
+**Mon approche est clinique, empathique et respectueuse du rythme de chacun**, visant à soutenir les ressources psychiques, favoriser l'apaisement et redonner du sens à l'expérience vécue. Vous avez la possibilité de venir me consulter dans un cadre chaleureux en toute bienveillance.
 
 ### Mes valeurs
-- **Écoute active** : Je vous offre un espace où vous pouvez vous exprimer librement
-- **Bienveillance** : Un cadre sans jugement où vous êtes accepté tel que vous êtes
+- **Écoute active et empathie** : Un espace où vous pouvez vous exprimer librement
+- **Bienveillance** : Un cadre sans jugement, chaleureux
+- **Respect du rythme** : Chacun avance à son propre rythme
 - **Confidentialité** : Le secret professionnel est au cœur de ma pratique
-- **Respect** : Respect de votre rythme et de vos choix
+- **Approche clinique** : Basée sur mes formations et mon expérience
 
 ## Pour qui ?
 
@@ -61,61 +70,74 @@ Mon accompagnement concerne les adultes et le soutien à la parentalité. Pour l
 
 ## Mes domaines d'expertise
 
-### Périnatalité
+### Clinique adulte
+J'accompagne les adultes pour :
+- Anxiété
+- Dépression
+- Burn-out
+- Deuil
+- Mal-être et difficultés émotionnelles
+- Besoin de prise de recul ou d'introspection
+- Périodes de transition
+- Démarche personnelle de connaissance de soi
 
-La **périnatalité** est au cœur de ma pratique. J'accompagne :
-- Les femmes enceintes et leur conjoint
-- La **dépression post-partum**
-- Les difficultés d'attachement mère-enfant
-- Les angoisses liées à la grossesse
-- La **psychologie du nourrisson**
-- L'accompagnement précoce parent-bébé
+### Conception et projet d'enfant
+- Désir d'enfant
+- Accompagnement **Procréation Médicalement Assistée (PMA)**
+- Parcours d'adoption
+- Difficultés liées à la conception
 
-### Procréation Médicalement Assistée (PMA)
+### Grossesse
+- Déni de grossesse
+- Anxiété pendant la grossesse
+- Préparation psychique à la naissance
+- Accompagnement émotionnel durant la grossesse
 
-J'accompagne les couples et personnes seules dans leur **parcours PMA** :
-- Soutien face aux difficultés de conception
-- Accompagnement pendant les traitements
-- Gestion des émotions (espoir, déception, épuisement)
-- Aide à la prise de décision
-- Vécu de l'échec et du deuil du projet d'enfant
+### Post-partum
+- Accouchement difficile
+- Baby blues
+- **Dépression post-partum**
+- Difficultés d'interactions précoces
+- Allaitement difficile (aspect psychologique)
+- Adaptation à la parentalité
 
-### Accompagnement du deuil
+### Deuil périnatal
+Accompagnement spécifique du deuil périnatal dans toutes ses dimensions.
 
-Le **deuil** prend différentes formes et j'accompagne :
-- Deuil périnatal (fausse couche, IMG, mort in utero)
-- Perte d'un proche
-- Deuil traumatique
-- Deuil compliqué ou pathologique
-- Accompagnement dans les différentes étapes du deuil
+### Toute petite enfance (0-2 ans)
+- **1000 premiers jours** et ses défis
+- Développement de l'enfant
+- Relation parents-bébé
+- Observation des interactions précoces
+
+### Parentalité et guidance parentale
+- Épuisement parental
+- Difficultés éducatives
+- Soutien parental
+- Guidance parentale
+- Anxiété dans son rôle parental
+- Soutien dans vos compétences parentales
+- Difficultés de coparentalité
+- **Relation parents-enfant et attachement**
 
 ### Troubles anxieux et dépressifs
-
-Je propose un accompagnement pour :
-- **Troubles anxieux** : anxiété généralisée, crises d'angoisse, anxiété liée à la grossesse
-- **Troubles dépressifs** : dépression, dépression post-partum, épisodes dépressifs
-- Stress post-traumatique
-
-### Guidance parentale
-
-**Accompagnement à la parentalité** pour :
-- Soutien dans les premières semaines avec bébé
-- Difficultés éducatives
-- Renforcement du lien parent-enfant
-- Développement des compétences parentales
-- Gestion des pleurs, du sommeil, de l'alimentation
+Prise en charge des troubles anxieux et troubles dépressifs dans une approche clinique.
 
 ## Ma méthode de travail
 
-Mon accompagnement s'adapte à chaque personne et à chaque situation. J'utilise des approches variées selon les besoins :
+Mon accompagnement s'adapte à chaque personne et à chaque situation dans une **approche clinique**.
 
-- **Entretiens cliniques** : pour comprendre votre situation
-- **Approche psychodynamique** : pour explorer les enjeux inconscients
+Je travaille avec :
+- **Entretiens cliniques** : écoute et compréhension de votre situation
+- **Approche empathique** : dans le respect de votre rythme
 - **Soutien psychologique** : pour traverser les périodes difficiles
-- **Psychologie périnatale** : techniques spécifiques à la période périnatale
+- **Espace de réflexion** : pour donner du sens à votre expérience
 
-### Avec les nourrissons et jeunes enfants
-J'observe et j'évalue le développement psycho-affectif du bébé dans la relation avec ses parents, en utilisant des outils adaptés à son âge.
+### Consultations spécifiques en périnatalité
+- **Avec les futurs parents** : préparation psychique, angoisses
+- **En post-partum** : baby blues, dépression, interactions précoces
+- **Avec bébé** : observation de la relation parent-enfant
+- **Pour les parents** : guidance et soutien parental
 
 ## Le cadre thérapeutique
 

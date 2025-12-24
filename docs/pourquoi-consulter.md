@@ -1,87 +1,73 @@
 ---
 sidebar_position: 2
 title: Pourquoi consulter ?
-description: Les différentes raisons qui peuvent vous amener à consulter un psychologue spécialisé en périnatalité
+description: Les différentes raisons qui peuvent vous amener à consulter
 ---
 
-# Pourquoi consulter un psychologue ?
+# Pourquoi consulter ?
 
-Consulter un psychologue n'est pas un signe de faiblesse, mais au contraire une démarche courageuse pour prendre soin de soi et de son bébé.
+Consulter un psychologue est une démarche courageuse pour prendre soin de sa santé mentale.
 
-## 🌟 Les bonnes raisons de consulter
+## 🌟 Motifs de consultations
 
-### Vous êtes enceinte ou jeune parent
+### Clinique adulte
 
-La grossesse et l'arrivée d'un bébé sont des périodes de bouleversements :
+Vous pouvez me consulter si vous traversez :
+- **Anxiété** persistante ou envahissante
+- **Dépression** ou tristesse durable
+- **Burn-out** ou épuisement professionnel
+- **Deuil** difficile à traverser
+- **Mal-être** général
+- **Difficultés émotionnelles** qui impactent votre quotidien
+- Besoin de **prise de recul** ou d'**introspection**
+- **Périodes de transition** (changement de vie, questionnements)
+- Démarche personnelle de **connaissance de soi**
 
-- **Anxiété pendant la grossesse**
-- **Dépression post-partum** ou baby blues qui persiste
-- **Difficulté à créer le lien** avec votre bébé
-- **Épuisement parental**
-- **Peur de mal faire** ou manque de confiance
-- **Difficultés d'allaitement** avec impact émotionnel
-- **Inquiétudes sur le développement** de votre nourrisson
-- **Besoin de guidance parentale**
+### Conception et désir d'enfant
 
-### Vous êtes en parcours PMA
+Je vous accompagne dans :
+- Le **désir d'enfant** et ses questionnements
+- Le parcours de **PMA (Procréation Médicalement Assistée)**
+- Le projet d'**adoption**
+- Les **difficultés de conception** et leur impact émotionnel
 
-Le parcours de Procréation Médicalement Assistée est éprouvant :
+### Grossesse
 
-- **Difficultés de conception** qui durent
-- **Stress lié aux traitements** et protocoles
-- **Échecs répétés** et sentiment d'épuisement
-- **Impact sur le couple** et la vie quotidienne
-- **Questionnements** et décisions difficiles
-- **Besoin de soutien émotionnel** tout au long du parcours
-- **Deuil du projet d'enfant** si arrêt du parcours
+Accompagnement durant la grossesse pour :
+- **Déni de grossesse**
+- **Anxiété** liée à la grossesse
+- **Préparation psychique** à la naissance
+- Peurs et angoisses concernant l'accouchement
+- Changements physiques et psychiques
 
-### Vous vivez un deuil
+### Post-partum
 
-Le deuil prend différentes formes et nécessite un accompagnement :
+Après l'accouchement, je peux vous aider si vous vivez :
+- Un **accouchement difficile** (traumatisme)
+- Un **baby blues** qui persiste
+- Une **dépression post-partum**
+- Des **difficultés d'interactions précoces** avec votre bébé
+- Un **allaitement difficile** (aspect psychologique)
+- Des doutes sur vos capacités de parent
 
-#### Deuil périnatal
-- **Fausse couche** précoce ou tardive
-- **Interruption médicale de grossesse (IMG)**
-- **Mort in utero** ou mort néonatale
-- **Deuil d'un jumeau**
+### Parentalité
 
-#### Autres deuils
-- **Perte d'un proche**
-- **Deuil traumatique**
-- **Deuil compliqué** qui ne se résout pas
-- **Deuils multiples**
+Soutien à la parentalité pour :
+- **Épuisement parental** (fatigue intense, sentiment de débordement)
+- **Deuil périnatal** (fausse couche, IMG, mort in utero)
+- **Toute petite enfance** (1000 premiers jours, 0-2 ans) et ses défis
+- **Difficultés éducatives** avec votre enfant
+- Besoin de **soutien parental** ou **guidance parentale**
+- **Anxiété dans votre rôle parental**
+- Besoin de soutien dans vos **compétences parentales**
+- **Difficultés de coparentalité**
+- Questions sur la **relation parents-enfant** et l'**attachement**
 
-### Vous ressentez une souffrance psychologique
+### Troubles anxieux et dépressifs
 
-Certains symptômes doivent vous alerter :
-
-#### Troubles anxieux
-- **Anxiété généralisée** persistante
-- **Crises d'angoisse** ou attaques de panique
-- **Anxiété liée à la grossesse** ou à la parentalité
-- **Peurs** envahissantes concernant le bébé
-- **TOC** liés à la parentalité
-- **Stress post-traumatique** (accouchement difficile, etc.)
-
-#### Troubles dépressifs
-- **Dépression post-partum** au-delà du baby blues
-- **Épisode dépressif** majeur
-- **Tristesse persistante** et perte de plaisir
-- **Pensées négatives** envahissantes
-- **Sentiment d'incapacité** ou de dévalorisation
-- **Idées noires**
-
-### Vous avez besoin de guidance parentale
-
-Être parent s'apprend, et il est normal d'avoir besoin d'aide :
-
-- **Pleurs excessifs** du bébé et sentiment d'impuissance
-- **Difficultés de sommeil** qui épuisent
-- **Problèmes d'alimentation** (allaitement, diversification)
-- **Gestion des émotions** de l'enfant
-- **Questions éducatives**
-- **Renforcement du lien parent-enfant**
-- **Développement des compétences parentales**
+Prise en charge des :
+- **Troubles anxieux**
+- **Troubles dépressifs**
 
 ## ❓ Quand exactement consulter ?
 
@@ -93,39 +79,23 @@ Certains symptômes doivent vous alerter :
 - Vous avez des **pensées suicidaires**
 - Vous **consommez** de l'alcool ou des drogues pour "tenir"
 
-### Il n'est jamais trop tôt
+## ❓ Quand exactement consulter ?
 
-Contrairement aux idées reçues, il n'est pas nécessaire d'attendre que la situation devienne critique. 
-Plus vous consultez tôt, plus il sera facile de trouver des solutions et de retrouver votre bien-être.
+N'attendez pas que la situation devienne critique. Plus tôt vous consultez, plus il sera facile de trouver des solutions et de retrouver votre bien-être.
 
-## 🤝 Comment ça fonctionne ?
+Il n'y a pas de "bon" ou de "mauvais" motif pour consulter. Si vous ressentez le besoin d'en parler, c'est déjà une raison suffisante.
 
-1. **Prenez rendez-vous** sur Doctolib
-2. **Venez à la première séance** pour faire connaissance
-3. **Ensemble**, nous définissons vos objectifs
-4. **Nous avançons** à votre rythme
-5. **Vous décidez** quand arrêter l'accompagnement
+## 🎯 Prendre rendez-vous
 
-## 💪 Consulter, c'est...
-
-- ✅ Prendre soin de sa **santé mentale**
-- ✅ Se donner les moyens d'aller **mieux**
-- ✅ Avoir un espace pour **s'exprimer librement**
-- ✅ Bénéficier d'un **regard professionnel** bienveillant
-- ✅ Apprendre à mieux se **connaître**
-- ✅ Développer ses **ressources personnelles**
-- ✅ **Investir** dans son bien-être
-
-## 🎯 Et concrètement ?
-
-[📅 **Prendre rendez-vous maintenant**](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
+[📅 **Réserver une consultation sur Doctolib**](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
 
 Vous hésitez encore ? C'est normal. N'hésitez pas à me poser vos questions via la messagerie Doctolib.
 
 ---
 
-:::tip Rappel
-Il n'y a pas de "bon" ou de "mauvais" motif pour consulter. 
-Si vous ressentez le besoin d'en parler, c'est déjà une raison suffisante.
+:::warning Rappel important
+⚠️ Je ne propose pas de suivis psychologiques pour les enfants et adolescents.
+
+Mon accompagnement s'adresse aux adultes, futurs parents, jeunes parents et parents d'enfants de tout âge (dans le cadre du soutien parental).
 :::
 

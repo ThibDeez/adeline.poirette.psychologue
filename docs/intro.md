@@ -14,34 +14,49 @@ Bienvenue sur la page d'informations pratiques du cabinet d'Adeline Poirette, ps
 Je reçois uniquement des **adultes** (en individuel, couple ou famille) et propose un accompagnement à la parentalité. Les consultations avec bébé concernent la relation parent-enfant dans le cadre du soutien parental.
 :::
 
-## 🏥 Quand consulter un psychologue ?
+## 🏥 Quand consulter ?
 
-Consulter un psychologue peut être bénéfique dans de nombreuses situations :
+### Motifs de consultations possibles
 
-### Périnatalité et parentalité
-- Vous êtes enceinte et vous ressentez de l'anxiété
-- Vous venez d'accoucher et vous ne vous sentez pas bien (dépression post-partum)
-- Vous avez des difficultés à créer le lien avec votre bébé
-- Vous avez besoin d'un soutien dans votre rôle de parent
-- Vous avez des inquiétudes sur le développement de votre nourrisson
+#### Clinique adulte
+- Anxiété
+- Dépression
+- Burn-out
+- Deuil
+- Mal-être
+- Difficultés émotionnelles
+- Besoin de prise de recul ou d'introspection
+- Périodes de transition
+- Démarche personnelle de connaissance de soi
 
-### Parcours PMA
-- Vous vivez des difficultés de conception
-- Vous êtes en parcours de Procréation Médicalement Assistée
-- Vous avez besoin de soutien face aux échecs ou aux traitements
-- Vous devez faire face à des décisions difficiles
+#### Conception et désir d'enfant
+- Désir d'enfant
+- Parcours PMA (Procréation Médicalement Assistée)
+- Adoption
+- Difficultés de conception
 
-### Deuil
-- Vous avez perdu un proche
-- Vous avez vécu un deuil périnatal (fausse couche, IMG, mort in utero)
-- Vous n'arrivez pas à faire votre deuil
-- Le deuil est traumatique ou compliqué
+#### Grossesse
+- Déni de grossesse
+- Anxiété pendant la grossesse
+- Préparation psychique à la naissance
 
-### Troubles psychologiques
-- Vous ressentez de l'anxiété persistante ou des crises d'angoisse
-- Vous êtes confronté à la dépression
-- Vous avez vécu un traumatisme
-- Vous avez besoin d'un accompagnement thérapeutique
+#### Post-partum
+- Accouchement difficile
+- Baby blues
+- Dépression post-partum
+- Difficultés d'interactions précoces
+- Allaitement difficile
+
+#### Parentalité
+- Épuisement parental
+- Deuil périnatal
+- Toute petite enfance (1000 premiers jours, 0-2 ans) et ses défis
+- Difficultés éducatives
+- Soutien parental, guidance parentale
+- Anxiété dans son rôle parental
+- Soutien dans vos compétences
+- Difficultés de coparentalité
+- Relation parents-enfant et attachement
 
 :::tip Bon à savoir
 Il n'est pas nécessaire d'attendre que la situation devienne critique pour consulter. 
@@ -51,28 +66,23 @@ Au contraire, plus tôt on consulte, plus vite on peut trouver des solutions ada
 ## 📋 Déroulement d'une séance
 
 ### Première consultation
-La première séance est essentielle. Elle permet de :
+La première séance permet de :
 - Faire connaissance dans un cadre bienveillant
 - Exposer les raisons de votre venue
-- Définir ensemble vos objectifs
-- Établir un cadre thérapeutique adapté
+- Définir ensemble vos besoins
+- Établir le cadre de l'accompagnement
 
 ### Séances suivantes
 - **Durée** : environ 45-50 minutes
-- **Fréquence** : variable selon les besoins (hebdomadaire, bimensuelle, mensuelle)
-- **Contenu** : écoute, échanges, techniques thérapeutiques adaptées
+- **Fréquence** : adaptée à vos besoins (hebdomadaire, bimensuelle, mensuelle)
+- **Approche** : clinique, empathique et respectueuse de votre rythme
 
-### Pour les nourrissons et jeunes enfants (0-2 ans)
-- Les parents sont présents durant la séance
-- Observation du développement psycho-affectif du bébé
-- Travail sur la relation parent-enfant et l'attachement
-- Accompagnement des interactions précoces
-- Communication régulière avec les parents sur l'évolution
-
-### Consultations spécifiques
-- **Consultations en couple** : pour les difficultés liées à la grossesse, la parentalité ou le projet d'enfant
-- **Consultations en famille** : pour aborder les dynamiques familiales
-- **Consultations avec bébé** : pour observer et accompagner la relation parent-bébé
+### Modalités de consultation
+Je peux vous recevoir :
+- **En individuel**
+- **En couple**
+- **Avec votre bébé** (dans le cadre de consultations précoces parent-enfant)
+- **En famille**
 
 ## 💳 Tarifs et remboursements
 

@@ -18,7 +18,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">Psychologue clinicienne à Saint-Amand-les-Eaux</p>
         <p className="hero__subtitle" style={{fontSize: '1.2rem', marginTop: '1rem'}}>
-          Spécialisée en périnatalité, accompagnement du deuil et troubles anxio-dépressifs
+          Spécialisée en périnatalité et accompagnement à la parentalité
         </p>
         <div className={styles.buttons}>
           <Link
@@ -45,23 +45,33 @@ function AboutSection() {
             </Heading>
             <div style={{maxWidth: '800px', margin: '0 auto', fontSize: '1.1rem'}}>
               <p>
-                Bienvenue sur mon site. Je suis <strong>Adeline Poirette</strong>, psychologue clinicienne
-                spécialisée en <strong>périnatalité</strong> et installée à <strong>Saint-Amand-les-Eaux</strong>.
-              </p>
-              <p>
                 Je propose des <strong>accompagnements psychologiques pour adultes</strong> traversant un mal-être,
-                des difficultés émotionnelles, de l'anxiété, ou vivant des périodes de transition.
-                Mon expertise particulière concerne la <strong>période périnatale</strong> : grossesse, post-partum,
-                parcours PMA, deuil périnatal, et accompagnement à la parentalité.
+                des difficultés émotionnelles, de l'anxiété, un besoin de prise de recul ou d'introspection,
+                des périodes de transition, une situation de deuil, une démarche personnelle de connaissance de soi...
               </p>
               <p>
-                Je peux vous recevoir <strong>en individuel, en couple, avec votre bébé ou en famille</strong>.
-                Mon approche est clinique, empathique et respectueuse de votre rythme, visant à soutenir vos
-                ressources psychiques et redonner du sens à votre expérience.
+                Je suis <strong>spécialisée en périnatalité et accompagnement à la parentalité</strong>.
+                J'offre une prise en charge pensée pour les parents et futurs parents pendant la grossesse et
+                le post-partum ainsi que les situations liées à la parentalité grâce à un espace de réflexion.
               </p>
-              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: '#f0f8ff', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '4px'}}>
-                <p style={{margin: 0, fontSize: '0.95rem'}}>
-                  ⚠️ <strong>Important</strong> : Je ne propose pas de suivis psychologiques pour les enfants et adolescents.
+              <p>
+                La période périnatale est souvent remplie de joie mais peut s'accompagner légitimement de doutes,
+                d'angoisses et de nombreux questionnements. Je suis disponible pour vous accompagner dans ces
+                changements physiques et psychiques. Je peux vous recevoir <strong>en individuel, en couple,
+                avec votre bébé ou en famille</strong>.
+              </p>
+              <p>
+                Je propose des <strong>suivis psychologiques parentaux</strong> (pour parents d'enfants de tout âge)
+                pour vous aider à mieux comprendre vos réactions, développer vos ressources personnelles et
+                parentales et renforcer les relations avec vos enfants.
+              </p>
+              <p style={{fontSize: '0.95rem', fontStyle: 'italic'}}>
+                Mon approche est clinique, empathique et respectueuse du rythme de chacun, visant à soutenir
+                les ressources psychiques, favoriser l'apaisement et redonner du sens à l'expérience vécue.
+              </p>
+              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: '#fff3cd', border: '1px solid #ffc107', borderRadius: '8px'}}>
+                <p style={{margin: 0, fontSize: '1rem', fontWeight: 'bold', color: '#856404'}}>
+                  ⚠️ Je ne propose pas de suivis psychologiques pour les enfants et adolescents.
                 </p>
               </div>
             </div>

@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Adeline Poirette - Psychologue à Saint-Amand-les-Eaux',
-  tagline: 'Psychologue clinicienne spécialisée en périnatalité, deuil et troubles anxio-dépressifs',
+  tagline: 'Psychologue clinicienne spécialisée en périnatalité et accompagnement à la parentalité',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
