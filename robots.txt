@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thibdeez.github.io/adeline.poirette.psychologue/sitemap.xml
+
