@@ -10,12 +10,11 @@ export default function Root({children}) {
             "@context": "https://schema.org",
             "@type": "Psychologist",
             "name": "Adeline Poirette",
-            "description": "Psychologue à Saint-Amand-les-Eaux. Accompagnement psychologique pour enfants, adolescents et adultes.",
+            "description": "Psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux. Accompagnement psychologique des adultes, futurs parents, jeunes parents. Dépression post-partum, PMA, deuil périnatal, guidance parentale.",
             "url": "https://thibdeez.github.io/adeline.poirette.psychologue/",
-            "telephone": "+33-XXX-XXX-XXX",
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "Saint-Amand-les-Eaux",
+              "streetAddress": "13 Rue du 18 Juin 1940",
               "addressLocality": "Saint-Amand-les-Eaux",
               "postalCode": "59230",
               "addressCountry": "FR"
@@ -36,23 +35,37 @@ export default function Root({children}) {
                   "Friday"
                 ],
                 "opens": "09:00",
-                "closes": "19:00"
+                "closes": "12:30"
               }
             ],
             "priceRange": "50€",
-            "paymentAccepted": ["Cash", "Check"],
+            "paymentAccepted": ["Cash", "Credit Card"],
             "areaServed": {
               "@type": "City",
               "name": "Saint-Amand-les-Eaux"
             },
             "availableLanguage": ["French"],
-            "medicalSpecialty": "Psychology",
+            "medicalSpecialty": ["Perinatal Psychology", "Clinical Psychology"],
             "serviceType": [
               "Consultation psychologique",
-              "Psychothérapie",
-              "Accompagnement enfants",
-              "Accompagnement adolescents",
-              "Accompagnement adultes"
+              "Périnatalité",
+              "Accompagnement à la parentalité",
+              "Dépression post-partum",
+              "Accompagnement PMA",
+              "Deuil périnatal",
+              "Guidance parentale"
+            ],
+            "hasCredential": [
+              {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Numéro ADELI",
+                "name": "599326485"
+              },
+              {
+                "@type": "EducationalOccupationalCredential",
+                "credentialCategory": "Numéro RPPS",
+                "name": "10009288001"
+              }
             ]
           })
         }}

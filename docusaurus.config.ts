@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Adeline Poirette - Psychologue à Saint-Amand-les-Eaux',
-  tagline: 'Accompagnement psychologique personnalisé pour enfants, adolescents et adultes',
+  tagline: 'Psychologue clinicienne spécialisée en périnatalité, deuil et troubles anxio-dépressifs',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -41,7 +41,7 @@ const config: Config = {
       tagName: 'meta',
       attributes: {
         name: 'keywords',
-        content: 'psychologue, Saint-Amand-les-Eaux, Adeline Poirette, thérapie, consultation psychologique, anxiété, dépression, accompagnement, enfants, adolescents, adultes, psychothérapie, soutien psychologique',
+        content: 'psychologue, Saint-Amand-les-Eaux, périnatalité, dépression post-partum, PMA, procréation médicalement assistée, deuil, accompagnement deuil, troubles anxieux, troubles dépressifs, guidance parentale, psychologie du nourrisson, psychologue clinicienne',
       },
     },
     {

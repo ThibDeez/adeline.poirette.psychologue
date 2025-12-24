@@ -1,167 +1,87 @@
 ---
 sidebar_position: 2
 title: Pourquoi consulter ?
-description: Les différentes raisons qui peuvent vous amener à consulter un psychologue
+description: Les différentes raisons qui peuvent vous amener à consulter un psychologue spécialisé en périnatalité
 ---
 
 # Pourquoi consulter un psychologue ?
 
-Consulter un psychologue n'est pas un signe de faiblesse, mais au contraire une démarche courageuse pour prendre soin de soi.
+Consulter un psychologue n'est pas un signe de faiblesse, mais au contraire une démarche courageuse pour prendre soin de soi et de son bébé.
 
 ## 🌟 Les bonnes raisons de consulter
 
-### Vous traversez une période difficile
+### Vous êtes enceinte ou jeune parent
 
-La vie est parsemée d'épreuves et il est normal de ne pas toujours savoir comment les affronter :
+La grossesse et l'arrivée d'un bébé sont des périodes de bouleversements :
 
-- **Séparation ou divorce**
-- **Deuil** d'un proche
-- **Perte d'emploi** ou difficultés professionnelles
-- **Maladie** (la vôtre ou celle d'un proche)
-- **Déménagement** ou changement important
-- **Conflits familiaux** ou relationnels
+- **Anxiété pendant la grossesse**
+- **Dépression post-partum** ou baby blues qui persiste
+- **Difficulté à créer le lien** avec votre bébé
+- **Épuisement parental**
+- **Peur de mal faire** ou manque de confiance
+- **Difficultés d'allaitement** avec impact émotionnel
+- **Inquiétudes sur le développement** de votre nourrisson
+- **Besoin de guidance parentale**
+
+### Vous êtes en parcours PMA
+
+Le parcours de Procréation Médicalement Assistée est éprouvant :
+
+- **Difficultés de conception** qui durent
+- **Stress lié aux traitements** et protocoles
+- **Échecs répétés** et sentiment d'épuisement
+- **Impact sur le couple** et la vie quotidienne
+- **Questionnements** et décisions difficiles
+- **Besoin de soutien émotionnel** tout au long du parcours
+- **Deuil du projet d'enfant** si arrêt du parcours
+
+### Vous vivez un deuil
+
+Le deuil prend différentes formes et nécessite un accompagnement :
+
+#### Deuil périnatal
+- **Fausse couche** précoce ou tardive
+- **Interruption médicale de grossesse (IMG)**
+- **Mort in utero** ou mort néonatale
+- **Deuil d'un jumeau**
+
+#### Autres deuils
+- **Perte d'un proche**
+- **Deuil traumatique**
+- **Deuil compliqué** qui ne se résout pas
+- **Deuils multiples**
 
 ### Vous ressentez une souffrance psychologique
 
-Certains symptômes peuvent vous alerter :
+Certains symptômes doivent vous alerter :
 
-- **Anxiété** persistante ou crises d'angoisse
-- **Tristesse** qui ne passe pas, sensation de vide
-- **Perte de motivation** et de plaisir dans vos activités
-- **Troubles du sommeil** (insomnie, cauchemars)
-- **Fatigue chronique** inexpliquée
-- **Irritabilité** ou sautes d'humeur
-- **Pensées négatives** récurrentes
-- **Perte ou gain de poids** important
+#### Troubles anxieux
+- **Anxiété généralisée** persistante
+- **Crises d'angoisse** ou attaques de panique
+- **Anxiété liée à la grossesse** ou à la parentalité
+- **Peurs** envahissantes concernant le bébé
+- **TOC** liés à la parentalité
+- **Stress post-traumatique** (accouchement difficile, etc.)
 
-### Vous souhaitez mieux vous connaître
+#### Troubles dépressifs
+- **Dépression post-partum** au-delà du baby blues
+- **Épisode dépressif** majeur
+- **Tristesse persistante** et perte de plaisir
+- **Pensées négatives** envahissantes
+- **Sentiment d'incapacité** ou de dévalorisation
+- **Idées noires**
 
-La consultation psychologique n'est pas réservée aux situations de crise :
+### Vous avez besoin de guidance parentale
 
-- Développer votre **confiance en vous**
-- Travailler sur votre **estime de soi**
-- Améliorer votre **gestion des émotions**
-- Mieux comprendre vos **schémas relationnels**
-- Faire le point sur votre **parcours de vie**
-- Définir vos **objectifs personnels**
+Être parent s'apprend, et il est normal d'avoir besoin d'aide :
 
-### Vous avez des difficultés relationnelles
-
-Les relations avec les autres peuvent être source de souffrance :
-
-- **Problèmes de couple**
-- **Difficultés parentales**
-- **Conflits avec vos collègues**
-- **Isolement social**
-- **Difficulté à créer des liens**
-- **Relations toxiques**
-- **Dépendance affective**
-
-### Vous avez vécu un traumatisme
-
-Certains événements peuvent laisser des traces profondes :
-
-- **Accident**
-- **Agression** (physique, sexuelle, verbale)
-- **Harcèlement** (scolaire, professionnel)
-- **Violences** (conjugales, familiales)
-- **Attentat** ou catastrophe
-- **Témoin d'événements traumatisants**
-
-## 👶 Pour votre enfant ou adolescent
-
-### Signes qui doivent vous alerter chez l'enfant
-
-- **Changement brutal de comportement**
-- **Régression** (énurésie, retour à des comportements de "bébé")
-- **Troubles du sommeil** ou cauchemars fréquents
-- **Anxiété de séparation** excessive
-- **Peurs** ou phobies handicapantes
-- **Agressivité** ou opposition systématique
-- **Tristesse** ou pleurs fréquents
-- **Difficultés scolaires** soudaines
-- **Repli sur soi** ou isolement
-
-### Signes chez l'adolescent
-
-- **Décrochage scolaire**
-- **Repli sur soi**, isolement
-- **Changements d'humeur** importants
-- **Comportements à risque** (alcool, drogues, conduites dangereuses)
-- **Troubles alimentaires** (anorexie, boulimie)
-- **Difficultés relationnelles** avec les pairs
-- **Conflits familiaux** intenses
-- **Baisse de l'estime de soi**
-- **Pensées négatives** ou idées suicidaires
-
-### Situations particulières
-
-- **Séparation des parents**
-- **Arrivée d'un nouveau bébé**
-- **Déménagement**
-- **Difficultés scolaires** (échec, harcèlement)
-- **Troubles de l'attention** (TDAH suspecté)
-- **Hypersensibilité**
-- **Haut potentiel intellectuel**
-
-## 💼 Burnout et difficultés professionnelles
-
-Le monde du travail peut être source de souffrance :
-
-### Signes du burnout
-
-- **Épuisement physique et émotionnel**
-- **Perte de sens** au travail
-- **Cynisme** et détachement
-- **Baisse de performance**
-- **Difficultés de concentration**
-- **Troubles du sommeil**
-- **Irritabilité** accrue
-- **Symptômes physiques** (douleurs, migraines)
-
-### Autres difficultés professionnelles
-
-- **Conflits** avec la hiérarchie ou les collègues
-- **Harcèlement** moral ou sexuel
-- **Reconversion** professionnelle
-- **Perte d'emploi**
-- **Difficulté à trouver sa place**
-- **Syndrome de l'imposteur**
-
-## 🧠 Troubles psychologiques spécifiques
-
-### Troubles anxieux
-
-- **Anxiété généralisée**
-- **Trouble panique** (crises d'angoisse)
-- **Phobies** spécifiques ou sociales
-- **TOC** (Troubles Obsessionnels Compulsifs)
-- **Stress post-traumatique**
-- **Anxiété de performance**
-
-### Troubles de l'humeur
-
-- **Dépression**
-- **Dysthymie** (dépression chronique)
-- **Troubles bipolaires** (avec suivi psychiatrique)
-- **Fluctuations émotionnelles** importantes
-
-### Troubles alimentaires
-
-- **Anorexie**
-- **Boulimie**
-- **Hyperphagie**
-- **Orthorexie**
-- Rapport difficile avec la nourriture
-
-### Addictions
-
-- **Alcool**
-- **Tabac**
-- **Drogues**
-- **Jeux** (vidéo, argent)
-- **Écrans** et internet
-- **Travail** (workaholisme)
+- **Pleurs excessifs** du bébé et sentiment d'impuissance
+- **Difficultés de sommeil** qui épuisent
+- **Problèmes d'alimentation** (allaitement, diversification)
+- **Gestion des émotions** de l'enfant
+- **Questions éducatives**
+- **Renforcement du lien parent-enfant**
+- **Développement des compétences parentales**
 
 ## ❓ Quand exactement consulter ?
 

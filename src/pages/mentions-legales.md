@@ -8,10 +8,10 @@ description: Informations légales du site
 ## Éditeur du site
 
 **Nom :** Adeline Poirette  
-**Activité :** Psychologue  
-**Adresse :** Saint-Amand-les-Eaux, 59230, France  
-**Email :** [Votre email professionnel]  
-**Numéro ADELI :** [À compléter]  
+**Activité :** Psychologue clinicienne  
+**Adresse :** 13 Rue du 18 Juin 1940, 59230 Saint-Amand-les-Eaux, France  
+**Numéro ADELI :** 599326485  
+**Numéro RPPS :** 10009288001  
 
 ## Hébergement
 

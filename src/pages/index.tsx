@@ -16,9 +16,9 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           Adeline Poirette
         </Heading>
-        <p className="hero__subtitle">Psychologue à Saint-Amand-les-Eaux</p>
+        <p className="hero__subtitle">Psychologue clinicienne à Saint-Amand-les-Eaux</p>
         <p className="hero__subtitle" style={{fontSize: '1.2rem', marginTop: '1rem'}}>
-          Accompagnement psychologique personnalisé pour enfants, adolescents et adultes
+          Spécialisée en périnatalité, accompagnement du deuil et troubles anxio-dépressifs
         </p>
         <div className={styles.buttons}>
           <Link
@@ -45,19 +45,25 @@ function AboutSection() {
             </Heading>
             <div style={{maxWidth: '800px', margin: '0 auto', fontSize: '1.1rem'}}>
               <p>
-                Bienvenue sur mon site. Je suis <strong>Adeline Poirette</strong>, psychologue diplômée
-                et installée à <strong>Saint-Amand-les-Eaux</strong>.
+                Bienvenue sur mon site. Je suis <strong>Adeline Poirette</strong>, psychologue clinicienne
+                spécialisée en <strong>périnatalité</strong> et installée à <strong>Saint-Amand-les-Eaux</strong>.
               </p>
               <p>
-                Mon cabinet accueille <strong>enfants, adolescents et adultes</strong> dans un cadre
-                bienveillant et confidentiel. Mon approche se veut humaine et personnalisée,
-                adaptée aux besoins spécifiques de chaque personne.
+                Je propose des <strong>accompagnements psychologiques pour adultes</strong> traversant un mal-être,
+                des difficultés émotionnelles, de l'anxiété, ou vivant des périodes de transition.
+                Mon expertise particulière concerne la <strong>période périnatale</strong> : grossesse, post-partum,
+                parcours PMA, deuil périnatal, et accompagnement à la parentalité.
               </p>
               <p>
-                Que vous traversiez une période difficile, que vous souhaitiez faire le point sur
-                votre vie, ou que vous ayez besoin d'un accompagnement pour votre enfant,
-                je suis là pour vous écouter et vous accompagner dans votre démarche.
+                Je peux vous recevoir <strong>en individuel, en couple, avec votre bébé ou en famille</strong>.
+                Mon approche est clinique, empathique et respectueuse de votre rythme, visant à soutenir vos
+                ressources psychiques et redonner du sens à votre expérience.
               </p>
+              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: '#f0f8ff', borderLeft: '4px solid var(--ifm-color-primary)', borderRadius: '4px'}}>
+                <p style={{margin: 0, fontSize: '0.95rem'}}>
+                  ⚠️ <strong>Important</strong> : Je ne propose pas de suivis psychologiques pour les enfants et adolescents.
+                </p>
+              </div>
             </div>
           </div>
         </div>
@@ -84,8 +90,8 @@ function PricingSection() {
                 <strong>Moyens de paiement acceptés :</strong>
               </p>
               <ul>
-                <li>Chèque</li>
                 <li>Espèces</li>
+                <li>Carte bancaire</li>
               </ul>
               <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: 'var(--ifm-color-primary-lightest)', borderRadius: '8px'}}>
                 <p><strong>ℹ️ Information importante :</strong></p>
@@ -116,8 +122,12 @@ function ContactSection() {
               <h3>📍 Adresse</h3>
               <p>
                 <strong>Cabinet de Psychologie</strong><br />
-                Saint-Amand-les-Eaux<br />
-                59230, France
+                13 Rue du 18 Juin 1940<br />
+                59230 Saint-Amand-les-Eaux
+              </p>
+              <p style={{fontSize: '0.9rem', color: '#666', marginTop: '0.5rem'}}>
+                🅿️ Parking gratuit disponible<br />
+                ♿ Entrée accessible
               </p>
               <h3 style={{marginTop: '2rem'}}>📞 Contact</h3>
               <p>
@@ -137,18 +147,22 @@ function ContactSection() {
             <div className="card" style={{padding: '2rem', height: '100%'}}>
               <h3>🕐 Horaires</h3>
               <p>
-                Les horaires de consultation sont flexibles et s'adaptent à vos disponibilités.
+                Consultez les créneaux disponibles directement sur Doctolib.
               </p>
-              <p>
-                Consultez les créneaux disponibles directement sur Doctolib pour trouver
-                le rendez-vous qui vous convient le mieux.
+              <p style={{fontSize: '0.9rem'}}>
+                <strong>Exemple d'horaires :</strong><br />
+                Lundi au vendredi : 09h00 - 12h30 et après-midi
               </p>
               <h3 style={{marginTop: '2rem'}}>ℹ️ Bon à savoir</h3>
               <ul>
                 <li>Consultations sur rendez-vous uniquement</li>
-                <li>Cabinet accessible</li>
-                <li>Espace confidentiel et sécurisé</li>
+                <li>Reçoit en individuel, couple ou famille</li>
+                <li>Consultations avec bébé possibles</li>
+                <li>Cadre chaleureux et bienveillant</li>
               </ul>
+              <p style={{marginTop: '1rem', fontSize: '0.9rem', fontStyle: 'italic'}}>
+                ⚠️ Pas de suivi pour enfants et adolescents
+              </p>
             </div>
           </div>
         </div>
@@ -162,7 +176,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title="Accueil"
-      description="Adeline Poirette, psychologue à Saint-Amand-les-Eaux. Accompagnement psychologique pour enfants, adolescents et adultes. Consultations sur rendez-vous.">
+      description="Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux. Accompagnement des adultes, futurs parents et jeunes parents : dépression post-partum, PMA, deuil périnatal, guidance parentale.">
       <HomepageHeader />
       <main>
         <AboutSection />

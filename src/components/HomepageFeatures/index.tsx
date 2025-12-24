@@ -11,24 +11,46 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Enfants & Adolescents',
+    title: 'Périnatalité & Post-partum',
     emoji: '👶',
     description: (
       <>
-        Accompagnement des enfants et adolescents pour les difficultés scolaires,
-        troubles du comportement, anxiété, troubles de l'attention, estime de soi,
-        relations familiales et sociales.
+        Accompagnement psychologique pendant la grossesse et après l'accouchement.
+        Prise en charge de la dépression post-partum, des difficultés d'attachement,
+        et du soutien à la parentalité. Psychologie du nourrisson.
       </>
     ),
   },
   {
-    title: 'Adultes',
-    emoji: '🧑',
+    title: 'Accompagnement PMA',
+    emoji: '🤰',
     description: (
       <>
-        Soutien psychologique pour les adultes traversant des périodes difficiles :
-        stress, anxiété, dépression, burn-out, difficultés relationnelles,
-        transitions de vie, deuil.
+        Soutien psychologique dans le parcours de Procréation Médicalement Assistée.
+        Accompagnement des difficultés émotionnelles liées à l'infertilité, aux
+        traitements et au vécu du parcours PMA.
+      </>
+    ),
+  },
+  {
+    title: 'Accompagnement du deuil',
+    emoji: '🕊️',
+    description: (
+      <>
+        Accompagnement psychologique dans le processus de deuil : perte d'un proche,
+        deuil périnatal, deuil traumatique. Soutien pour traverser les étapes du deuil
+        et retrouver un équilibre de vie.
+      </>
+    ),
+  },
+  {
+    title: 'Troubles dépressifs',
+    emoji: '😔',
+    description: (
+      <>
+        Prise en charge de la dépression sous toutes ses formes : dépression post-partum,
+        dépression saisonnière, épisode dépressif majeur. Accompagnement pour retrouver
+        goût à la vie et motivation.
       </>
     ),
   },
@@ -37,42 +59,20 @@ const FeatureList: FeatureItem[] = [
     emoji: '😰',
     description: (
       <>
-        Prise en charge des troubles anxieux, crises d'angoisse, phobies,
-        troubles obsessionnels compulsifs (TOC), anxiété généralisée et
-        troubles du stress post-traumatique.
+        Accompagnement des troubles anxieux : anxiété généralisée, crises d'angoisse,
+        anxiété liée à la grossesse ou à la parentalité, stress post-traumatique.
+        Techniques pour apaiser l'anxiété.
       </>
     ),
   },
   {
-    title: 'Dépression',
-    emoji: '😔',
-    description: (
-      <>
-        Accompagnement dans la gestion de la dépression, troubles de l'humeur,
-        perte de motivation, tristesse persistante, et difficultés à retrouver
-        du sens dans sa vie.
-      </>
-    ),
-  },
-  {
-    title: 'Estime de soi',
-    emoji: '💪',
-    description: (
-      <>
-        Travail sur la confiance en soi, l'affirmation de soi, la gestion
-        des émotions, et le développement personnel pour mieux se connaître
-        et s'épanouir.
-      </>
-    ),
-  },
-  {
-    title: 'Relations & Famille',
+    title: 'Guidance parentale',
     emoji: '👨‍👩‍👧',
     description: (
       <>
-        Aide pour les difficultés relationnelles, conflits familiaux,
-        séparations, problèmes de couple, communication, et dynamiques
-        familiales complexes.
+        Accompagnement et soutien à la parentalité. Aide pour gérer les difficultés
+        éducatives, comprendre les besoins de son enfant, renforcer le lien parent-enfant
+        et développer ses compétences parentales.
       </>
     ),
   },

@@ -6,30 +6,42 @@ description: Tout ce qu'il faut savoir avant votre première consultation
 
 # Informations pratiques
 
-Bienvenue sur la page d'informations pratiques du cabinet d'Adeline Poirette, psychologue à Saint-Amand-les-Eaux.
+Bienvenue sur la page d'informations pratiques du cabinet d'Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux.
+
+:::warning Public reçu
+⚠️ **Important** : Je ne propose pas de suivis psychologiques pour les **enfants et adolescents**.
+
+Je reçois uniquement des **adultes** (en individuel, couple ou famille) et propose un accompagnement à la parentalité. Les consultations avec bébé concernent la relation parent-enfant dans le cadre du soutien parental.
+:::
 
 ## 🏥 Quand consulter un psychologue ?
 
 Consulter un psychologue peut être bénéfique dans de nombreuses situations :
 
-### Pour vous-même (adultes)
-- Vous traversez une période difficile (séparation, deuil, perte d'emploi)
-- Vous ressentez de l'anxiété, du stress ou de l'angoisse
-- Vous êtes confronté à la dépression ou à des troubles de l'humeur
-- Vous souhaitez mieux vous connaître et développer votre potentiel
-- Vous avez des difficultés relationnelles (couple, famille, travail)
-- Vous vivez un burn-out ou un épuisement professionnel
-- Vous avez vécu un traumatisme
+### Périnatalité et parentalité
+- Vous êtes enceinte et vous ressentez de l'anxiété
+- Vous venez d'accoucher et vous ne vous sentez pas bien (dépression post-partum)
+- Vous avez des difficultés à créer le lien avec votre bébé
+- Vous avez besoin d'un soutien dans votre rôle de parent
+- Vous avez des inquiétudes sur le développement de votre nourrisson
 
-### Pour votre enfant ou adolescent
-- Difficultés scolaires ou de concentration
-- Troubles du comportement
-- Anxiété, peurs, phobies
-- Troubles du sommeil
-- Difficultés relationnelles avec les pairs
-- Manque de confiance en soi
-- Changements importants dans la vie (séparation des parents, déménagement)
-- Troubles de l'attention (TDAH)
+### Parcours PMA
+- Vous vivez des difficultés de conception
+- Vous êtes en parcours de Procréation Médicalement Assistée
+- Vous avez besoin de soutien face aux échecs ou aux traitements
+- Vous devez faire face à des décisions difficiles
+
+### Deuil
+- Vous avez perdu un proche
+- Vous avez vécu un deuil périnatal (fausse couche, IMG, mort in utero)
+- Vous n'arrivez pas à faire votre deuil
+- Le deuil est traumatique ou compliqué
+
+### Troubles psychologiques
+- Vous ressentez de l'anxiété persistante ou des crises d'angoisse
+- Vous êtes confronté à la dépression
+- Vous avez vécu un traumatisme
+- Vous avez besoin d'un accompagnement thérapeutique
 
 :::tip Bon à savoir
 Il n'est pas nécessaire d'attendre que la situation devienne critique pour consulter. 
@@ -50,10 +62,17 @@ La première séance est essentielle. Elle permet de :
 - **Fréquence** : variable selon les besoins (hebdomadaire, bimensuelle, mensuelle)
 - **Contenu** : écoute, échanges, techniques thérapeutiques adaptées
 
-### Pour les enfants
-- Les parents sont présents lors du premier rendez-vous
-- Utilisation de supports ludiques et créatifs (jeux, dessins)
+### Pour les nourrissons et jeunes enfants (0-2 ans)
+- Les parents sont présents durant la séance
+- Observation du développement psycho-affectif du bébé
+- Travail sur la relation parent-enfant et l'attachement
+- Accompagnement des interactions précoces
 - Communication régulière avec les parents sur l'évolution
+
+### Consultations spécifiques
+- **Consultations en couple** : pour les difficultés liées à la grossesse, la parentalité ou le projet d'enfant
+- **Consultations en famille** : pour aborder les dynamiques familiales
+- **Consultations avec bébé** : pour observer et accompagner la relation parent-bébé
 
 ## 💳 Tarifs et remboursements
 
@@ -62,8 +81,8 @@ La première séance est essentielle. Elle permet de :
 - **Consultation enfant/adolescent** : 50€
 
 ### Moyens de paiement
-- Chèque
 - Espèces
+- Carte bancaire
 
 ### Remboursement
 Les consultations chez un psychologue en libéral ne sont généralement **pas remboursées par la Sécurité Sociale**.
@@ -96,9 +115,11 @@ Des points réguliers avec les parents permettent de faire le lien sans trahir l
 
 ## 📍 Accès au cabinet
 
-**Adresse** : Saint-Amand-les-Eaux, 59230
+**Adresse** : 13 Rue du 18 Juin 1940, 59230 Saint-Amand-les-Eaux
 
-Le cabinet est facilement accessible et dispose de places de stationnement à proximité.
+Le cabinet est facilement accessible avec :
+- 🅿️ **Parking gratuit** disponible
+- ♿ **Entrée accessible** (PMR)
 
 ## 📞 Contact
 
@@ -106,6 +127,7 @@ Pour toute question avant votre première consultation, n'hésitez pas à me con
 
 ---
 
-*Adeline Poirette - Psychologue*  
-*N° ADELI : [À compléter si souhaité]*
+*Adeline Poirette - Psychologue clinicienne*  
+*N° ADELI : 599326485*  
+*N° RPPS : 10009288001*
 
