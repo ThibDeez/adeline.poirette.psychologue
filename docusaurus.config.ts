@@ -116,6 +116,7 @@ const config: Config = {
           label: 'Informations pratiques',
           position: 'left',
         },
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
           label: 'Prendre rendez-vous',
