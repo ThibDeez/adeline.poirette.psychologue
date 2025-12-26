@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8F7FC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EEE9F5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7B68B6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9B8BC6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8A0BF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D8849F;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Fond -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+
+  <!-- Éléments décoratifs -->
+  <circle cx="100" cy="100" r="150" fill="url(#logoGrad)" opacity="0.05"/>
+  <circle cx="1100" cy="530" r="120" fill="url(#heartGrad)" opacity="0.05"/>
+  <circle cx="950" cy="150" r="80" fill="url(#logoGrad)" opacity="0.08"/>
+
+  <!-- Logo principal agrandi -->
+  <g transform="translate(200, 315)">
+    <circle cx="0" cy="0" r="120" fill="url(#logoGrad)" opacity="0.12"/>
+    <g transform="scale(2.2)">
+      <ellipse cx="0" cy="-10" rx="13" ry="18" fill="url(#logoGrad)" opacity="0.9"/>
+      <circle cx="0" cy="-23" r="9" fill="url(#logoGrad)"/>
+      <ellipse cx="9" cy="0" rx="8" ry="11" fill="url(#heartGrad)" opacity="0.95"/>
+      <circle cx="9" cy="-8" r="6" fill="url(#heartGrad)"/>
+      <path d="M -8,-5 Q 2,-2 8,-4" stroke="url(#logoGrad)" stroke-width="3.5" fill="none" stroke-linecap="round" opacity="0.8"/>
+    </g>
+  </g>
+
+  <!-- Contenu texte -->
+  <g transform="translate(400, 250)">
+    <!-- Nom -->
+    <text x="0" y="0" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="700" fill="#2E3440">
+      Adeline Poirette
+    </text>
+
+    <!-- Titre principal -->
+    <text x="0" y="70" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#7B68B6">
+      Psychologue clinicienne
+    </text>
+
+    <!-- Spécialité -->
+    <text x="0" y="120" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="28" fill="#E8A0BF" font-weight="500">
+      Spécialisée en périnatalité
+    </text>
+
+    <!-- Ligne de séparation -->
+    <line x1="0" y1="150" x2="650" y2="150" stroke="#D4C9E3" stroke-width="2" opacity="0.5"/>
+
+    <!-- Informations -->
+    <text x="0" y="195" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#5E5E5E">
+      📍 Saint-Amand-les-Eaux (Nord)
+    </text>
+    <text x="0" y="235" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#5E5E5E">
+      ✨ Accompagnement périnatal et parentalité
+    </text>
+  </g>
+
+  <!-- Pied de page -->
+  <text x="600" y="590" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#8B8B8B" text-anchor="middle" font-style="italic">
+    Consultations sur rendez-vous • Accessible depuis Lille, Valenciennes, Douai
+  </text>
+</svg>
+

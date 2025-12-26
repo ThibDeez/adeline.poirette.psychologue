@@ -102,8 +102,8 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // Image pour les réseaux sociaux (OpenGraph)
+    image: 'img/og-image.svg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
