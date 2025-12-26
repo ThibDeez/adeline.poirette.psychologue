@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://thibdeez.github.io/adeline.poirette.psychologue/blog</id>
+    <title>Adeline Poirette - Psychologue à Saint-Amand-les-Eaux Blog</title>
+    <updated>2025-12-26T08:32:33.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://thibdeez.github.io/adeline.poirette.psychologue/blog"/>
+    <subtitle>Adeline Poirette - Psychologue à Saint-Amand-les-Eaux Blog</subtitle>
+    <icon>https://thibdeez.github.io/adeline.poirette.psychologue/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[La place du père en PMI]]></title>
+        <id>https://thibdeez.github.io/adeline.poirette.psychologue/blog/La place du père en PMI</id>
+        <link href="https://thibdeez.github.io/adeline.poirette.psychologue/blog/La place du père en PMI"/>
+        <updated>2025-12-26T08:32:33.000Z</updated>
+    </entry>
+</feed>
