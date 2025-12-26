@@ -1,14 +1,17 @@
-# Site Vitrine - Adeline Poirette, Psychologue
+# Site Vitrine - Adeline Poirette, Psychologue Clinicienne
 
-Site professionnel pour le cabinet de psychologie d'Adeline Poirette à Saint-Amand-les-Eaux.
+Site professionnel pour le cabinet de psychologie d'Adeline Poirette, spécialisée en périnatalité et parentalité, à Saint-Amand-les-Eaux (Nord).
 
 ## 🎯 Objectifs du site
 
-- ✅ Présenter l'activité professionnelle
-- ✅ Optimisation SEO pour un bon référencement Google
-- ✅ Design professionnel et apaisant
-- ✅ Informations pratiques pour les patients
+- ✅ Présenter l'activité professionnelle et les spécialités
+- ✅ Optimisation SEO pour un excellent référencement Google (local et régional)
+- ✅ Référencement géographique : Saint-Amand-les-Eaux, Lille, Valenciennes, Douai
+- ✅ Design professionnel, apaisant et accessible
+- ✅ Informations pratiques complètes pour les patients
 - ✅ Lien direct vers Doctolib pour prendre rendez-vous
+- ✅ Identité visuelle professionnelle (logos et favicons personnalisés)
+- ✅ Blog avec contenu SEO optimisé
 
 ## 🚀 Démarrage
 
@@ -36,49 +39,112 @@ npm run deploy
 ## 📋 Structure du site
 
 ### Page d'accueil (/)
-- Header avec présentation
-- Section "À propos"
-- Spécialités et accompagnements (6 cartes)
+- Header avec présentation et localisation
+- Section "À propos" avec zone géographique
+- Spécialités et accompagnements (6 cartes détaillées)
 - Tarifs et remboursements
-- Contact et accès
+- Contact, accès et villes desservies
 
-### Informations pratiques (/infos/intro)
-- Quand consulter un psychologue ?
-- Déroulement d'une séance
-- Tarifs détaillés
-- Prise de rendez-vous
-- Confidentialité
+### Pages informations (/infos/)
+- **Introduction** (`/infos/intro`) - Quand consulter, déroulement, confidentialité
+- **Pourquoi consulter** (`/infos/pourquoi-consulter`) - Situations d'accompagnement
+- **FAQ** (`/infos/faq`) - Questions fréquentes
+- **Accès au cabinet** (`/infos/acces-cabinet`) - Itinéraires depuis Lille, Valenciennes, Douai, etc.
 
 ### Page À propos (/apropos)
-- Présentation détaillée
+- Présentation détaillée du parcours
+- Formations et diplômes
 - Approche thérapeutique
-- Domaines d'intervention
-- Cadre thérapeutique
+- Valeurs et méthode de travail
 
-## 🎨 Personnalisation
+### Page Mentions légales (/mentions-legales)
+- Informations légales obligatoires
+- RGPD et protection des données
+- Numéros ADELI et RPPS
+
+### Blog (/blog)
+- Article sur la périnatalité dans le Nord
+- Article sur la place du père en PMI
+- Articles SEO-optimisés pour le référencement local
+
+## 🎨 Identité visuelle et personnalisation
+
+### Logos
+Le site dispose d'une identité visuelle complète :
+- **Logo principal** (`static/img/logo.svg`) - Silhouette mère-enfant (200×200)
+- **Logo avec texte** (`static/img/logo-text.svg`) - Pour la navbar (400×120)
+- **Favicon multi-formats** - Optimisé pour tous les appareils
+
+Pour plus de détails, consultez `GUIDE-LOGOS.md`.
+
+### Favicons
+Configuration complète pour tous les appareils :
+- `favicon.ico` - Format classique
+- `favicon-16x16.png` et `favicon-32x32.png` - Tailles standards
+- `favicon.svg` - Format vectoriel moderne
+- `apple-touch-icon.png` - iOS (180×180)
+- `android-chrome-192x192.png` et `android-chrome-512x512.png` - Android
+- `site.webmanifest` - Manifeste PWA
+- `browserconfig.xml` - Configuration Windows
+
+Pour plus de détails, consultez `CONFIGURATION-FAVICONS.md`.
 
 ### Couleurs
 Les couleurs sont définies dans `src/css/custom.css` :
-- Couleur primaire : Bleu apaisant (#4a90a4)
-- Couleur secondaire : Vert doux (#7fa99b)
+- **Couleur primaire** : Violet apaisant (#7B68B6)
+- **Couleur secondaire** : Rose doux (#E8A0BF)
+- **Theme-color** : #7B68B6 (barre d'adresse mobile)
+
+Ces couleurs ont été choisies pour évoquer le professionnalisme, la bienveillance et la périnatalité.
 
 ### Contenu
 - Configuration globale : `docusaurus.config.ts`
 - Page d'accueil : `src/pages/index.tsx`
 - Spécialités : `src/components/HomepageFeatures/index.tsx`
-- Informations pratiques : `docs/intro.md`
+- Informations pratiques : `docs/*.md`
+- Articles de blog : `blog/*.md`
 
-## 🔍 SEO
+## 🔍 SEO et Référencement
 
-Le site inclut :
-- ✅ Métadonnées optimisées (title, description, keywords)
+Le site inclut des optimisations SEO avancées :
+
+### Métadonnées optimisées
+- ✅ Balises title, description, keywords personnalisées
 - ✅ Balises Open Graph pour les réseaux sociaux
-- ✅ Balises géographiques (Saint-Amand-les-Eaux, Nord)
-- ✅ robots.txt configuré
-- ✅ Sitemap automatique (généré par Docusaurus)
-- ✅ URLs sémantiques
+- ✅ Image OpenGraph personnalisée (`og-image.jpg`)
+- ✅ Balises géographiques (Saint-Amand-les-Eaux, Nord, Hauts-de-France)
+
+### Référencement local
+- ✅ **Villes cibles** : Saint-Amand-les-Eaux, Lille, Valenciennes, Douai, Orchies, Raismes, Condé-sur-l'Escaut, Denain
+- ✅ Page dédiée "Accès au cabinet" avec itinéraires depuis toutes les villes
+- ✅ Mentions géographiques dans le contenu
+- ✅ Métadonnées géo (geo.region, geo.placename)
+
+### Schema.org (Données structurées)
+- ✅ Type : "Psychologist"
+- ✅ Adresse complète du cabinet
+- ✅ Coordonnées GPS (latitude/longitude)
+- ✅ Liste des services proposés
+- ✅ Zone de couverture (areaServed) : 12 villes
+- ✅ Numéros ADELI et RPPS
+
+Configuration dans `src/theme/Root.tsx`.
+
+### Contenu SEO
+- ✅ Blog avec articles optimisés pour le référencement local
+- ✅ URLs sémantiques et lisibles
 - ✅ Structure HTML5 sémantique
-- ✅ Responsive design pour mobile
+- ✅ Liens internes optimisés
+- ✅ Attributs alt sur toutes les images
+
+### Fichiers techniques
+- ✅ `robots.txt` configuré
+- ✅ `sitemap.xml` généré automatiquement par Docusaurus
+- ✅ `site.webmanifest` pour PWA
+
+### Configuration
+- ✅ `onBrokenAnchors: 'warn'` - Gestion des ancres internes
+- ✅ `onBrokenLinks: 'throw'` - Détection des liens cassés
 
 ## 📱 Responsive
 
@@ -94,6 +160,13 @@ Le site est entièrement responsive et s'adapte à tous les écrans :
 - **TypeScript** : Typage fort
 - **CSS Modules** : Styles scopés
 
+## 📚 Documentation
+
+- **`README.md`** (ce fichier) - Vue d'ensemble du projet
+- **`GUIDE-LOGOS.md`** - Guide complet sur les logos et l'identité visuelle
+- **`CONFIGURATION-FAVICONS.md`** - Configuration détaillée des favicons
+- **`static/img/README.md`** - Documentation des fichiers images
+
 ## 📦 Déploiement
 
 Le site est configuré pour être déployé sur GitHub Pages :
@@ -105,30 +178,56 @@ npm run build
 npm run deploy
 ```
 
-## 🎯 Optimisations futures possibles
+## 🎯 Fonctionnalités implémentées
 
-1. **Ajouter des témoignages** de patients (avec leur accord)
-2. **Blog** pour partager des articles sur la psychologie
-3. **FAQ** pour répondre aux questions fréquentes
-4. **Formulaire de contact** en complément de Doctolib
-5. **Photos du cabinet** pour rassurer les patients
-6. **Vidéo de présentation** pour créer du lien
-7. **Actualités** sur les horaires, congés, etc.
-8. **Google Analytics** pour suivre les statistiques
-9. **Schema.org markup** pour enrichir les résultats de recherche
-10. **Google My Business** pour apparaître sur Google Maps
+1. ✅ **Design professionnel** avec identité visuelle complète
+2. ✅ **SEO avancé** avec référencement local multi-villes
+3. ✅ **Blog** avec articles optimisés
+4. ✅ **FAQ** pour répondre aux questions fréquentes
+5. ✅ **Page d'accès** avec itinéraires détaillés
+6. ✅ **Données structurées Schema.org** pour les résultats enrichis
+7. ✅ **Favicons multi-plateformes** (iOS, Android, Windows)
+8. ✅ **PWA ready** avec manifest et theme-color
+9. ✅ **OpenGraph** pour un partage optimisé sur les réseaux sociaux
+10. ✅ **Responsive design** pour tous les appareils
+
+## 🚀 Optimisations futures possibles
+
+1. **Google Analytics** pour suivre les statistiques de visite
+2. **Témoignages** de patients (avec leur accord écrit)
+3. **Photos du cabinet** pour rassurer les futurs patients
+4. **Vidéo de présentation** pour créer du lien
+5. **Formulaire de contact** en complément de Doctolib
+6. **Actualités** sur les horaires, congés, événements
+7. **Google My Business** pour apparaître sur Google Maps
+8. **Articles de blog réguliers** pour améliorer le référencement
+9. **Newsletter** pour fidéliser (avec respect RGPD)
+10. **Carte interactive** pour localiser le cabinet
 
 ## 📞 Support
 
-Pour toute question sur le site, contactez le développeur ou consultez la documentation Docusaurus :
-https://docusaurus.io/
+Pour toute question sur le site, consultez :
+- La documentation Docusaurus : https://docusaurus.io/
 
 ---
 
-**Note** : N'oubliez pas de :
-- ✅ Mettre à jour les informations de contact si nécessaire
-- ✅ Ajouter votre numéro ADELI dans `/docs/intro.md`
-- ✅ Personnaliser le logo dans `/static/img/logo.svg`
-- ✅ Ajouter un favicon personnalisé dans `/static/img/favicon.ico`
-- ✅ Vérifier que l'URL Doctolib est correcte
+## ✅ Checklist de déploiement
+
+Avant le déploiement final, vérifiez que :
+- ✅ Les informations de contact sont à jour
+- ✅ L'URL Doctolib est correcte
+- ✅ Les numéros ADELI et RPPS sont exacts
+- ✅ Tous les liens fonctionnent (internes et externes)
+- ✅ Les images s'affichent correctement
+- ✅ Le site est testé sur mobile
+- ✅ Les favicons s'affichent sur tous les navigateurs
+- ✅ Le site est testé en navigation privée
+- ✅ Le sitemap est généré (`npm run build`)
+- ✅ Les métadonnées SEO sont optimisées
+
+---
+
+**Dernière mise à jour** : 26 décembre 2025  
+**Version** : 2.0  
+**Status** : ✅ Production Ready
 
