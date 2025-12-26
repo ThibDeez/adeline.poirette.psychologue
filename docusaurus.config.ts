@@ -149,7 +149,11 @@ const config: Config = {
   presets: [
     [
       'classic',
-      {
+        gtag: {
+          trackingID: 'G-J8Y62DT7N6',
+          anonymizeIP: true,
+        },
+        {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'infos',
