@@ -1,13 +1,14 @@
 ---
 title: À propos d'Adeline Poirette
-description: Découvrez le parcours et l'approche d'Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux
+description: Découvrez le parcours et l'approche d'Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux. Cabinet accessible depuis Lille, Valenciennes, Douai et les villes du Nord.
+keywords: [psychologue Saint-Amand-les-Eaux, psychologue Lille, psychologue Valenciennes, psychologue périnatalité Nord, parcours, formation, spécialisation]
 ---
 
 # À propos
 
 ## Qui suis-je ?
 
-Je suis **Adeline Poirette**, psychologue clinicienne installée à **Saint-Amand-les-Eaux** dans le Nord de la France.
+Je suis **Adeline Poirette**, psychologue clinicienne installée à **Saint-Amand-les-Eaux** dans le Nord de la France. Mon cabinet est facilement accessible depuis **Lille, Valenciennes, Douai** et l'ensemble des communes environnantes.
 
 Diplômée d'un **Master en sciences psychologiques** (2015, Université de Mons, Belgique) et d'un **Diplôme Universitaire en Développement précoce et psychopathologie périnatale** (2024, Université Paris Cité), je me suis spécialisée dans l'accompagnement de la **périnatalité** et de la **parentalité**.
 

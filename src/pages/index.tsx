@@ -17,6 +17,9 @@ function HomepageHeader() {
           Adeline Poirette
         </Heading>
         <p className="hero__subtitle">Psychologue clinicienne à Saint-Amand-les-Eaux</p>
+        <p className="hero__subtitle" style={{fontSize: '1rem', marginTop: '0.5rem', opacity: 0.9}}>
+          Accessible depuis Lille, Valenciennes, Douai et les communes environnantes
+        </p>
         <p className="hero__subtitle" style={{fontSize: '1.2rem', marginTop: '1rem'}}>
           Spécialisée en périnatalité et accompagnement à la parentalité
         </p>
@@ -139,6 +142,16 @@ function ContactSection() {
                 🅿️ Parking gratuit disponible<br />
                 ♿ Entrée accessible
               </p>
+              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: 'var(--ifm-color-primary-lightest)', borderRadius: '8px'}}>
+                <h4 style={{marginTop: 0, fontSize: '1rem'}}>🗺️ Zone de couverture</h4>
+                <p style={{fontSize: '0.9rem', marginBottom: 0}}>
+                  Cabinet facilement accessible depuis :<br />
+                  <strong>Lille</strong> (35 km), <strong>Valenciennes</strong> (20 km),
+                  <strong>Douai</strong> (30 km), <strong>Orchies</strong> (15 km),
+                  <strong>Raismes</strong>, <strong>Condé-sur-l'Escaut</strong>,
+                  <strong>Denain</strong>, <strong>Bouchain</strong> et toutes les communes du Nord.
+                </p>
+              </div>
               <h3 style={{marginTop: '2rem'}}>📞 Contact</h3>
               <p>
                 Pour prendre rendez-vous, merci d'utiliser la plateforme Doctolib.

@@ -26,6 +26,7 @@ const config: Config = {
   projectName: 'adeline.poirette.psychologue', // Usually your repo name.
 
   onBrokenLinks: 'throw',
+  onBrokenAnchors: 'warn', // Les ancres de la page d'accueil sont valides
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -41,7 +42,7 @@ const config: Config = {
       tagName: 'meta',
       attributes: {
         name: 'keywords',
-        content: 'psychologue, Saint-Amand-les-Eaux, périnatalité, dépression post-partum, PMA, procréation médicalement assistée, deuil, accompagnement deuil, troubles anxieux, troubles dépressifs, guidance parentale, psychologie du nourrisson, psychologue clinicienne',
+        content: 'psychologue, Saint-Amand-les-Eaux, Lille, Valenciennes, Douai, Orchies, Raismes, Condé-sur-l\'Escaut, Denain, Nord, périnatalité, dépression post-partum, PMA, procréation médicalement assistée, deuil périnatal, accompagnement deuil, troubles anxieux, troubles dépressifs, guidance parentale, psychologie du nourrisson, psychologue clinicienne, parentalité, consultation psychologique, soutien psychologique, psychologue périnatalité Nord',
       },
     },
     {
@@ -63,6 +64,20 @@ const config: Config = {
       attributes: {
         name: 'geo.placename',
         content: 'Saint-Amand-les-Eaux',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'description',
+        content: 'Adeline Poirette, psychologue clinicienne spécialisée en périnatalité. Cabinet à Saint-Amand-les-Eaux, proche de Lille, Valenciennes, Douai. Accompagnement périnatal, parentalité, dépression post-partum, PMA, deuil périnatal.',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:description',
+        content: 'Psychologue spécialisée en périnatalité et parentalité. Cabinet à Saint-Amand-les-Eaux (Nord), accessible depuis Lille, Valenciennes, Douai et environs.',
       },
     },
   ],
@@ -115,6 +130,11 @@ const config: Config = {
           position: 'left',
         },
         {
+          to: '/infos/acces-cabinet',
+          label: 'Accès',
+          position: 'left',
+        },
+        {
           to: '/infos/intro',
           label: 'Informations pratiques',
           position: 'left',
@@ -158,6 +178,10 @@ const config: Config = {
             {
               label: '📍 Saint-Amand-les-Eaux',
               to: '/#contact',
+            },
+            {
+              label: 'Accès & Villes desservies',
+              to: '/infos/acces-cabinet',
             },
             {
               label: 'Informations pratiques',

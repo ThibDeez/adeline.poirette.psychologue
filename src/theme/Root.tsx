@@ -40,10 +40,56 @@ export default function Root({children}) {
             ],
             "priceRange": "50€",
             "paymentAccepted": ["Cash", "Credit Card"],
-            "areaServed": {
-              "@type": "City",
-              "name": "Saint-Amand-les-Eaux"
-            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Saint-Amand-les-Eaux"
+              },
+              {
+                "@type": "City",
+                "name": "Lille"
+              },
+              {
+                "@type": "City",
+                "name": "Valenciennes"
+              },
+              {
+                "@type": "City",
+                "name": "Douai"
+              },
+              {
+                "@type": "City",
+                "name": "Orchies"
+              },
+              {
+                "@type": "City",
+                "name": "Raismes"
+              },
+              {
+                "@type": "City",
+                "name": "Condé-sur-l'Escaut"
+              },
+              {
+                "@type": "City",
+                "name": "Denain"
+              },
+              {
+                "@type": "City",
+                "name": "Villeneuve-d'Ascq"
+              },
+              {
+                "@type": "City",
+                "name": "Marcq-en-Barœul"
+              },
+              {
+                "@type": "City",
+                "name": "Roubaix"
+              },
+              {
+                "@type": "City",
+                "name": "Tourcoing"
+              }
+            ],
             "availableLanguage": ["French"],
             "medicalSpecialty": ["Perinatal Psychology", "Clinical Psychology"],
             "serviceType": [
