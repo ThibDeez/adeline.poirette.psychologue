@@ -80,6 +80,70 @@ const config: Config = {
         content: 'Psychologue spécialisée en périnatalité et parentalité. Cabinet à Saint-Amand-les-Eaux (Nord), accessible depuis Lille, Valenciennes, Douai et environs.',
       },
     },
+    // Favicons pour différents appareils et tailles
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/x-icon',
+        href: '/adeline.poirette.psychologue/img/favicon.ico',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '/adeline.poirette.psychologue/img/favicon-16x16.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/adeline.poirette.psychologue/img/favicon-32x32.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/adeline.poirette.psychologue/img/apple-touch-icon.png',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        type: 'image/svg+xml',
+        href: '/adeline.poirette.psychologue/img/favicon.svg',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'manifest',
+        href: '/adeline.poirette.psychologue/site.webmanifest',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'theme-color',
+        content: '#7B68B6',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'msapplication-TileColor',
+        content: '#7B68B6',
+      },
+    },
   ],
 
   presets: [
