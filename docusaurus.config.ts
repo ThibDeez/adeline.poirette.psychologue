@@ -103,7 +103,7 @@ const config: Config = {
 
   themeConfig: {
     // Image pour les réseaux sociaux (OpenGraph)
-    image: 'img/og-image.svg',
+    image: 'img/og-image.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
     },
