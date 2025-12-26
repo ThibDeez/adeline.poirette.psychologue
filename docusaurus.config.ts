@@ -75,7 +75,10 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           routeBasePath: 'infos',
         },
-        blog: false, // Désactiver le blog
+        blog: {
+          blogSidebarTitle: 'Tous les articles',
+          blogSidebarCount: 'ALL',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
