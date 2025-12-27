@@ -172,10 +172,6 @@ function ContactSection() {
               <p>
                 Consultez les créneaux disponibles directement sur Doctolib.
               </p>
-              <p style={{fontSize: '0.9rem'}}>
-                <strong>Exemple d'horaires :</strong><br />
-                Lundi au vendredi : 09h00 - 12h30 et après-midi
-              </p>
               <h3 style={{marginTop: '2rem'}}>ℹ️ Bon à savoir</h3>
               <ul>
                 <li>Consultations sur rendez-vous uniquement</li>
