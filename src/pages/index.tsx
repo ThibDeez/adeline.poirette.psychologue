@@ -140,7 +140,7 @@ function ContactSection() {
               </p>
               <p style={{fontSize: '0.9rem', color: '#666', marginTop: '0.5rem'}}>
                 🅿️ Parking gratuit disponible<br />
-                ♿ Entrée accessible
+                ♿ Entrée accessible (PMR)
               </p>
               <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: 'var(--ifm-color-primary-lightest)', borderRadius: '8px'}}>
                 <h4 style={{marginTop: 0, fontSize: '1rem'}}>🗺️ Zone de couverture</h4>
