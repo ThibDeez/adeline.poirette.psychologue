@@ -13,52 +13,7 @@ keywords: [psychologue Saint-Amand-les-Eaux, psychologue Lille, psychologue Vale
 59230 Saint-Amand-les-Eaux  
 Nord (59) - Hauts-de-France
 
-### Coordonnées GPS
-- **Latitude** : 50.4478
-- **Longitude** : 3.4283
-
 [📍 Voir sur Google Maps](https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux)
-
-## 🚗 Accès depuis les villes environnantes
-
-Le cabinet est **idéalement situé au cœur du Nord** et facilement accessible depuis de nombreuses villes :
-
-### Depuis Lille (35 km - environ 35 minutes)
-- Prendre l'A23 direction Valenciennes
-- Sortie n°7 vers Saint-Amand-les-Eaux
-- Suivre la D955 puis le centre-ville
-- **Temps de trajet** : 35-40 minutes en voiture
-- **En transport** : Train Lille-Valenciennes + bus local
-
-### Depuis Valenciennes (20 km - environ 20 minutes)
-- Prendre la D958 direction Saint-Amand-les-Eaux
-- Trajet direct par la route départementale
-- **Temps de trajet** : 20-25 minutes en voiture
-- **En transport** : Ligne de bus régulière disponible
-
-### Depuis Douai (30 km - environ 30 minutes)
-- Prendre la D917 direction nord
-- Puis la D955 direction Saint-Amand-les-Eaux
-- **Temps de trajet** : 30-35 minutes en voiture
-
-### Depuis Orchies (15 km - environ 15 minutes)
-- Prendre la D549 direction ouest
-- Trajet direct et rapide
-- **Temps de trajet** : 15-20 minutes en voiture
-
-### Autres villes proches
-Le cabinet est également accessible depuis :
-- **Raismes** (8 km - 12 minutes)
-- **Condé-sur-l'Escaut** (12 km - 15 minutes)
-- **Denain** (15 km - 18 minutes)
-- **Bouchain** (18 km - 22 minutes)
-- **Marly** (8 km - 12 minutes)
-- **Anzin** (18 km - 22 minutes)
-- **Lambersart** (38 km - 40 minutes)
-- **Marcq-en-Barœul** (40 km - 42 minutes)
-- **Villeneuve-d'Ascq** (35 km - 38 minutes)
-- **Roubaix** (45 km - 45 minutes)
-- **Tourcoing** (50 km - 50 minutes)
 
 ## 🅿️ Stationnement
 
@@ -72,19 +27,6 @@ Le cabinet est également accessible depuis :
 - **Entrée accessible** pour les personnes à mobilité réduite
 - Cabinet situé en rez-de-chaussée
 - **Poussettes bienvenues** : vous pouvez venir avec votre bébé
-
-## 🚌 Transports en commun
-
-### Bus
-Saint-Amand-les-Eaux est desservie par plusieurs lignes de bus :
-- Lignes depuis Valenciennes
-- Lignes depuis Lille (via correspondances)
-- Réseau Transvilles
-
-### Train
-- **Gare la plus proche** : Gare de Valenciennes (20 km)
-- Puis correspondance en bus vers Saint-Amand-les-Eaux
-- **Depuis Lille** : Train vers Valenciennes puis bus
 
 ## 🏙️ Pourquoi choisir un cabinet à Saint-Amand-les-Eaux ?
 
