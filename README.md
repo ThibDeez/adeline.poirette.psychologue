@@ -63,7 +63,6 @@ npm run deploy
 - Numéros ADELI et RPPS
 
 ### Blog (/blog)
-- Article sur la périnatalité dans le Nord
 - Article sur la place du père en PMI
 - Articles SEO-optimisés pour le référencement local
 
@@ -218,19 +217,21 @@ Le fichier `CNAME` dans `static/` garantit que votre domaine personnalisé ne se
 8. ✅ **PWA ready** avec manifest et theme-color
 9. ✅ **OpenGraph** pour un partage optimisé sur les réseaux sociaux
 10. ✅ **Responsive design** pour tous les appareils
+11. ✅ **Google Analytics** configuré (G-J8Y62DT7N6) avec anonymisation IP
+12. ✅ **Recherche intégrée** Lunr Search en français
+13. ✅ **Domaine personnalisé** avec fichier CNAME
 
 ## 🚀 Optimisations futures possibles
 
-1. **Google Analytics** pour suivre les statistiques de visite
-2. **Témoignages** de patients (avec leur accord écrit)
-3. **Photos du cabinet** pour rassurer les futurs patients
-4. **Vidéo de présentation** pour créer du lien
-5. **Formulaire de contact** en complément de Doctolib
-6. **Actualités** sur les horaires, congés, événements
-7. **Google My Business** pour apparaître sur Google Maps
-8. **Articles de blog réguliers** pour améliorer le référencement
-9. **Newsletter** pour fidéliser (avec respect RGPD)
-10. **Carte interactive** pour localiser le cabinet
+1. **Témoignages** de patients (avec leur accord écrit)
+2. **Photos du cabinet** pour rassurer les futurs patients
+3. **Vidéo de présentation** pour créer du lien
+4. **Formulaire de contact** en complément de Doctolib
+5. **Actualités** sur les horaires, congés, événements
+6. **Google My Business** pour apparaître sur Google Maps
+7. **Articles de blog réguliers** pour améliorer le référencement
+8. **Newsletter** pour fidéliser (avec respect RGPD)
+9. **Carte interactive** pour localiser le cabinet
 
 ## 📞 Support
 
