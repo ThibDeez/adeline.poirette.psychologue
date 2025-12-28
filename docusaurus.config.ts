@@ -150,10 +150,7 @@ const config: Config = {
     [
       'classic',
         {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          routeBasePath: 'infos',
-        },
+        docs: false,
         blog: {
           blogSidebarTitle: 'Tous les articles',
           blogSidebarCount: 'ALL',
