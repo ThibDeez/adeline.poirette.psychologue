@@ -73,7 +73,7 @@ La première séance permet de :
 - Établir le cadre de l'accompagnement
 
 ### Séances suivantes
-- **Durée** : environ 45-50 minutes
+- **Durée** : 1 heure
 - **Fréquence** : adaptée à vos besoins (hebdomadaire, bimensuelle, mensuelle)
 - **Approche** : clinique, empathique et respectueuse de votre rythme
 
