@@ -208,28 +208,30 @@ Le fichier `CNAME` dans `static/` garantit que votre domaine personnalisé ne se
 1. ✅ **Design professionnel** avec identité visuelle complète
 2. ✅ **SEO avancé** avec référencement local multi-villes
 3. ✅ **Blog** avec articles optimisés
-4. ✅ **FAQ** pour répondre aux questions fréquentes
-5. ✅ **Page d'accès** avec itinéraires détaillés
-6. ✅ **Données structurées Schema.org** pour les résultats enrichis
-7. ✅ **Favicons multi-plateformes** (iOS, Android, Windows)
-8. ✅ **PWA ready** avec manifest et theme-color
-9. ✅ **OpenGraph** pour un partage optimisé sur les réseaux sociaux
-10. ✅ **Responsive design** pour tous les appareils
-11. ✅ **Google Analytics** configuré (G-J8Y62DT7N6) avec anonymisation IP
-12. ✅ **Recherche intégrée** Lunr Search en français
-13. ✅ **Domaine personnalisé** avec fichier CNAME
+4. ✅ **Informations pratiques** complètes (2 pages détaillées)
+5. ✅ **Données structurées Schema.org** pour les résultats enrichis
+6. ✅ **Favicons multi-plateformes** (iOS, Android, Windows)
+7. ✅ **PWA ready** avec manifest et theme-color
+8. ✅ **OpenGraph** pour un partage optimisé sur les réseaux sociaux
+9. ✅ **Responsive design** pour tous les appareils
+10. ✅ **Google Analytics** configuré (G-J8Y62DT7N6) avec anonymisation IP
+11. ✅ **Recherche intégrée** Lunr Search en français
+12. ✅ **Domaine personnalisé** avec fichier CNAME
+13. ✅ **Lien Google Maps** intégré sur la page d'accueil
 
 ## 🚀 Optimisations futures possibles
 
-1. **Témoignages** de patients (avec leur accord écrit)
-2. **Photos du cabinet** pour rassurer les futurs patients
-3. **Vidéo de présentation** pour créer du lien
-4. **Formulaire de contact** en complément de Doctolib
-5. **Actualités** sur les horaires, congés, événements
-6. **Google My Business** pour apparaître sur Google Maps
-7. **Articles de blog réguliers** pour améliorer le référencement
-8. **Newsletter** pour fidéliser (avec respect RGPD)
-9. **Carte interactive** pour localiser le cabinet
+1. **FAQ** (Foire Aux Questions) pour répondre aux questions fréquentes
+2. **Page d'accès détaillée** avec itinéraires depuis chaque ville
+3. **Témoignages** de patients (avec leur accord écrit)
+4. **Photos du cabinet** pour rassurer les futurs patients
+5. **Vidéo de présentation** pour créer du lien
+6. **Formulaire de contact** en complément de Doctolib
+7. **Actualités** sur les horaires, congés, événements
+8. **Google My Business** pour apparaître sur Google Maps
+9. **Articles de blog réguliers** pour améliorer le référencement
+10. **Newsletter** pour fidéliser (avec respect RGPD)
+11. **Carte interactive** pour localiser le cabinet
 
 ## 📞 Support
 
