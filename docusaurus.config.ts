@@ -86,7 +86,7 @@ const config: Config = {
       attributes: {
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/adeline.poirette.psychologue/img/favicon.ico',
+        href: '/img/favicon.ico',
       },
     },
     {
@@ -95,7 +95,7 @@ const config: Config = {
         rel: 'icon',
         type: 'image/png',
         sizes: '16x16',
-        href: '/adeline.poirette.psychologue/img/favicon-16x16.png',
+        href: '/img/favicon-16x16.png',
       },
     },
     {
@@ -104,7 +104,7 @@ const config: Config = {
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: '/adeline.poirette.psychologue/img/favicon-32x32.png',
+        href: '/img/favicon-32x32.png',
       },
     },
     {
@@ -112,7 +112,7 @@ const config: Config = {
       attributes: {
         rel: 'apple-touch-icon',
         sizes: '180x180',
-        href: '/adeline.poirette.psychologue/img/apple-touch-icon.png',
+        href: '/img/apple-touch-icon.png',
       },
     },
     {
@@ -120,14 +120,14 @@ const config: Config = {
       attributes: {
         rel: 'icon',
         type: 'image/svg+xml',
-        href: '/adeline.poirette.psychologue/img/favicon.svg',
+        href: '/img/favicon.svg',
       },
     },
     {
       tagName: 'link',
       attributes: {
         rel: 'manifest',
-        href: '/adeline.poirette.psychologue/site.webmanifest',
+        href: '/site.webmanifest',
       },
     },
     {

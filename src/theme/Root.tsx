@@ -11,7 +11,7 @@ export default function Root({children}) {
             "@type": "Psychologist",
             "name": "Adeline Poirette",
             "description": "Psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux. Accompagnement psychologique des adultes, futurs parents, jeunes parents. Dépression post-partum, PMA, deuil périnatal, guidance parentale.",
-            "url": "https://thibdeez.github.io/adeline.poirette.psychologue/",
+            "url": "https://www.adelinepoirette-psychologue.fr",
             "address": {
               "@type": "PostalAddress",
               "streetAddress": "13 Rue du 18 Juin 1940",

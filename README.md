@@ -160,23 +160,21 @@ Le site est entièrement responsive et s'adapte à tous les écrans :
 - **TypeScript** : Typage fort
 - **CSS Modules** : Styles scopés
 
-## 📚 Documentation
-
-- **`README.md`** (ce fichier) - Vue d'ensemble du projet
-- **`GUIDE-LOGOS.md`** - Guide complet sur les logos et l'identité visuelle
-- **`CONFIGURATION-FAVICONS.md`** - Configuration détaillée des favicons
-- **`static/img/README.md`** - Documentation des fichiers images
-
 ## 📦 Déploiement
 
-Le site est configuré pour être déployé sur GitHub Pages :
-- URL : `https://thibdeez.github.io/adeline.poirette.psychologue/`
+Le site est configuré pour un domaine personnalisé :
+- URL de production : `https://www.adelinepoirette-psychologue.fr`
+- BaseURL : `/` (racine du domaine)
+- Google Analytics : Intégré (G-J8Y62DT7N6)
+- Recherche : Lunr Search (français)
 
 Pour déployer :
 ```bash
 npm run build
 npm run deploy
 ```
+
+Configuration DNS requise pour le domaine personnalisé (voir documentation GitHub Pages).
 
 ## 🎯 Fonctionnalités implémentées
 

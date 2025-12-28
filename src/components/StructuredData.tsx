@@ -7,7 +7,7 @@ export default function StructuredData() {
     '@type': 'Psychologist',
     name: 'Adeline Poirette',
     description: 'Psychologue clinicienne spécialisée en périnatalité et accompagnement à la parentalité',
-    url: 'https://thibdeez.github.io/adeline.poirette.psychologue/',
+    url: 'https://www.adelinepoirette-psychologue.fr',
     telephone: '',
     address: {
       '@type': 'PostalAddress',
