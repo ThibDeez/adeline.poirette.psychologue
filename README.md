@@ -40,7 +40,6 @@ npm run deploy
 
 ### Pages principales
 - **Page d'accueil** (`/`) - Présentation, spécialités, tarifs, contact avec Google Maps
-- **À propos** (`/apropos`) - Parcours, formations, approche thérapeutique, valeurs
 - **Consultations** (`/consultations`) - Motifs de consultation, déroulement des séances, tarifs, remboursements, confidentialité
 - **Mentions légales** (`/mentions-legales`) - Informations légales, RGPD, numéros ADELI et RPPS
 
@@ -81,8 +80,8 @@ Ces couleurs ont été choisies pour évoquer le professionnalisme, la bienveill
 ### Contenu
 - Configuration globale : `docusaurus.config.ts`
 - Page d'accueil : `src/pages/index.tsx`
+- Pages principales : `src/pages/*.md` (consultations, mentions-legales)
 - Spécialités : `src/components/HomepageFeatures/index.tsx`
-- Informations pratiques : `docs/*.md`
 - Articles de blog : `blog/*.md`
 
 ## 🔍 SEO et Référencement
@@ -97,8 +96,8 @@ Le site inclut des optimisations SEO avancées :
 
 ### Référencement local
 - ✅ **Villes cibles** : Saint-Amand-les-Eaux, Lille, Valenciennes, Douai, Orchies, Raismes, Condé-sur-l'Escaut, Denain
-- ✅ Page dédiée "Accès au cabinet" avec itinéraires depuis toutes les villes
-- ✅ Mentions géographiques dans le contenu
+- ✅ Mentions géographiques dans le contenu de la page d'accueil
+- ✅ Google Maps intégré sur la page d'accueil
 - ✅ Métadonnées géo (geo.region, geo.placename)
 
 ### Schema.org (Données structurées)
@@ -192,7 +191,7 @@ Le fichier `CNAME` dans `static/` garantit que votre domaine personnalisé ne se
 1. ✅ **Design professionnel** avec identité visuelle complète
 2. ✅ **SEO avancé** avec référencement local multi-villes
 3. ✅ **Blog** avec articles optimisés
-4. ✅ **Informations pratiques** complètes (2 pages détaillées)
+4. ✅ **Page Consultations complète** - Motifs, déroulement, tarifs, remboursements, confidentialité
 5. ✅ **Données structurées Schema.org** pour les résultats enrichis
 6. ✅ **Favicons multi-plateformes** (iOS, Android, Windows)
 7. ✅ **PWA ready** avec manifest et theme-color
@@ -202,6 +201,7 @@ Le fichier `CNAME` dans `static/` garantit que votre domaine personnalisé ne se
 11. ✅ **Recherche intégrée** Lunr Search en français
 12. ✅ **Domaine personnalisé** avec fichier CNAME
 13. ✅ **Lien Google Maps** intégré sur la page d'accueil
+14. ✅ **Structure simplifiée** - 4 pages principales sans système docs
 
 ## 🚀 Optimisations futures possibles
 
@@ -241,8 +241,10 @@ Avant le déploiement final, vérifiez que :
 ---
 
 **Dernière mise à jour** : 28 décembre 2025  
-**Version** : 2.0  
+**Version** : 2.1  
 **Status** : ✅ Production Ready
 
-**Note importante** : Le fichier `static/CNAME` est essentiel pour maintenir le domaine personnalisé. Ne le supprimez pas !
+**Notes importantes** :
+- Le fichier `static/CNAME` est essentiel pour maintenir le domaine personnalisé. Ne le supprimez pas !
+- Structure simplifiée : Le système docs est désactivé (`docs: false`), toutes les pages sont dans `src/pages/` (3 pages : index, consultations, mentions-legales)
 

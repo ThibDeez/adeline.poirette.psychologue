@@ -222,14 +222,18 @@ const config: Config = {
           items: [
             {
               label: 'À propos',
-              to: '/#apropos',
+              to: '/apropos',
+            },
+            {
+              label: 'Consultations',
+              to: '/consultations',
             },
             {
               label: 'Spécialités',
               to: '/#specialites',
             },
             {
-              label: 'Tarifs & Remboursements',
+              label: 'Tarifs',
               to: '/#tarifs',
             },
           ],
@@ -238,7 +242,7 @@ const config: Config = {
           title: 'Contact',
           items: [
             {
-              label: 'Prendre rendez-vous sur Doctolib',
+              label: 'Prendre rendez-vous',
               href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
             },
             {
@@ -246,21 +250,17 @@ const config: Config = {
               to: '/#contact',
             },
             {
-              label: 'Consultations',
-              to: '/consultations',
+              label: 'Google Maps',
+              href: 'https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux',
             },
           ],
         },
         {
-          title: 'Ressources',
+          title: 'Informations',
           items: [
             {
-              label: 'Pourquoi consulter ?',
-              to: '/consultations',
-            },
-            {
-              label: 'Déroulement d\'une séance',
-              to: '/consultations',
+              label: 'Blog',
+              to: '/blog',
             },
             {
               label: 'Mentions légales',

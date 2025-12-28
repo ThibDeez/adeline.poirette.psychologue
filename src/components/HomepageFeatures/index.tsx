@@ -60,7 +60,7 @@ const FeatureList: FeatureItem[] = [
       <>
         Accompagnement et guidance parentale, épuisement parental, difficultés éducatives,
         anxiété dans son rôle parental, soutien dans vos compétences, difficultés de
-        coparentalité, relation parents-enfant et attachement.
+        coparentalité, relation parents-enfant et attachement pour enfant de tout âge.
       </>
     ),
   },
