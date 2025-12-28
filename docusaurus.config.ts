@@ -222,7 +222,7 @@ const config: Config = {
           items: [
             {
               label: 'À propos',
-              to: '/apropos',
+              to: '/#apropos',
             },
             {
               label: 'Consultations',
