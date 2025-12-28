@@ -138,7 +138,14 @@ function ContactSection() {
                 13 Rue du 18 Juin 1940<br />
                 59230 Saint-Amand-les-Eaux
               </p>
-              <p style={{fontSize: '0.9rem', color: '#666', marginTop: '0.5rem'}}>
+              <Link
+                href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{display: 'inline-block', marginTop: '0.5rem', color: 'var(--ifm-color-primary)', textDecoration: 'none', fontSize: '0.95rem'}}>
+                📍 Voir sur Google Maps →
+              </Link>
+              <p style={{fontSize: '0.9rem', color: '#666', marginTop: '1rem'}}>
                 🅿️ Parking gratuit disponible<br />
                 ♿ Entrée accessible (PMR)
               </p>
