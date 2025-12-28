@@ -204,8 +204,8 @@ const config: Config = {
           position: 'left',
         },
         {
-          to: '/infos/intro',
-          label: 'Informations pratiques',
+          to: '/consultations',
+          label: 'Consultations',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
@@ -249,8 +249,8 @@ const config: Config = {
               to: '/#contact',
             },
             {
-              label: 'Informations pratiques',
-              to: '/infos/intro',
+              label: 'Consultations',
+              to: '/consultations',
             },
           ],
         },
@@ -258,12 +258,12 @@ const config: Config = {
           title: 'Ressources',
           items: [
             {
-              label: 'Quand consulter un psychologue ?',
-              to: '/infos/intro',
+              label: 'Pourquoi consulter ?',
+              to: '/consultations',
             },
             {
               label: 'Déroulement d\'une séance',
-              to: '/infos/intro',
+              to: '/consultations',
             },
             {
               label: 'Mentions légales',

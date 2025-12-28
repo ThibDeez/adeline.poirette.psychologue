@@ -38,27 +38,11 @@ npm run deploy
 
 ## 📋 Structure du site
 
-### Page d'accueil (/)
-- Header avec présentation et localisation
-- Section "À propos" avec zone géographique
-- Spécialités et accompagnements (6 cartes détaillées)
-- Tarifs et remboursements
-- Contact, accès et villes desservies
-
-### Pages informations (/infos/)
-- **Introduction** (`/infos/intro`) - Quand consulter, déroulement, confidentialité
-- **Pourquoi consulter** (`/infos/pourquoi-consulter`) - Situations d'accompagnement
-
-### Page À propos (/apropos)
-- Présentation détaillée du parcours
-- Formations et diplômes
-- Approche thérapeutique
-- Valeurs et méthode de travail
-
-### Page Mentions légales (/mentions-legales)
-- Informations légales obligatoires
-- RGPD et protection des données
-- Numéros ADELI et RPPS
+### Pages principales
+- **Page d'accueil** (`/`) - Présentation, spécialités, tarifs, contact avec Google Maps
+- **À propos** (`/apropos`) - Parcours, formations, approche thérapeutique, valeurs
+- **Consultations** (`/consultations`) - Motifs de consultation, déroulement des séances, tarifs, remboursements, confidentialité
+- **Mentions légales** (`/mentions-legales`) - Informations légales, RGPD, numéros ADELI et RPPS
 
 ### Blog (/blog)
 - Article sur la place du père en PMI
