@@ -1,6 +1,7 @@
 ---
 title: Mentions légales
-description: Informations légales du site
+description: Informations légales, RGPD et protection des données - Cabinet Adeline Poirette
+keywords: [mentions légales, RGPD, protection données, confidentialité, psychologue]
 ---
 
 # Mentions légales
@@ -15,10 +16,12 @@ description: Informations légales du site
 
 ## Hébergement
 
-**Hébergeur :** GitHub Pages  
+**Hébergeur web :** GitHub Pages  
 **Société :** GitHub, Inc.  
 **Adresse :** 88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis  
 **Site web :** https://pages.github.com
+
+**Nom de domaine :** www.adelinepoirette-psychologue.fr
 
 ## Propriété intellectuelle
 
@@ -38,7 +41,7 @@ Ce site ne collecte **aucune donnée personnelle directement**.
 
 **Doctolib :** Les prises de rendez-vous s'effectuent via la plateforme Doctolib. Veuillez consulter la politique de confidentialité de Doctolib pour plus d'informations : https://www.doctolib.fr/conditions-generales-d-utilisation
 
-**Analytics (si activé) :** Des outils d'analyse (Google Analytics, Microsoft Clarity) peuvent collecter des données anonymisées sur votre navigation (pages visitées, durée, provenance). Ces données sont utilisées uniquement pour améliorer le site.
+**Google Analytics :** Ce site utilise Google Analytics pour collecter des données anonymisées sur la navigation (pages visitées, durée, provenance). L'anonymisation des adresses IP est activée. Ces données sont utilisées uniquement pour améliorer le site et comprendre son utilisation.
 
 ### Vos droits
 
@@ -50,16 +53,16 @@ Conformément au RGPD, vous disposez des droits suivants :
 - **Droit à la portabilité** : recevoir vos données dans un format structuré
 - **Droit d'opposition** : vous opposer au traitement de vos données
 
-Pour exercer ces droits, contactez : [Votre email]
+Pour exercer ces droits, vous pouvez me contacter via la messagerie sécurisée Doctolib.
 
 ### Cookies
 
-Ce site peut utiliser des cookies pour :
-- Améliorer votre expérience de navigation
-- Analyser le trafic du site (analytics)
-- Mémoriser vos préférences (mode sombre/clair)
+Ce site utilise des cookies pour :
+- **Analyser le trafic** du site via Google Analytics (avec anonymisation IP)
+- **Améliorer votre expérience** de navigation
+- **Mémoriser vos préférences** (mode sombre/clair, si activé)
 
-Vous pouvez désactiver les cookies dans les paramètres de votre navigateur.
+Vous pouvez désactiver les cookies dans les paramètres de votre navigateur. Cela peut affecter certaines fonctionnalités du site.
 
 ## Confidentialité médicale
 
@@ -79,12 +82,12 @@ En cas de litige, les tribunaux français seront seuls compétents.
 
 ## Contact
 
-Pour toute question concernant les mentions légales ou la protection de vos données :
+Pour toute question concernant les mentions légales ou la protection de vos données, vous pouvez me contacter via :
 
-**Email :** [Votre email professionnel]  
-**Messagerie Doctolib :** https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette
+**Messagerie Doctolib :** https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette  
+**Téléphone :** Disponible sur Doctolib
 
 ---
 
-*Dernière mise à jour : 24 décembre 2025*
+*Dernière mise à jour : 28 décembre 2025*
 
