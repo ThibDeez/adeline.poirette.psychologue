@@ -204,11 +204,6 @@ const config: Config = {
           position: 'left',
         },
         {
-          to: '/infos/acces-cabinet',
-          label: 'Accès',
-          position: 'left',
-        },
-        {
           to: '/infos/intro',
           label: 'Informations pratiques',
           position: 'left',
