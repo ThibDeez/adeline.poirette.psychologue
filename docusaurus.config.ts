@@ -249,10 +249,6 @@ const config: Config = {
               to: '/#contact',
             },
             {
-              label: 'Accès & Villes desservies',
-              to: '/infos/acces-cabinet',
-            },
-            {
               label: 'Informations pratiques',
               to: '/infos/intro',
             },

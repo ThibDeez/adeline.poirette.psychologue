@@ -48,8 +48,6 @@ npm run deploy
 ### Pages informations (/infos/)
 - **Introduction** (`/infos/intro`) - Quand consulter, déroulement, confidentialité
 - **Pourquoi consulter** (`/infos/pourquoi-consulter`) - Situations d'accompagnement
-- **FAQ** (`/infos/faq`) - Questions fréquentes
-- **Accès au cabinet** (`/infos/acces-cabinet`) - Itinéraires depuis Lille, Valenciennes, Douai, etc.
 
 ### Page À propos (/apropos)
 - Présentation détaillée du parcours
