@@ -168,13 +168,43 @@ Le site est configuré pour un domaine personnalisé :
 - Google Analytics : Intégré (G-J8Y62DT7N6)
 - Recherche : Lunr Search (français)
 
-Pour déployer :
+### Configuration du domaine personnalisé
+
+**Important** : Un fichier `CNAME` a été créé dans `static/CNAME` contenant votre domaine personnalisé. Ce fichier sera automatiquement copié dans le dossier `build/` lors du déploiement, ce qui empêchera GitHub Pages de réinitialiser votre domaine.
+
+Contenu du fichier `static/CNAME` :
+```
+www.adelinepoirette-psychologue.fr
+```
+
+### Pour déployer :
 ```bash
 npm run build
 npm run deploy
 ```
 
-Configuration DNS requise pour le domaine personnalisé (voir documentation GitHub Pages).
+Le fichier CNAME sera automatiquement inclus dans le déploiement.
+
+### Configuration DNS requise
+
+Pour faire pointer votre domaine vers GitHub Pages :
+
+1. **Chez votre registrar (OVH, Gandi, etc.)** :
+   - Ajoutez un enregistrement CNAME :
+     - Nom : `www`
+     - Valeur : `thibdeez.github.io`
+   - OU ajoutez des enregistrements A pour le domaine racine :
+     - `185.199.108.153`
+     - `185.199.109.153`
+     - `185.199.110.153`
+     - `185.199.111.153`
+
+2. **Dans GitHub Pages settings** :
+   - Allez dans Settings > Pages
+   - Sous "Custom domain", entrez : `www.adelinepoirette-psychologue.fr`
+   - Cochez "Enforce HTTPS"
+
+Le fichier `CNAME` dans `static/` garantit que votre domaine personnalisé ne sera jamais réinitialisé lors des déploiements.
 
 ## 🎯 Fonctionnalités implémentées
 
@@ -225,7 +255,9 @@ Avant le déploiement final, vérifiez que :
 
 ---
 
-**Dernière mise à jour** : 26 décembre 2025  
+**Dernière mise à jour** : 28 décembre 2025  
 **Version** : 2.0  
 **Status** : ✅ Production Ready
+
+**Note importante** : Le fichier `static/CNAME` est essentiel pour maintenir le domaine personnalisé. Ne le supprimez pas !
 
