@@ -162,6 +162,12 @@ const config: Config = {
           trackingID: 'G-J8Y62DT7N6',
           anonymizeIP: true,
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**', '/search'],
+          filename: 'sitemap.xml',
+        },
       } satisfies Preset.Options,
     ],
   ],
@@ -261,6 +267,10 @@ const config: Config = {
             {
               label: 'Blog',
               to: '/blog',
+            },
+            {
+              label: 'FAQ',
+              to: '/faq',
             },
             {
               label: 'Mentions légales',

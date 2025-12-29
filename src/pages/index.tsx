@@ -201,8 +201,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Accueil"
-      description="Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux. Accompagnement des adultes, futurs parents et jeunes parents : dépression post-partum, PMA, deuil périnatal, guidance parentale.">
+      title="Psychologue à Saint-Amand-les-Eaux"
+      description="Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux (59). Consultation proche Valenciennes, Lille, Douai. Dépression post-partum, PMA, deuil périnatal, guidance parentale. RDV sur Doctolib.">
       <HomepageHeader />
       <main>
         <AboutSection />
