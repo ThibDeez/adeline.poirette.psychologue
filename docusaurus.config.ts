@@ -269,10 +269,6 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'FAQ',
-              to: '/faq',
-            },
-            {
               label: 'Mentions légales',
               to: '/mentions-legales',
             },
