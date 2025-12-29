@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkadeline_poirette_psychologue=globalThis.webpackChunkadeline_poirette_psychologue||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Tous les articles","items":[{"title":"La place du p\xe8re en PMI","permalink":"/blog/La place du p\xe8re en PMI","unlisted":false,"date":"2025-12-26T08:32:33.000Z"}]}')}}]);
