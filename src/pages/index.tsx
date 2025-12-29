@@ -17,9 +17,6 @@ function HomepageHeader() {
           Adeline Poirette
         </Heading>
         <p className="hero__subtitle">Psychologue clinicienne à Saint-Amand-les-Eaux</p>
-        <p className="hero__subtitle" style={{fontSize: '1rem', marginTop: '0.5rem', opacity: 0.9}}>
-          Accessible depuis Lille, Valenciennes, Douai et les communes environnantes
-        </p>
         <p className="hero__subtitle" style={{fontSize: '1.2rem', marginTop: '1rem'}}>
           Spécialisée en périnatalité et accompagnement à la parentalité
         </p>
@@ -137,28 +134,18 @@ function ContactSection() {
                 <strong>Cabinet de Psychologie</strong><br />
                 13 Rue du 18 Juin 1940<br />
                 59230 Saint-Amand-les-Eaux
+                  <Link
+                    href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{display: 'inline-block', marginTop: '0.5rem', color: 'var(--ifm-color-primary)', textDecoration: 'none', fontSize: '0.95rem'}}>
+                    Voir sur Google Maps →
+                </Link>
               </p>
-              <Link
-                href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{display: 'inline-block', marginTop: '0.5rem', color: 'var(--ifm-color-primary)', textDecoration: 'none', fontSize: '0.95rem'}}>
-                📍 Voir sur Google Maps →
-              </Link>
               <p style={{fontSize: '0.9rem', color: '#666', marginTop: '1rem'}}>
                 🅿️ Parking gratuit disponible<br />
                 ♿ Entrée accessible (PMR)
               </p>
-              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: 'var(--ifm-color-primary-lightest)', borderRadius: '8px'}}>
-                <h4 style={{marginTop: 0, fontSize: '1rem'}}>🗺️ Zone de couverture</h4>
-                <p style={{fontSize: '0.9rem', marginBottom: 0}}>
-                  Cabinet facilement accessible depuis :<br />
-                  <strong>Lille</strong> (35 km), <strong>Valenciennes</strong> (20 km),
-                  <strong>Douai</strong> (30 km), <strong>Orchies</strong> (15 km),
-                  <strong>Raismes</strong>, <strong>Condé-sur-l'Escaut</strong>,
-                  <strong>Denain</strong>, <strong>Bouchain</strong> et toutes les communes du Nord.
-                </p>
-              </div>
               <h3 style={{marginTop: '2rem'}}>📞 Contact</h3>
               <p>
                 Pour prendre rendez-vous, merci d'utiliser la plateforme Doctolib.
