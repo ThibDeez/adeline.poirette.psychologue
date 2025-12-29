@@ -67,9 +67,9 @@ paternité.
 
 ### La Protection Maternelle Infantile
 
-La Protection Maternelle et Infantile est une institution nationale instaurée par l’ordonnance du 2 novembre 1945 à la
+La Protection Maternelle et Infantile est une institution nationale instaurée par l'ordonnance du 2 novembre 1945 à la
 sortie de la seconde guerre mondiale dans un contexte particulier avec un essor démographique important dans des
-conditions sanitaires encore précaire. L’objectif est alors de lutter contre la mortalité infantile. (Cadart, 2007 ;
+conditions sanitaires encore précaires. L'objectif est alors de lutter contre la mortalité infantile. (Cadart, 2007 ;
 Colombo, 2013 ; Giry, 2014 ; Saîas et al, 2018 ; Gautier-Coiffard et al, 2017 Suesser, 2016)
 
 Il constitue en France l’unique service de prévention précoce gratuit et ouvert à toutes les familles et leurs enfants
@@ -92,10 +92,10 @@ Dutton, 2024)
 
 Faute d’avoir trouvé des évocations de la place du père, de son rôle ou de son accompagnement dans la littérature
 existante relative aux missions de la P.M.I., nous avons cherché ce qu’il en est sur le terrain. Y a-t-il eu une
-évolution ? Les pères sont-ils assez présents ? Quels obstacles rencontrent les professionnels et à qu’elles stratégies
-ont-ils pensé pour inclure davantage les pères de manière précoce dans cette institution ? Qu’ont-ils déjà mis en place
-qui fonctionne déjà ? Pour répondre à ces questions nous avons recueillis le témoignage de la pratique de 48
-professionnels. L’objectif sera d’y apporter une compréhension grâce à la littérature existante.
+évolution ? Les pères sont-ils assez présents ? Quels obstacles rencontrent les professionnels et à quelles stratégies
+ont-ils pensé pour inclure davantage les pères de manière précoce dans cette institution ? Qu'ont-ils déjà mis en place
+qui fonctionne déjà ? Pour répondre à ces questions nous avons recueilli le témoignage de la pratique de 48
+professionnels. L'objectif sera d'y apporter une compréhension grâce à la littérature existante.
 
 ### Population
 
@@ -154,9 +154,9 @@ Il est tout d’abord mis en évidence dans le discours des professionnels une �
 dans la société : « meilleure considération du rôle du père », « prennent d’avantage leur place », « évolution au profit
 de la coparentalité », « plus présents qu’il y a 10 ans », « de plus en plus égalitaire avec les mères » ou, encore, est
 évoqué un « modèle moins patriarcal ». Ces propos sont modérés par le fait que leur place ne serait pas si évidente et
-qu’elle ne serait pas encore autant reconnue dans la société que celles des mères.
+qu'elle ne serait pas encore autant reconnue dans la société que celles des mères.
 
-Une partie des professionnels mentionnent que les pères seraient davantage investit de manière générale dans leur
+Une partie des professionnels mentionnent que les pères seraient davantage investis de manière générale dans leur
 paternité, auprès de leurs enfants et de la mère, dans le quotidien mais également dans une fonction de maternage.
 L’allongement du congé paternité et parental pourrait participer à cette évolution.
 
@@ -195,9 +195,9 @@ la mère vient seule au rendez-vous », « le père reste encore en retrait chez
 sollicite », « très peu présents en consultations PMI », « absence en VAD », « pas souvent présent en VAD », « pères
 absents en PMI, mères présents » « peu de pères présents lors des actions collectives », « rarement présent », « très
 peu accompagnent l’enfant en consultation ou atelier », « présent mais subissent le rendez-vous », « si présent parasité
-par le travail », « participent peu à l’échange ».
+par le travail », « participent peu à l'échange ».
 
-Puis on retrouve un discours nuancée : « parfois », « si présence aux entretiens participent peu à l’échange », « soit
+Puis on retrouve un discours nuancé : « parfois », « si présence aux entretiens participent peu à l'échange », « soit
 le père vient avec la mère mais rarement seul », « les pères sont soit présents à tous les rendez-vous soit absents à
 tous », « variable, il y a des pères très investis, présents physiquement mais pas psychiquement et des pères qui vont
 dans une autre pièce », « présence du père mais par intérêt », « parfois présent », « moitié pères présents », «
@@ -255,8 +255,8 @@ ne donne pas envie (crainte du placement, protection de l’enfance, pour les mi
 
 ### Du côté des mères
 
-L’expérience des professionnels de la P.M.I mettent surtout en évidence deux gênes à la présence des pères dans leur
-service en lien avec des feins du côté de la mère. Il y aurait notamment des craintes autour d’un contexte de violence
+L'expérience des professionnels de la P.M.I mettent surtout en évidence deux gênes à la présence des pères dans leur
+service en lien avec des freins du côté de la mère. Il y aurait notamment des craintes autour d'un contexte de violence
 intrafamiliale/conjugale où la P.M.I pourrait être l’espace de la mère pour se confier. Les situations dépendraient
 beaucoup de la solidité du couple conjugal et parental.
 
@@ -349,9 +349,9 @@ Dulac (1998) évoque la réticence de certains hommes à demander de l’aide et
 leur est souvent difficile de demander du soutien des professionnels ils apprécient le fait d’être intégrés dans les
 soins et le développement de l’enfant. (Montigny et al, 2017)
 
-Plusieurs professionnels de PMI évoquent le manque d’intérêt des pères à l’égard des soins de l’enfant. Certains pensent
-que ce sont pour la plupart les pères qui ne prennent pas leur place. La place des mentalités restent une question
-centrale de nos jours. Hiridjee (2024) nous rappelle dans son livre l’importance de soutenir un modèle parental
+Plusieurs professionnels de PMI évoquent le manque d'intérêt des pères à l'égard des soins de l'enfant. Certains pensent
+que ce sont pour la plupart les pères qui ne prennent pas leur place. La place des mentalités reste une question
+centrale de nos jours. Hiridjee (2024) nous rappelle dans son livre l'importance de soutenir un modèle parental
 égalitaire chez les petits garçons afin de poursuivre l’évolution des générations suivantes.
 
 Cependant, plusieurs professionnels évoquent l’importance de créer des ressources répondant mieux aux besoins des pères,
@@ -373,16 +373,16 @@ auprès des professionnels.
 
 Pour une bonne partie des professionnels les freins seraient pour les mères essentiellement associés à leur situation
 conjugale ou liés à des craintes de leur part autour de la perte de contrôle ou concernant leur place auprès de
-l’enfant. Ces craintes pourraient être correspondre à la notion de gatekeeping, définit comme la manière dont la mère
-régule l’investissement ou l’accès du père auprès de l’enfant (Allen et Hauwkins, 1999). Le gatekeeping peut être
-positif ou négatif selon l’accès que la mère laisse au père. (Boiteau, Junier et Devouche, 2020).
+l'enfant. Ces craintes pourraient correspondre à la notion de gatekeeping, défini comme la manière dont la mère
+régule l'investissement ou l'accès du père auprès de l'enfant (Allen et Hauwkins, 1999). Le gatekeeping peut être
+positif ou négatif selon l'accès que la mère laisse au père. (Boiteau, Junier et Devouche, 2020).
 
-Ce processus nous évoque également les injonctions qui pèsent encore sur la femme en terme de gestion du foyer et ce qui
-a trait à la prise en charge des enfants qui peut parfois l’empêcher de s’affranchir de ces contraintes et de déléguer
+Ce processus nous évoque également les injonctions qui pèsent encore sur la femme en termes de gestion du foyer et ce qui
+a trait à la prise en charge des enfants qui peut parfois l'empêcher de s'affranchir de ces contraintes et de déléguer
 aux pères. (Hiridjee, 2024)
 
-La notion de Gatekeeping est présente également chez les professionnels de la PMI qui évoquent pour certain une possible
-mise à distance des pères renforcée par une surreprésentation des femmes dans le monde de la périnatalité que l’on
+La notion de Gatekeeping est présente également chez les professionnels de la PMI qui évoquent pour certains une possible
+mise à distance des pères renforcée par une surreprésentation des femmes dans le monde de la périnatalité que l'on
 retrouve dans la littérature. Les professionnels seraient influencés par les modèles traditionnels de la parentalité où
 les soins envers le bébé reviendraient principalement à la figure maternelle. (Boiteau et al, 2020 ; Frascarolo et al.,
 2015 ; Frascarolo et al., 2017). A cela s’ajoute pour les professionnels de la PMI des craintes dans les situations de
@@ -409,11 +409,11 @@ de soins. (Milijkovitch et Pierrehumbert, 2005). Il est effectivement relevé à
 discours des professionnels interrogés : le soin serait une affaire de femme.
 
 Concernant les perspectives, penchons-nous sur les actions à mettre en œuvre du côté du père. Le père joue un rôle
-important dans le développement social de l’enfant (MacDonald et Parke, 1984). De plus, les hommes seraient davantage
-centrés sur le faire et l’agir ; il pourrait donc être intéressant de s’appuyer sur des changements pratiques et
-concrets en favorisant les situations réelles par le biais de jeux de rôles ou d’activités. (Dulac, 1998)  Le jeu serait
-parmi toutes les taches parentales quotidiennes l’activité prépondérante aux pères et plus particulièrement les
-activités motrices. (Breton et al, 2009) L’idée serait donc de pouvoir proposer aux pères des activités davantage
+important dans le développement social de l'enfant (MacDonald et Parke, 1984). De plus, les hommes seraient davantage
+centrés sur le faire et l'agir ; il pourrait donc être intéressant de s'appuyer sur des changements pratiques et
+concrets en favorisant les situations réelles par le biais de jeux de rôles ou d'activités. (Dulac, 1998)  Le jeu serait
+parmi toutes les tâches parentales quotidiennes l'activité prépondérante aux pères et plus particulièrement les
+activités motrices. (Breton et al, 2009) L'idée serait donc de pouvoir proposer aux pères des activités davantage
 centrées sur l’éveil de l’enfant autour du jeu.
 
 Breton et al (2009) ont évoqué dans leur étude réalisée auprès d’intervenants et de pères Québécois le besoin de ces
@@ -503,8 +503,8 @@ Malgré une évolution largement soulignée par les professionnels concernant la
 insuffisamment présents dans les services de P.M.I. Il est tout de même rassurant de noter le discours de professionnels
 satisfaits de certains accompagnements possibles avec les pères.
 
-Nonobstant une avancée considérable dans les mentalités, l’investissement du père, leur place dans les services de
-P.M.I, ils semblent que des perspectives restent à explorer et à mettre en œuvre.
+Nonobstant une avancée considérable dans les mentalités, l'investissement du père, leur place dans les services de
+P.M.I, il semble que des perspectives restent à explorer et à mettre en œuvre.
 
 Points importants
 
