@@ -17,7 +17,7 @@ d’un parallèle avec la littérature existante.
 
 <!-- truncate -->
 
-## INTRODUCTION
+## Introduction
 
 ### La Place du père
 
@@ -86,7 +86,7 @@ Plusieurs auteurs décrivent cette institution de la même manière en y mettant
 l’accompagnement parental. (Saias et al, 2018 ; Galley-Raulin et Schauder, 2007 ; Bellas Cabane, 2008 ; Colombo, 2013 ;
 Dutton, 2024)
 
-## METHODOLOGIE
+## Méthodologie
 
 ### Objectifs
 
@@ -119,7 +119,7 @@ recueillies ne seraient utilisées que dans le cadre de cette recherche et que l
 L’analyse des réponses au questionnaire a été effectuée par une étude qualitative. Certains chiffres significatifs sont
 cités afin d’étayer les propos recueillis.
 
-## RESULTATS
+## Résultats
 
 Nous proposons de présenter ces données qui reposent uniquement sur les témoignages de pratiques des professionnels
 exerçant en P.M.I. ainsi que de leur vision de la situation.
@@ -326,7 +326,7 @@ Des modifications pourraient également être envisagées dans l’institution m
 horaires en fonction des besoins et des demandes de la famille (aménager les créneaux de visites à domicile par
 exemple).
 
-## DISCUSSION
+## Discussion
 
 L’objectif de cette partie est de confronter les réponses des professionnels de l’institution P.M.I avec la littérature
 existante en y ajoutant des éléments théoriques pertinents à la compréhension de notre sujet.
@@ -497,7 +497,7 @@ Un travail reste à notre sens nécessaire à mener auprès des pères de famill
 Les limites de notre étude se situent indéniablement à l’endroit du taux de réponses qui aurait pu être plus élevé.
 Aussi, les répondants ne concernent pas tous les départements de France.
 
-## CONCLUSION
+## Conclusion
 
 Malgré une évolution largement soulignée par les professionnels concernant la place du père ils restent encore
 insuffisamment présents dans les services de P.M.I. Il est tout de même rassurant de noter le discours de professionnels
@@ -513,7 +513,7 @@ Points importants
   infantile.
 - L’intervention d’un professionnel masculin serait bénéfique à l’implication du père dans ce service.
 
-## REFERENCES
+## Références
 
 Allen, S. M., Hawkins, A. J. :  Maternal gatekeeping: Mothers' beliefs and behaviors that inhibit greater father
 involvement in family work. Journal of Marriage and the Family, 1999 ; 61(1) : 199–212.
@@ -530,8 +530,8 @@ Bellas Cabane C. : « la place des pmi dans le dispositif de soin », Enfances e
 Bodard J. : « Quand les services de PMI adaptent leurs pratiques », Les cahiers du développement social urbain, 2019 ;
 70(2) : 22-23.
 
-Boiteau C., Junier H., Devouche E. : « Soutenir et accompagner la paternité », Métiers de la Petite Enfance, 2020 ; 26 (
-278) : 8-11
+Boiteau C., Junier H., Devouche E. : « Soutenir et accompagner la paternité », Métiers de la Petite Enfance, 2020 ; 
+26 (278) : 8-11
 
 Breton S., Puentes-Neuman G et Paquette D. « La formation parentale au masculin pour l’inclusion des pères dans les
 programmes d’intervention précoce », Revue des sciences de l’éducation ; 2009, 35 (1), 191-209
@@ -580,8 +580,8 @@ loi Roussel à la Protection maternelle et infantile (PMI) », Revues française
 104-118
 
 Frascarolo F., Feinberg M., Sznitman G., Favez N. : « la fonction de garde barrière : gatekeeping des professionnels
-envers les pères : une puissante influence sur le développement de l’enfant et sur la famille », Devenir , 2017 ; 29 (
-3) : 185-198
+envers les pères : une puissante influence sur le développement de l’enfant et sur la famille », Devenir , 2017 ; 
+29 (3) : 185-198
 
 Frascarolo F., Scaiola Lavanchy C., Favez N. : « Gatekeeping » maternel : réflexion et observation. Cahiers critiques de
 thérapie familiale et de pratiques de réseaux, 2015 ; 54 (1) : 31-51
