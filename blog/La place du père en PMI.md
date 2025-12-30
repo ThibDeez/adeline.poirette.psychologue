@@ -1,5 +1,5 @@
 ---
-slug: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile
+slug: la-place-du-pere-en-pmi
 title: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile
 description: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile
 authors: [Adeline Poirette]
