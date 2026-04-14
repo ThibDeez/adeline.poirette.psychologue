@@ -15,7 +15,7 @@ Après quelques mots sur l’évolution de la place du père actuelle et une pr�
 Maternelle et Infantile nous exposerons les résultats de notre étude concernant la place du père dans ce service suivi
 d’un parallèle avec la littérature existante.
 
-+{/* truncate */}
+{/* truncate */}
 
 ## Introduction
 
