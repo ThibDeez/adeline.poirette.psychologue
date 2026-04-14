@@ -111,7 +111,7 @@ Les consultations chez un psychologue en libéral ne sont généralement **pas r
 Cependant, de nombreuses **mutuelles** proposent une prise en charge partielle ou totale des consultations psychologiques.
 Je vous invite à vous renseigner auprès de votre complémentaire santé.
 
-:::info Information remboursement
+:::info[Information remboursement]
 Certaines mutuelles remboursent entre 20€ et 60€ par séance, dans la limite d'un certain nombre de séances par an.
 N'hésitez pas à demander une facture que vous pourrez transmettre à votre mutuelle.
 :::
@@ -135,7 +135,7 @@ Le secret professionnel est un principe fondamental de la pratique psychologique
 
 ---
 
-:::warning Public reçu
+:::warning[Public reçu]
 ⚠️ **Important** : Je ne propose pas de suivis psychologiques pour les **enfants et adolescents**.
 
 Mon accompagnement s'adresse aux adultes (en individuel, couple ou famille), futurs parents, jeunes parents et parents d'enfants de tout âge dans le cadre du soutien parental. Les consultations avec bébé concernent la relation parent-enfant.
