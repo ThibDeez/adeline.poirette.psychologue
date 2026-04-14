@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkadeline_poirette_psychologue=self.webpackChunkadeline_poirette_psychologue||[]).push([["220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
