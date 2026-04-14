@@ -40,10 +40,10 @@ npm run deploy
 
 ### Pages principales
 - **Page d'accueil** (`/`) - Présentation, spécialités, tarifs, contact avec Google Maps
-- **Consultations** (`/consultations`) - Motifs de consultation, déroulement des séances, tarifs, remboursements, confidentialité
-- **Mentions légales** (`/mentions-legales`) - Informations légales, RGPD, numéros ADELI et RPPS
+- **Consultations** (`/consultations/`) - Motifs de consultation, déroulement des séances, tarifs, remboursements, confidentialité
+- **Mentions légales** (`/mentions-legales/`) - Informations légales, RGPD, numéros ADELI et RPPS
 
-### Blog (/blog)
+### Blog (/blog/)
 - Article sur la place du père en PMI
 - Articles SEO-optimisés pour le référencement local
 
@@ -55,8 +55,6 @@ Le site dispose d'une identité visuelle complète :
 - **Logo avec texte** (`static/img/logo-text.svg`) - Pour la navbar (400×120)
 - **Favicon multi-formats** - Optimisé pour tous les appareils
 
-Pour plus de détails, consultez `GUIDE-LOGOS.md`.
-
 ### Favicons
 Configuration complète pour tous les appareils :
 - `favicon.ico` - Format classique
@@ -66,8 +64,6 @@ Configuration complète pour tous les appareils :
 - `android-chrome-192x192.png` et `android-chrome-512x512.png` - Android
 - `site.webmanifest` - Manifeste PWA
 - `browserconfig.xml` - Configuration Windows
-
-Pour plus de détails, consultez `CONFIGURATION-FAVICONS.md`.
 
 ### Couleurs
 Les couleurs sont définies dans `src/css/custom.css` :
@@ -135,7 +131,7 @@ Le site est entièrement responsive et s'adapte à tous les écrans :
 
 ## 🛠️ Technologies
 
-- **Docusaurus 3.9.2** : Framework de site statique
+- **Docusaurus 3.10.0** : Framework de site statique
 - **React 19** : Librairie UI
 - **TypeScript** : Typage fort
 - **CSS Modules** : Styles scopés
@@ -203,25 +199,6 @@ Le fichier `CNAME` dans `static/` garantit que votre domaine personnalisé ne se
 13. ✅ **Lien Google Maps** intégré sur la page d'accueil
 14. ✅ **Structure simplifiée** - 4 pages principales sans système docs
 
-## 🚀 Optimisations futures possibles
-
-1. **FAQ** (Foire Aux Questions) pour répondre aux questions fréquentes
-2. **Page d'accès détaillée** avec itinéraires depuis chaque ville
-3. **Témoignages** de patients (avec leur accord écrit)
-4. **Photos du cabinet** pour rassurer les futurs patients
-5. **Vidéo de présentation** pour créer du lien
-6. **Formulaire de contact** en complément de Doctolib
-7. **Actualités** sur les horaires, congés, événements
-8. **Google My Business** pour apparaître sur Google Maps
-9. **Articles de blog réguliers** pour améliorer le référencement
-10. **Newsletter** pour fidéliser (avec respect RGPD)
-11. **Carte interactive** pour localiser le cabinet
-
-## 📞 Support
-
-Pour toute question sur le site, consultez :
-- La documentation Docusaurus : https://docusaurus.io/
-
 ---
 
 ## ✅ Checklist de déploiement
@@ -240,11 +217,4 @@ Avant le déploiement final, vérifiez que :
 
 ---
 
-**Dernière mise à jour** : 28 décembre 2025  
-**Version** : 2.1  
-**Status** : ✅ Production Ready
-
-**Notes importantes** :
-- Le fichier `static/CNAME` est essentiel pour maintenir le domaine personnalisé. Ne le supprimez pas !
-- Structure simplifiée : Le système docs est désactivé (`docs: false`), toutes les pages sont dans `src/pages/` (3 pages : index, consultations, mentions-legales)
-
+**Dernière mise à jour** : 14 avril 2026
