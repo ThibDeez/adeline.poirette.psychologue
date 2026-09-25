@@ -171,12 +171,6 @@ const config: Config = {
     ],
   ],
 
-  plugins: [
-    [ require.resolve('docusaurus-lunr-search'), {
-      languages: ['fr']
-    }]
-  ],
-
   themeConfig: {
     // Image pour les réseaux sociaux (OpenGraph)
     image: 'img/og-image.jpg',

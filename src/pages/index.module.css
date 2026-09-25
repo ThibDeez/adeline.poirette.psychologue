@@ -24,15 +24,22 @@
 .number { color: var(--site-muted); font-family: Georgia, serif; font-size: 1.3rem; }
 .serviceLabel { margin: 1.6rem 0 .7rem; font-size: .75rem; text-transform: uppercase; letter-spacing: .09em; color: var(--ifm-color-primary); }
 .service h3 { font-size: 1.5rem; line-height: 1.25; }
-.service > p:last-child { font-size: .92rem; }
+.service > p:not(.serviceLabel) { font-size: .92rem; }
+.serviceLink { color: var(--ifm-color-primary); display: inline-block; font-size: .85rem; font-weight: 600; margin-top: .35rem; text-decoration: underline; text-underline-offset: 4px; }
 .price { display: flex; align-items: baseline; gap: 1.2rem; border-bottom: 1px solid var(--site-border); padding-bottom: 1rem; margin-bottom: 1.3rem; flex-wrap: wrap; }
 .price strong { font-family: Georgia, serif; font-size: 3.5rem; font-weight: 400; color: var(--ifm-heading-color); }
 .price span { color: var(--site-muted); }
+.faq { max-width: 1180px; margin: auto; padding: 5.5rem 3rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; }
+.faqList { border-top: 1px solid var(--site-border); }
+.faqItem { border-bottom: 1px solid var(--site-border); padding: 1.15rem 0; }
+.faqItem summary { color: var(--ifm-heading-color); cursor: pointer; font-weight: 600; list-style-position: outside; padding-left: .25rem; }
+.faqItem summary::marker { color: var(--ifm-color-primary); }
+.faqItem p { color: var(--site-muted); margin: .9rem 0 0 1.25rem; }
 .contact { background: var(--site-surface); padding: 5rem max(3rem, calc((100vw - 1084px) / 2)); display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; }
 .appointment { align-self: center; padding: 2.2rem; border: 1px solid var(--site-border); border-radius: 4px; }
 .appointment h3 { font-size: 1.9rem; }
 .appointment .small { margin: 1.2rem 0 0; }
 .localSeo { max-width: 920px; margin: auto; padding: 4.5rem 3rem; color: var(--site-muted); }
 .localSeo h2 { font-size: 1.7rem; color: var(--ifm-heading-color); }
-@media (max-width: 996px) { .hero { gap: 2rem; padding: 4rem 2rem; } .arch { height: 340px; } .section, .contact { gap: 2.5rem; padding: 4rem 2rem; } .services { padding: 4rem 2rem; } .serviceGrid { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 640px) { .hero { grid-template-columns: 1fr; padding: 3rem 1.5rem; gap: 2rem; } .arch { height: 240px; max-width: 270px; } .sun { top: 40px; width: 75px; height: 75px; } .hillOne { top: 140px; } .hillTwo { top: 195px; } .section, .contact { grid-template-columns: 1fr; padding: 3rem 1.5rem; gap: 1.5rem; } .services { padding: 3rem 1.5rem; } .serviceGrid { grid-template-columns: 1fr; gap: 1.5rem; } .serviceLabel { margin-top: .7rem; } .facts { justify-content: flex-start; gap: .7rem 1.5rem; padding-inline: 1.5rem; } .appointment { padding: 1.5rem; } .actions { align-items: flex-start; flex-direction: column; } .localSeo { padding: 3rem 1.5rem; } }
+@media (max-width: 996px) { .hero { gap: 2rem; padding: 4rem 2rem; } .arch { height: 340px; } .section, .faq, .contact { gap: 2.5rem; padding: 4rem 2rem; } .services { padding: 4rem 2rem; } .serviceGrid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .hero { grid-template-columns: 1fr; padding: 3rem 1.5rem; gap: 2rem; } .arch { height: 240px; max-width: 270px; } .sun { top: 40px; width: 75px; height: 75px; } .hillOne { top: 140px; } .hillTwo { top: 195px; } .section, .faq, .contact { grid-template-columns: 1fr; padding: 3rem 1.5rem; gap: 1.5rem; } .services { padding: 3rem 1.5rem; } .serviceGrid { grid-template-columns: 1fr; gap: 1.5rem; } .serviceLabel { margin-top: .7rem; } .facts { justify-content: flex-start; gap: .7rem 1.5rem; padding-inline: 1.5rem; } .appointment { padding: 1.5rem; } .actions { align-items: flex-start; flex-direction: column; } .localSeo { padding: 3rem 1.5rem; } }

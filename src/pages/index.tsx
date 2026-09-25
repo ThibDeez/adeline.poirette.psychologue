@@ -6,10 +6,37 @@ import styles from './index.module.css';
 
 const appointment = 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette';
 const services = [
-  ['Clinique adulte', 'Traverser une période difficile', 'Anxiété, mal-être, épuisement, deuil ou besoin de prendre du recul : un espace pour mettre des mots sur ce que vous vivez.'],
-  ['Périnatalité', 'Devenir parent, à votre rythme', 'Désir d’enfant, parcours de PMA, grossesse et post-partum : un accompagnement dans les changements et les questionnements de cette période.'],
-  ['Parentalité', 'Trouver votre place de parent', 'Épuisement parental, difficultés éducatives ou de coparentalité : prendre le temps de comprendre vos réactions et de soutenir vos ressources.'],
-  ['Deuil périnatal', 'Être accompagné dans la perte', 'Un espace d’écoute pour accueillir votre vécu et votre souffrance, dans le respect de votre histoire et de votre rythme.'],
+  ['Clinique adulte', 'Traverser une période difficile', 'Anxiété, mal-être, épuisement, deuil ou besoin de prendre du recul : un espace pour mettre des mots sur ce que vous vivez.', '/consultations'],
+  ['Périnatalité', 'Devenir parent, à votre rythme', 'Désir d’enfant, parcours de PMA, grossesse et post-partum : un accompagnement dans les changements et les questionnements de cette période.', '/perinatalite'],
+  ['Parentalité', 'Trouver votre place de parent', 'Épuisement parental, difficultés éducatives ou de coparentalité : prendre le temps de comprendre vos réactions et de soutenir vos ressources.', '/parentalite'],
+  ['Deuil périnatal', 'Être accompagné dans la perte', 'Un espace d’écoute pour accueillir votre vécu et votre souffrance, dans le respect de votre histoire et de votre rythme.', '/perinatalite'],
+];
+
+const frequentlyAskedQuestions = [
+  {
+    question: 'Comment se déroule une première consultation ?',
+    answer: 'La première séance dure une heure. Elle permet de faire connaissance, de parler de ce qui vous amène et de préciser ensemble vos besoins. Elle ne vous engage pas à poursuivre un accompagnement.',
+  },
+  {
+    question: 'Faut-il une ordonnance pour Mon soutien psy ?',
+    answer: 'Non. Vous pouvez prendre rendez-vous directement, sans prescription préalable. La première séance permet de vérifier que le dispositif correspond à votre situation.',
+  },
+  {
+    question: 'Puis-je venir avec mon bébé, en couple ou en famille ?',
+    answer: 'Oui, selon votre situation. Je reçois les adultes seuls, en couple ou en famille, ainsi que les parents avec leur bébé dans le cadre de consultations précoces parent-enfant.',
+  },
+  {
+    question: 'Recevez-vous les enfants et les adolescents ?',
+    answer: 'Je ne propose pas de suivi psychologique individuel pour les enfants et les adolescents. Je peux cependant recevoir les parents, avec ou sans leur enfant, dans le cadre d’un accompagnement à la parentalité.',
+  },
+  {
+    question: 'Les échanges sont-ils confidentiels ?',
+    answer: 'Oui. Les consultations se déroulent dans le respect du secret professionnel et du Code de déontologie des psychologues.',
+  },
+  {
+    question: 'Comment prendre ou déplacer un rendez-vous ?',
+    answer: 'Les rendez-vous se prennent et se gèrent sur Doctolib. En cas d’empêchement, merci de prévenir au moins 48 heures à l’avance.',
+  },
 ];
 
 export default function Home(): ReactNode {
@@ -32,12 +59,26 @@ export default function Home(): ReactNode {
       </section>
       <section className={styles.services}>
         <div className={styles.sectionHeading}><p className={styles.eyebrow}>Les accompagnements</p><Heading as="h2" id="specialites">Ce qui vous amène,<br /><em>ce que nous pouvons explorer.</em></Heading></div>
-        <div className={styles.serviceGrid}>{services.map(([label, title, description], index) => <article className={styles.service} key={label}><span className={styles.number}>0{index + 1}</span><p className={styles.serviceLabel}>{label}</p><h3>{title}</h3><p>{description}</p></article>)}</div>
+        <div className={styles.serviceGrid}>{services.map(([label, title, description, href], index) => <article className={styles.service} key={label}><span className={styles.number}>0{index + 1}</span><p className={styles.serviceLabel}>{label}</p><h3>{title}</h3><p>{description}</p><Link className={styles.serviceLink} to={href}>En savoir plus <span aria-hidden="true">→</span></Link></article>)}</div>
         <Link className={styles.textLink} to="/consultations">En savoir plus sur les consultations <span aria-hidden="true">→</span></Link>
       </section>
       <section className={styles.section}>
         <div className={styles.sectionHeading}><p className={styles.eyebrow}>En pratique</p><Heading as="h2" id="tarifs">Un cadre clair,<br /><em>dès le premier rendez-vous.</em></Heading></div>
-        <div className={styles.pricing}><div className={styles.price}><strong>50 €</strong><span>la séance · 1 heure</span></div><p>Règlement par carte bancaire ou en espèces.</p><p>Je participe au dispositif <strong>Mon soutien psy</strong>. Pour les adultes éligibles, jusqu’à 12 séances par année civile peuvent être prises en charge : 60 % par l’Assurance Maladie et, le cas échéant, 40 % par votre complémentaire santé.</p><Link className={styles.textLink} to="/consultations#mon-soutien-psy">Comprendre le remboursement et le tiers payant <span aria-hidden="true">→</span></Link><p className={styles.small}>En cas d’empêchement, merci de prévenir au moins 48 heures à l’avance.</p></div>
+        <div className={styles.pricing}><div className={styles.price}><strong>50 €</strong><span>la séance · 1 heure</span></div><p>Règlement par carte bancaire ou en espèces.</p><p>Je participe au dispositif <strong>Mon soutien psy</strong>. Pour les adultes éligibles, jusqu’à 12 séances par année civile peuvent être prises en charge : 60 % par l’Assurance Maladie et, le cas échéant, 40 % par votre complémentaire santé.</p><Link className={styles.textLink} to="/mon-soutien-psy">Comprendre le remboursement et le tiers payant <span aria-hidden="true">→</span></Link><p className={styles.small}>En cas d’empêchement, merci de prévenir au moins 48 heures à l’avance.</p></div>
+      </section>
+      <section className={styles.faq} aria-labelledby="questions-frequentes">
+        <div className={styles.sectionHeading}>
+          <p className={styles.eyebrow}>Questions fréquentes</p>
+          <Heading as="h2" id="questions-frequentes">Avant votre première consultation.</Heading>
+        </div>
+        <div className={styles.faqList}>
+          {frequentlyAskedQuestions.map(({question, answer}) => (
+            <details className={styles.faqItem} key={question}>
+              <summary>{question}</summary>
+              <p>{answer}</p>
+            </details>
+          ))}
+        </div>
       </section>
       <section className={styles.contact}>
         <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p><Link className={styles.textLink} href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux">Voir l’itinéraire sur Google Maps <span aria-hidden="true">↗</span></Link></div>
