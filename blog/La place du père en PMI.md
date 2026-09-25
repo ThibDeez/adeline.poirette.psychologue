@@ -1,4 +1,5 @@
 ---
+date: 2026-04-15T14:45:25.000Z
 slug: la-place-du-pere-en-pmi
 title: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile
 description: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile

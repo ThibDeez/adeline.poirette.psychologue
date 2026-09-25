@@ -1,51 +1,36 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  background: linear-gradient(135deg, #4a90a4 0%, #7fa99b 100%);
-  color: white;
-}
-
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 2rem;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.aboutSection {
-  padding: 4rem 0;
-}
-
-.pricingSection {
-  padding: 4rem 0;
-}
-
-.contactSection {
-  padding: 4rem 0;
-  background-color: #f8f9fa;
-}
-
-[data-theme='dark'] .contactSection {
-  background-color: #1e1e1e;
-}
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-
-  .aboutSection,
-  .pricingSection,
-  .contactSection {
-    padding: 2rem 0;
-  }
-}
+.hero { max-width: 1240px; margin: auto; padding: 6rem 3rem 5rem; display: grid; grid-template-columns: 1.4fr 1fr; align-items: center; gap: 5rem; }
+.eyebrow { text-transform: uppercase; letter-spacing: .14em; font-size: .73rem; font-weight: 600; color: var(--ifm-color-primary); margin-bottom: 1.6rem; }
+.hero h1 { font-size: clamp(2.5rem, 4.1vw, 4.3rem); line-height: 1.13; letter-spacing: -.045em; margin-bottom: 1.8rem; }
+.hero em, .sectionHeading em, .contact em { font-weight: 400; color: var(--ifm-color-primary); }
+.intro { max-width: 530px; font-size: 1.08rem; }
+.actions { display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem; margin-top: 2rem; }
+.textLink { color: var(--ifm-color-primary); font-size: .92rem; font-weight: 600; text-decoration: underline; text-underline-offset: 5px; }
+.heroNote, .small { font-size: .85rem; color: var(--site-muted); }
+.heroNote { margin-top: 1.4rem; }
+.art { text-align: center; }
+.art > span { display: block; font-family: Georgia, serif; font-style: italic; color: var(--site-muted); margin-top: 1.5rem; }
+.arch { height: 420px; max-width: 340px; margin: auto; border-radius: 180px 180px 8px 8px; background: #e7e4d9; position: relative; overflow: hidden; }
+.sun { width: 110px; height: 110px; background: #c5a88b; border-radius: 50%; position: absolute; top: 75px; right: 50px; }
+.hillOne { width: 440px; height: 320px; border-radius: 50%; background: #aab7a4; position: absolute; top: 220px; left: -175px; transform: rotate(-30deg); }
+.hillTwo { width: 420px; height: 300px; border-radius: 50%; background: #657e6d; position: absolute; top: 300px; left: 20px; transform: rotate(-35deg); }
+.line { width: 200px; height: 420px; border: 1px solid #faf8f0; border-radius: 50%; position: absolute; top: 140px; left: 110px; transform: rotate(30deg); }
+.facts { border-block: 1px solid var(--site-border); display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem 4rem; padding: 1.4rem 2rem; font-size: .82rem; color: var(--site-muted); }
+.section { max-width: 1180px; margin: auto; padding: 5.5rem 3rem; display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; }
+.sectionHeading h2, .contact h2 { font-size: clamp(2rem, 3vw, 2.8rem); line-height: 1.2; letter-spacing: -.025em; }
+.prose p { margin-bottom: 1.4rem; }
+.services { background: var(--site-surface); padding: 5rem max(3rem, calc((100vw - 1084px) / 2)); }
+.serviceGrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin: 3rem 0 2rem; }
+.service { border-top: 1px solid var(--site-border); padding-top: 1rem; }
+.number { color: var(--site-muted); font-family: Georgia, serif; font-size: 1.3rem; }
+.serviceLabel { margin: 1.6rem 0 .7rem; font-size: .75rem; text-transform: uppercase; letter-spacing: .09em; color: var(--ifm-color-primary); }
+.service h3 { font-size: 1.5rem; line-height: 1.25; }
+.service > p:last-child { font-size: .92rem; }
+.price { display: flex; align-items: baseline; gap: 1.2rem; border-bottom: 1px solid var(--site-border); padding-bottom: 1rem; margin-bottom: 1.3rem; flex-wrap: wrap; }
+.price strong { font-family: Georgia, serif; font-size: 3.5rem; font-weight: 400; color: var(--ifm-heading-color); }
+.price span { color: var(--site-muted); }
+.contact { background: var(--site-surface); padding: 5rem max(3rem, calc((100vw - 1084px) / 2)); display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; }
+.appointment { align-self: center; padding: 2.2rem; border: 1px solid var(--site-border); border-radius: 4px; }
+.appointment h3 { font-size: 1.9rem; }
+.appointment .small { margin: 1.2rem 0 0; }
+@media (max-width: 996px) { .hero { gap: 2rem; padding: 4rem 2rem; } .arch { height: 340px; } .section, .contact { gap: 2.5rem; padding: 4rem 2rem; } .services { padding: 4rem 2rem; } .serviceGrid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .hero { grid-template-columns: 1fr; padding: 3rem 1.5rem; gap: 2rem; } .arch { height: 240px; max-width: 270px; } .sun { top: 40px; width: 75px; height: 75px; } .hillOne { top: 140px; } .hillTwo { top: 195px; } .section, .contact { grid-template-columns: 1fr; padding: 3rem 1.5rem; gap: 1.5rem; } .services { padding: 3rem 1.5rem; } .serviceGrid { grid-template-columns: 1fr; gap: 1.5rem; } .serviceLabel { margin-top: .7rem; } .facts { justify-content: flex-start; gap: .7rem 1.5rem; padding-inline: 1.5rem; } .appointment { padding: 1.5rem; } .actions { align-items: flex-start; flex-direction: column; } }

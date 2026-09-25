@@ -4,14 +4,30 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// Shared labels, destinations and order for both navigation areas.
+const navigationLinks = [
+  {label: 'À propos', to: '/#apropos'},
+  {label: 'Spécialités', to: '/#specialites'},
+  {label: 'Tarifs', to: '/#tarifs'},
+  {label: 'Le cabinet', to: '/#contact'},
+  {label: 'Consultations', to: '/consultations'},
+  {label: 'Blog', to: '/blog'},
+];
+
+const appointmentLink = {
+  label: 'Prendre rendez-vous',
+  href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
+};
+
 const config: Config = {
-  title: 'Adeline Poirette - Psychologue à Saint-Amand-les-Eaux',
+  title: 'Adeline Poirette',
   tagline: 'Psychologue clinicienne spécialisée en périnatalité et accompagnement à la parentalité',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
+    experimental_vcs: false, // Publication dates are explicit; no Git history needed.
   },
 
   // Set the production url of your site here
@@ -42,13 +58,6 @@ const config: Config = {
     {
       tagName: 'meta',
       attributes: {
-        name: 'keywords',
-        content: 'psychologue, Saint-Amand-les-Eaux, Lille, Valenciennes, Douai, Orchies, Raismes, Condé-sur-l\'Escaut, Denain, Nord, périnatalité, dépression post-partum, PMA, procréation médicalement assistée, deuil périnatal, accompagnement deuil, troubles anxieux, troubles dépressifs, guidance parentale, psychologie du nourrisson, psychologue clinicienne, parentalité, consultation psychologique, soutien psychologique, psychologue périnatalité Nord',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
         property: 'og:type',
         content: 'website',
       },
@@ -65,20 +74,6 @@ const config: Config = {
       attributes: {
         name: 'geo.placename',
         content: 'Saint-Amand-les-Eaux',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
-        name: 'description',
-        content: 'Adeline Poirette, psychologue clinicienne spécialisée en périnatalité. Cabinet à Saint-Amand-les-Eaux, proche de Lille, Valenciennes, Douai. Accompagnement périnatal, parentalité, dépression post-partum, PMA, deuil périnatal.',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
-        property: 'og:description',
-        content: 'Psychologue spécialisée en périnatalité et parentalité. Cabinet à Saint-Amand-les-Eaux (Nord), accessible depuis Lille, Valenciennes, Douai et environs.',
       },
     },
     // Favicons pour différents appareils et tailles
@@ -135,14 +130,14 @@ const config: Config = {
       tagName: 'meta',
       attributes: {
         name: 'theme-color',
-        content: '#7B68B6',
+        content: '#42634f',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         name: 'msapplication-TileColor',
-        content: '#7B68B6',
+        content: '#42634f',
       },
     },
   ],
@@ -158,10 +153,6 @@ const config: Config = {
         },
         theme: {
           customCss: './src/css/custom.css',
-        },
-        gtag: {
-          trackingID: 'G-J8Y62DT7N6',
-          anonymizeIP: true,
         },
         sitemap: {
           changefreq: 'weekly',
@@ -192,33 +183,9 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+        ...navigationLinks.map((link) => ({...link, position: 'left' as const})),
         {
-          to: '/#apropos',
-          label: 'À propos',
-          position: 'left',
-        },
-        {
-          to: '/#specialites',
-          label: 'Spécialités',
-          position: 'left',
-        },
-        {
-          to: '/#tarifs',
-          label: 'Tarifs',
-          position: 'left',
-        },
-        {
-          to: '/consultations/',
-          label: 'Consultations',
-          position: 'left',
-        },
-        {
-          to: '/blog/',
-          label: 'Blog',
-          position: 'left'},
-        {
-          href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
-          label: 'Prendre rendez-vous',
+          ...appointmentLink,
           position: 'right',
           className: 'button button--primary',
         },
@@ -228,39 +195,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Cabinet',
-          items: [
-            {
-              label: 'À propos',
-              to: '/#apropos',
-            },
-            {
-              label: 'Consultations',
-              to: '/consultations/',
-            },
-            {
-              label: 'Spécialités',
-              to: '/#specialites',
-            },
-            {
-              label: 'Tarifs',
-              to: '/#tarifs',
-            },
-          ],
+          title: 'Navigation',
+          items: navigationLinks,
         },
         {
-          title: 'Contact',
+          title: 'Rendez-vous & accès',
           items: [
+            appointmentLink,
             {
-              label: 'Prendre rendez-vous',
-              href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
-            },
-            {
-              label: '📍 Saint-Amand-les-Eaux',
-              to: '/#contact',
-            },
-            {
-              label: 'Google Maps',
+              label: 'Itinéraire sur Google Maps',
               href: 'https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux',
             },
           ],
@@ -269,12 +212,8 @@ const config: Config = {
           title: 'Informations',
           items: [
             {
-              label: 'Blog',
-              to: '/blog/',
-            },
-            {
               label: 'Mentions légales',
-              to: '/mentions-legales/',
+              to: '/mentions-legales',
             },
           ],
         },

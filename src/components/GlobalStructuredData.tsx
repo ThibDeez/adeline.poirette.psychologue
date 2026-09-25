@@ -11,12 +11,10 @@ export default function GlobalStructuredData() {
     "@id": "https://www.adelinepoirette-psychologue.fr/#psychologist",
     "name": "Adeline Poirette - Psychologue Clinicienne",
     "alternateName": "Cabinet de Psychologie Adeline Poirette",
-    "description": "Psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux (59230). Accompagnement psychologique des adultes, futurs parents, jeunes parents. Dépression post-partum, PMA, deuil périnatal, guidance parentale. Consultation en cabinet proche Valenciennes, Lille, Douai.",
+    "description": "Psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux (59230). Accompagnement psychologique des adultes, futurs parents, jeunes parents. Dépression post-partum, PMA, deuil périnatal, guidance parentale. Partenaire du dispositif Mon soutien psy. Consultation en cabinet proche Valenciennes, Lille, Douai.",
     "url": "https://www.adelinepoirette-psychologue.fr",
     "image": "https://www.adelinepoirette-psychologue.fr/img/og-image.jpg",
     "logo": "https://www.adelinepoirette-psychologue.fr/img/logo.svg",
-    "telephone": "",
-    "email": "",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "13 Rue du 18 Juin 1940",
@@ -30,14 +28,6 @@ export default function GlobalStructuredData() {
       "latitude": "50.4478",
       "longitude": "3.4283"
     },
-    "openingHoursSpecification": [
-      {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi"],
-        "opens": "09:00",
-        "closes": "18:00"
-      }
-    ],
     "priceRange": "50€",
     "paymentAccepted": ["Espèces", "Carte bancaire"],
     "currenciesAccepted": "EUR",
