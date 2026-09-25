@@ -7,6 +7,19 @@ import React from 'react';
 export default function GlobalStructuredData() {
   const structuredData = {
     "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://www.adelinepoirette-psychologue.fr/#website",
+        "url": "https://www.adelinepoirette-psychologue.fr",
+        "name": "Adeline Poirette - Psychologue clinicienne",
+        "description": "Site du cabinet d'Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux, spécialisée en périnatalité et parentalité.",
+        "inLanguage": "fr-FR",
+        "publisher": {
+          "@id": "https://www.adelinepoirette-psychologue.fr/#psychologist"
+        }
+      },
+      {
     "@type": ["Psychologist", "MedicalBusiness", "LocalBusiness"],
     "@id": "https://www.adelinepoirette-psychologue.fr/#psychologist",
     "name": "Adeline Poirette - Psychologue Clinicienne",
@@ -15,6 +28,7 @@ export default function GlobalStructuredData() {
     "url": "https://www.adelinepoirette-psychologue.fr",
     "image": "https://www.adelinepoirette-psychologue.fr/img/og-image.jpg",
     "logo": "https://www.adelinepoirette-psychologue.fr/img/logo.svg",
+    "hasMap": "https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "13 Rue du 18 Juin 1940",
@@ -272,6 +286,8 @@ export default function GlobalStructuredData() {
     "sameAs": [
       "https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette"
     ]
+      }
+    ]
   };
 
   return (
@@ -281,4 +297,3 @@ export default function GlobalStructuredData() {
     />
   );
 }
-

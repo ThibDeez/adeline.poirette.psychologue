@@ -13,12 +13,12 @@ const services = [
 ];
 
 export default function Home(): ReactNode {
-  return <Layout title="Psychologue à Saint-Amand-les-Eaux" description="Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux. Accompagnement des adultes, périnatalité et parentalité. Consultations sur rendez-vous.">
+  return <Layout title="Psychologue à Saint-Amand-les-Eaux" description="Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux. Consultations adultes, périnatalité, parentalité et Mon soutien psy, sur rendez-vous au cabinet.">
     <main>
       <section className={styles.hero}>
         <div className={styles.heroContent}>
           <p className={styles.eyebrow}>Psychologue clinicienne · Saint-Amand-les-Eaux</p>
-          <h1>Un espace pour vous,<br /><em>à chaque étape de vie.</em></h1>
+          <h1>Psychologue à Saint-Amand-les-Eaux,<br /><em>un espace pour vous.</em></h1>
           <p className={styles.intro}>Je suis Adeline Poirette. J’accompagne les adultes, les parents et les futurs parents dans les moments de questionnement, de changement ou de difficulté.</p>
           <div className={styles.actions}><Link className="button button--primary" href={appointment}>Prendre rendez-vous</Link><Link className={styles.textLink} to="#apropos">Découvrir mon approche <span aria-hidden="true">↗</span></Link></div>
           <p className={styles.heroNote}>Au cabinet · En individuel, en couple ou en famille</p>
@@ -42,6 +42,10 @@ export default function Home(): ReactNode {
       <section className={styles.contact}>
         <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p><Link className={styles.textLink} href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux">Voir l’itinéraire sur Google Maps <span aria-hidden="true">↗</span></Link></div>
         <div className={styles.appointment}><h3>Faire le premier pas</h3><p>Les disponibilités et la prise de rendez-vous sont accessibles directement sur Doctolib.</p><Link className="button button--primary" href={appointment}>Prendre rendez-vous sur Doctolib</Link><p className={styles.small}>Consultations au cabinet, sur rendez-vous uniquement.</p></div>
+      </section>
+      <section className={styles.localSeo} aria-labelledby="zone-consultation">
+        <Heading as="h2" id="zone-consultation">Psychologue dans le secteur de Saint-Amand-les-Eaux</Heading>
+        <p>Le cabinet reçoit à Saint-Amand-les-Eaux, dans le Nord, à proximité de Valenciennes, Raismes, Orchies, Wallers, Vieux-Condé, Condé-sur-l’Escaut et des communes de la Porte du Hainaut. Les consultations s’adressent aux adultes, futurs parents, jeunes parents et parents qui souhaitent un accompagnement psychologique dans un cadre confidentiel.</p>
       </section>
     </main>
   </Layout>;

@@ -157,7 +157,14 @@ const config: Config = {
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
-          ignorePatterns: ['/tags/**', '/search'],
+          ignorePatterns: [
+            '/search',
+            '/blog/archive',
+            '/blog/authors',
+            '/blog/authors/**',
+            '/blog/tags',
+            '/blog/tags/**',
+          ],
           filename: 'sitemap.xml',
         },
       } satisfies Preset.Options,

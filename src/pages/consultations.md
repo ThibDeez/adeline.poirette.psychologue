@@ -1,7 +1,7 @@
 ---
-title: Consultations à Saint-Amand-les-Eaux
-description: Consultation psychologue à Saint-Amand-les-Eaux (59). Périnatalité, post-partum, parentalité. Proche Valenciennes, Lille, Douai. Partenaire Mon soutien psy. Tarif 50 €. RDV sur Doctolib.
-keywords: [psychologue Saint-Amand-les-Eaux, consultation psychologue 59230, psychologue périnatalité Nord, tarifs psychologue, remboursement psychologue, séance psychologique, psychologue Valenciennes, psy Saint-Amand, cabinet psychologue, consultation grossesse, dépression post-partum, guidance parentale Saint-Amand]
+title: Consultations psychologue à Saint-Amand-les-Eaux
+description: Consultations psychologiques à Saint-Amand-les-Eaux pour adultes, périnatalité, post-partum et parentalité. Tarif 50 €, dispositif Mon soutien psy, RDV Doctolib.
+keywords: [psychologue Saint-Amand-les-Eaux, consultation psychologue 59230, psychologue périnatalité Nord, Mon soutien psy Saint-Amand-les-Eaux, tarifs psychologue, remboursement psychologue, séance psychologique, psychologue Valenciennes, psy Saint-Amand, cabinet psychologue, consultation grossesse, dépression post-partum, guidance parentale Saint-Amand]
 ---
 
 # Consultations

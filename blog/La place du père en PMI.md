@@ -2,10 +2,10 @@
 date: 2026-04-15T14:45:25.000Z
 slug: la-place-du-pere-en-pmi
 title: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile
-description: L’implication des pères et leur accompagnement en Protection Maternelle et Infantile
+description: Réflexion clinique sur la place des pères en Protection Maternelle et Infantile, les freins rencontrés et les pistes pour mieux les accompagner.
 authors: [Adeline Poirette]
-tags: [Service de Protection Maternelle et Infantile, Place du père, Freins et perspectives]
-keywords: [Service de Protection Maternelle et Infantile, Place du père, Freins et perspectives]
+tags: [périnatalité, parentalité, Protection Maternelle et Infantile, place du père]
+keywords: [périnatalité, parentalité, Protection Maternelle et Infantile, PMI, place du père, accompagnement des pères, psychologie périnatale]
 ---
 
 # L’implication des pères et leur accompagnement en Protection Maternelle et Infantile : freins et perspectives

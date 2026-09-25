@@ -1,6 +1,6 @@
 ---
-title: Mentions légales
-description: Informations légales, RGPD et protection des données - Cabinet Adeline Poirette
+title: Mentions légales - Adeline Poirette
+description: Mentions légales, confidentialité et données personnelles du site d’Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux.
 keywords: [mentions légales, RGPD, protection données, confidentialité, psychologue]
 ---
 
@@ -80,4 +80,3 @@ Pour toute question concernant ce site, les coordonnées du cabinet sont disponi
 ---
 
 *Dernière mise à jour : 23 septembre 2026*
-
