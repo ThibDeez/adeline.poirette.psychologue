@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Adeline Poirette - Psychologue à Saint-Amand-les-Eaux Blog</title>
+        <title>Adeline Poirette Blog</title>
         <link>https://www.adelinepoirette-psychologue.fr/blog</link>
-        <description>Adeline Poirette - Psychologue à Saint-Amand-les-Eaux Blog</description>
+        <description>Adeline Poirette Blog</description>
         <lastBuildDate>Wed, 15 Apr 2026 14:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

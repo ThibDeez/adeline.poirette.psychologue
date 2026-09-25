@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.adelinepoirette-psychologue.fr/blog</id>
-    <title>Adeline Poirette - Psychologue à Saint-Amand-les-Eaux Blog</title>
+    <title>Adeline Poirette Blog</title>
     <updated>2026-04-15T14:45:25.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.adelinepoirette-psychologue.fr/blog"/>
-    <subtitle>Adeline Poirette - Psychologue à Saint-Amand-les-Eaux Blog</subtitle>
+    <subtitle>Adeline Poirette Blog</subtitle>
     <icon>https://www.adelinepoirette-psychologue.fr/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[L’implication des pères et leur accompagnement en Protection Maternelle et Infantile]]></title>
@@ -487,7 +487,7 @@ jeunesse : enjeux, défis et pistes d’action », Observatoire sur la maltraita
 Youth Services Review 157</p>]]></content>
         <author>
             <name>Adeline Poirette</name>
-            <uri>https://www.adelinepoirette-sychologue.fr</uri>
+            <uri>https://www.adelinepoirette-psychologue.fr</uri>
         </author>
         <category label="Service de Protection Maternelle et Infantile" term="Service de Protection Maternelle et Infantile"/>
         <category label="Place du père" term="Place du père"/>
