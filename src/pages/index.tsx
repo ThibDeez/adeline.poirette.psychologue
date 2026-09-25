@@ -1,202 +1,48 @@
 import type {ReactNode} from 'react';
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-
 import styles from './index.module.css';
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          Adeline Poirette
-        </Heading>
-        <p className="hero__subtitle">Psychologue clinicienne à Saint-Amand-les-Eaux</p>
-        <p className="hero__subtitle" style={{fontSize: '1.2rem', marginTop: '1rem'}}>
-          Spécialisée en périnatalité et accompagnement à la parentalité
-        </p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            href="https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette"
-            target="_blank"
-            rel="noopener noreferrer">
-            📅 Prendre rendez-vous sur Doctolib
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-function AboutSection() {
-  return (
-    <section id="apropos" className={styles.aboutSection}>
-      <div className="container">
-        <div className="row" style={{alignItems: 'center'}}>
-          <div className="col col--12">
-            <Heading as="h2" style={{textAlign: 'center', marginBottom: '2rem'}}>
-              À propos
-            </Heading>
-            <div style={{maxWidth: '800px', margin: '0 auto', fontSize: '1.1rem'}}>
-              <p>
-                Je propose des <strong>accompagnements psychologiques pour adultes</strong> traversant un mal-être,
-                des difficultés émotionnelles, de l'anxiété, un besoin de prise de recul ou d'introspection,
-                des périodes de transition, une situation de deuil, une démarche personnelle de connaissance de soi...
-              </p>
-              <p>
-                Je suis <strong>spécialisée en périnatalité et accompagnement à la parentalité</strong>.
-                J'offre une prise en charge pensée pour les parents et futurs parents pendant la grossesse et
-                le post-partum ainsi que les situations liées à la parentalité grâce à un espace de réflexion.
-              </p>
-              <p>
-                La période périnatale est souvent remplie de joie mais peut s'accompagner légitimement de doutes,
-                d'angoisses et de nombreux questionnements. Je suis disponible pour vous accompagner dans ces
-                changements physiques et psychiques. Je peux vous recevoir <strong>en individuel, en couple,
-                avec votre bébé ou en famille</strong>.
-              </p>
-              <p>
-                Je propose des <strong>suivis psychologiques parentaux</strong> (pour parents d'enfants de tout âge)
-                pour vous aider à mieux comprendre vos réactions, développer vos ressources personnelles et
-                parentales et renforcer les relations avec vos enfants.
-              </p>
-              <p style={{fontSize: '0.95rem', fontStyle: 'italic'}}>
-                Mon approche est clinique, empathique et respectueuse du rythme de chacun, visant à soutenir
-                les ressources psychiques, favoriser l'apaisement et redonner du sens à l'expérience vécue.
-              </p>
-              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: '#fff3cd', border: '1px solid #ffc107', borderRadius: '8px'}}>
-                <p style={{margin: 0, fontSize: '1rem', fontWeight: 'bold', color: '#856404'}}>
-                  ⚠️ Je ne propose pas de suivis psychologiques pour les enfants et adolescents.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-}
-
-function PricingSection() {
-  return (
-    <section id="tarifs" className={styles.pricingSection}>
-      <div className="container">
-        <Heading as="h2" style={{textAlign: 'center', marginBottom: '2rem'}}>
-          Tarifs & Remboursements
-        </Heading>
-        <div className="row">
-          <div className="col col--12">
-            <div className="card" style={{padding: '2rem', maxWidth: '600px', margin: '0 auto'}}>
-              <h3>💰 Consultation</h3>
-              <p style={{fontSize: '1.5rem', fontWeight: 'bold', color: 'var(--ifm-color-primary)'}}>
-                50€ la séance
-              </p>
-              <p style={{marginTop: '1rem'}}>
-                <strong>Moyens de paiement acceptés :</strong>
-              </p>
-              <ul>
-                <li>Espèces</li>
-                <li>Carte bancaire</li>
-              </ul>
-              <div style={{marginTop: '1.5rem', padding: '1rem', backgroundColor: 'var(--ifm-color-primary-lightest)', borderRadius: '8px'}}>
-                <p><strong>ℹ️ Information importante :</strong></p>
-                <p>
-                  Les consultations chez un psychologue libéral ne sont généralement pas remboursées
-                  par la Sécurité Sociale. Cependant, certaines mutuelles proposent une prise en charge
-                  partielle ou totale. N'hésitez pas à vous renseigner auprès de votre mutuelle.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-}
-
-function ContactSection() {
-  return (
-    <section id="contact" className={styles.contactSection}>
-      <div className="container">
-        <Heading as="h2" style={{textAlign: 'center', marginBottom: '2rem'}}>
-          Contact & Accès
-        </Heading>
-        <div className="row">
-          <div className="col col--6">
-            <div className="card" style={{padding: '2rem', height: '100%'}}>
-              <h3>📍 Adresse</h3>
-              <p>
-                <strong>Cabinet de Psychologie</strong><br />
-                13 Rue du 18 Juin 1940<br />
-                59230 Saint-Amand-les-Eaux<br />
-                <Link
-                  href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  style={{display: 'inline-block', marginTop: '0.5rem', color: 'var(--ifm-color-primary)', textDecoration: 'none', fontSize: '0.95rem'}}>
-                  Voir sur Google Maps →
-                </Link>
-              </p>
-              <p style={{fontSize: '0.9rem', color: '#666', marginTop: '1rem'}}>
-                🅿️ Parking gratuit disponible<br />
-                ♿ Entrée accessible (PMR)
-              </p>
-              <h3 style={{marginTop: '2rem'}}>📞 Contact</h3>
-              <p>
-                Pour prendre rendez-vous, merci d'utiliser la plateforme Doctolib.
-              </p>
-              <Link
-                className="button button--primary button--block"
-                href="https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{marginTop: '1rem'}}>
-                Réserver sur Doctolib
-              </Link>
-            </div>
-          </div>
-          <div className="col col--6">
-            <div className="card" style={{padding: '2rem', height: '100%'}}>
-              <h3>🕐 Horaires</h3>
-              <p>
-                Consultez les créneaux disponibles directement sur Doctolib.
-              </p>
-              <h3 style={{marginTop: '2rem'}}>ℹ️ Bon à savoir</h3>
-              <ul>
-                <li>Consultations sur rendez-vous uniquement</li>
-                <li>Reçoit en individuel, couple ou famille</li>
-                <li>Consultations avec bébé possibles</li>
-                <li>Cadre chaleureux et bienveillant</li>
-              </ul>
-              <p style={{marginTop: '1rem', fontSize: '0.9rem', fontStyle: 'italic'}}>
-                ⚠️ Pas de suivi pour enfants et adolescents
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-}
+const appointment = 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette';
+const services = [
+  ['Clinique adulte', 'Traverser une période difficile', 'Anxiété, mal-être, épuisement, deuil ou besoin de prendre du recul : un espace pour mettre des mots sur ce que vous vivez.'],
+  ['Périnatalité', 'Devenir parent, à votre rythme', 'Désir d’enfant, parcours de PMA, grossesse et post-partum : un accompagnement dans les changements et les questionnements de cette période.'],
+  ['Parentalité', 'Trouver votre place de parent', 'Épuisement parental, difficultés éducatives ou de coparentalité : prendre le temps de comprendre vos réactions et de soutenir vos ressources.'],
+  ['Deuil périnatal', 'Être accompagné dans la perte', 'Un espace d’écoute pour accueillir votre vécu et votre souffrance, dans le respect de votre histoire et de votre rythme.'],
+];
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title="Psychologue à Saint-Amand-les-Eaux"
-      description="Adeline Poirette, psychologue clinicienne spécialisée en périnatalité à Saint-Amand-les-Eaux (59). Consultation proche Valenciennes, Lille, Douai. Dépression post-partum, PMA, deuil périnatal, guidance parentale. RDV sur Doctolib.">
-      <HomepageHeader />
-      <main>
-        <AboutSection />
-        <HomepageFeatures />
-        <PricingSection />
-        <ContactSection />
-      </main>
-    </Layout>
-  );
+  return <Layout title="Psychologue à Saint-Amand-les-Eaux" description="Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux. Accompagnement des adultes, périnatalité et parentalité. Consultations sur rendez-vous.">
+    <main>
+      <section className={styles.hero}>
+        <div className={styles.heroContent}>
+          <p className={styles.eyebrow}>Psychologue clinicienne · Saint-Amand-les-Eaux</p>
+          <h1>Un espace pour vous,<br /><em>à chaque étape de vie.</em></h1>
+          <p className={styles.intro}>Je suis Adeline Poirette. J’accompagne les adultes, les parents et les futurs parents dans les moments de questionnement, de changement ou de difficulté.</p>
+          <div className={styles.actions}><Link className="button button--primary" href={appointment}>Prendre rendez-vous</Link><Link className={styles.textLink} to="#apropos">Découvrir mon approche <span aria-hidden="true">↗</span></Link></div>
+          <p className={styles.heroNote}>Au cabinet · En individuel, en couple ou en famille</p>
+        </div>
+        <div className={styles.art} aria-hidden="true"><div className={styles.arch}><div className={styles.sun} /><div className={styles.hillOne} /><div className={styles.hillTwo} /><div className={styles.line} /></div><span>Écouter. Comprendre. Avancer.</span></div>
+      </section>
+      <div className={styles.facts}><span>Adultes & parentalité</span><span>Séance de 1 heure</span><span>50 € la consultation</span><span>Dispositif Mon soutien psy</span></div>
+      <section className={styles.section}>
+        <div className={styles.sectionHeading}><p className={styles.eyebrow}>À propos</p><Heading as="h2" id="apropos">Une écoute attentive,<br /><em>un accompagnement singulier.</em></Heading></div>
+        <div className={styles.prose}><p>Psychologue clinicienne spécialisée en périnatalité et en accompagnement à la parentalité, je vous reçois dans mon cabinet à Saint-Amand-les-Eaux.</p><p>Mon approche est clinique, empathique et respectueuse du rythme de chacun. Ensemble, nous prenons le temps d’explorer ce que vous traversez, de soutenir vos ressources et de donner du sens à votre expérience.</p><p>Vous pouvez venir seul, en couple, avec votre bébé ou en famille. Les consultations avec bébé concernent la relation parent-enfant ; je ne propose pas de suivi individuel pour les enfants et les adolescents.</p><Link className={styles.textLink} to="/consultations">Comment se déroule une consultation <span aria-hidden="true">→</span></Link></div>
+      </section>
+      <section className={styles.services}>
+        <div className={styles.sectionHeading}><p className={styles.eyebrow}>Les accompagnements</p><Heading as="h2" id="specialites">Ce qui vous amène,<br /><em>ce que nous pouvons explorer.</em></Heading></div>
+        <div className={styles.serviceGrid}>{services.map(([label, title, description], index) => <article className={styles.service} key={label}><span className={styles.number}>0{index + 1}</span><p className={styles.serviceLabel}>{label}</p><h3>{title}</h3><p>{description}</p></article>)}</div>
+        <Link className={styles.textLink} to="/consultations">En savoir plus sur les consultations <span aria-hidden="true">→</span></Link>
+      </section>
+      <section className={styles.section}>
+        <div className={styles.sectionHeading}><p className={styles.eyebrow}>En pratique</p><Heading as="h2" id="tarifs">Un cadre clair,<br /><em>dès le premier rendez-vous.</em></Heading></div>
+        <div className={styles.pricing}><div className={styles.price}><strong>50 €</strong><span>la séance · 1 heure</span></div><p>Règlement par carte bancaire ou en espèces.</p><p>Je participe au dispositif <strong>Mon soutien psy</strong>. Pour les adultes éligibles, jusqu’à 12 séances par année civile peuvent être prises en charge : 60 % par l’Assurance Maladie et, le cas échéant, 40 % par votre complémentaire santé.</p><Link className={styles.textLink} to="/consultations#mon-soutien-psy">Comprendre le remboursement et le tiers payant <span aria-hidden="true">→</span></Link><p className={styles.small}>En cas d’empêchement, merci de prévenir au moins 48 heures à l’avance.</p></div>
+      </section>
+      <section className={styles.contact}>
+        <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p><Link className={styles.textLink} href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux">Voir l’itinéraire sur Google Maps <span aria-hidden="true">↗</span></Link></div>
+        <div className={styles.appointment}><h3>Faire le premier pas</h3><p>Les disponibilités et la prise de rendez-vous sont accessibles directement sur Doctolib.</p><Link className="button button--primary" href={appointment}>Prendre rendez-vous sur Doctolib</Link><p className={styles.small}>Consultations au cabinet, sur rendez-vous uniquement.</p></div>
+      </section>
+    </main>
+  </Layout>;
 }

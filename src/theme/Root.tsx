@@ -6,7 +6,7 @@ import GlobalStructuredData from '@site/src/components/GlobalStructuredData';
  * Enveloppe toute l'application et permet d'injecter des éléments globaux
  * Documentation: https://docusaurus.io/docs/swizzling#wrapper-your-site-with-root
  */
-export default function Root({children}) {
+export default function Root({children}: {children: React.ReactNode}) {
   return (
     <>
       {/* Données structurées Schema.org pour le SEO */}

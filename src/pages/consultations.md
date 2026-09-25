@@ -1,6 +1,6 @@
 ---
-title: Consultations Psychologue à Saint-Amand-les-Eaux | Adeline Poirette
-description: Consultation psychologue à Saint-Amand-les-Eaux (59). Périnatalité, post-partum, parentalité. Proche Valenciennes, Lille, Douai. Tarif 50€. RDV sur Doctolib.
+title: Consultations à Saint-Amand-les-Eaux
+description: Consultation psychologue à Saint-Amand-les-Eaux (59). Périnatalité, post-partum, parentalité. Proche Valenciennes, Lille, Douai. Partenaire Mon soutien psy. Tarif 50 €. RDV sur Doctolib.
 keywords: [psychologue Saint-Amand-les-Eaux, consultation psychologue 59230, psychologue périnatalité Nord, tarifs psychologue, remboursement psychologue, séance psychologique, psychologue Valenciennes, psy Saint-Amand, cabinet psychologue, consultation grossesse, dépression post-partum, guidance parentale Saint-Amand]
 ---
 
@@ -8,7 +8,7 @@ keywords: [psychologue Saint-Amand-les-Eaux, consultation psychologue 59230, psy
 
 Consulter un psychologue est une démarche bienveillante envers soi-même pour prendre soin de sa santé mentale et de son bien-être.
 
-## 🌟 Motifs de consultations
+## Motifs de consultations
 
 ### Clinique adulte
 
@@ -69,13 +69,13 @@ Prise en charge des :
 - **Troubles anxieux**
 - **Troubles dépressifs**
 
-## ❓ Quand exactement consulter ?
+## Quand exactement consulter ?
 
-N'attendez pas que la situation devienne critique. Plus tôt vous consultez, plus il sera facile de trouver des solutions et de retrouver votre bien-être.
+Vous pouvez consulter lorsque vous en ressentez le besoin, même si vous avez du mal à préciser ce qui vous amène. La première rencontre permet de prendre le temps d’en parler.
 
 Il n'y a pas de "bon" ou de "mauvais" motif pour consulter. Si vous ressentez le besoin d'en parler, c'est déjà une raison suffisante.
 
-## 📋 Déroulement d'une séance
+## Déroulement d'une séance
 
 ### Première consultation
 La première séance permet de :
@@ -96,7 +96,7 @@ Je peux vous recevoir :
 - **Avec votre bébé** (dans le cadre de consultations précoces parent-enfant)
 - **En famille**
 
-## 💳 Tarifs et remboursements
+## Tarifs et remboursements
 
 ### Tarifs
 - **Consultation** : 50€
@@ -105,22 +105,33 @@ Je peux vous recevoir :
 - Espèces
 - Carte bancaire
 
-### Remboursement
-Les consultations chez un psychologue en libéral ne sont généralement **pas remboursées par la Sécurité Sociale**.
+### Mon soutien psy
 
-Cependant, de nombreuses **mutuelles** proposent une prise en charge partielle ou totale des consultations psychologiques.
-Je vous invite à vous renseigner auprès de votre complémentaire santé.
+Je suis psychologue partenaire du dispositif **Mon soutien psy** de l’Assurance Maladie. Au cabinet, cet accompagnement s’adresse aux **adultes éligibles**, présentant une souffrance psychique légère à modérée.
 
-:::info[Information remboursement]
-Certaines mutuelles remboursent entre 20€ et 60€ par séance, dans la limite d'un certain nombre de séances par an.
-N'hésitez pas à demander une facture que vous pourrez transmettre à votre mutuelle.
-:::
+Vous pouvez prendre rendez-vous directement, sans prescription médicale préalable. La première rencontre permet d’évaluer vos besoins et l’adéquation de cet accompagnement à votre situation.
 
-## 📅 Prendre rendez-vous
+Dans ce cadre :
+
+- Jusqu’à **12 séances par année civile** sont prises en charge : un entretien d’évaluation et jusqu’à 11 séances de suivi.
+- Le tarif est de **50 € par séance, sans dépassement d’honoraires**.
+- L’Assurance Maladie rembourse **60 %** du tarif, soit **30 €**. Les **40 % restants**, soit **20 €**, peuvent être pris en charge par votre complémentaire santé selon vos droits.
+
+### Règlement et tiers payant
+
+En dehors des situations de tiers payant obligatoire, vous avancez le prix de la séance. Une feuille de soins vous est remise pour demander le remboursement à votre organisme d’assurance maladie.
+
+Le **tiers payant obligatoire** permet de ne pas avancer les frais dans les situations prévues par le dispositif, notamment pour les bénéficiaires de la Complémentaire santé solidaire ou de l’aide médicale de l’État, et pour les soins en lien avec une affection de longue durée, une maternité à partir du 6e mois de grossesse, un accident du travail ou une maladie professionnelle. Les justificatifs nécessaires dépendent de votre situation.
+
+La prise en charge concerne les séances réalisées dans le cadre de Mon soutien psy ; elle ne s’applique pas automatiquement à toutes les modalités de consultation présentées sur ce site.
+
+[Consulter les conditions et les démarches sur ameli.fr](https://www.ameli.fr/assure/remboursements/rembourse/remboursement-seance-psychologue-mon-soutien-psy).
+
+## Prendre rendez-vous
 
 Les rendez-vous se prennent exclusivement via la plateforme **Doctolib** :
 
-👉 [**Prendre rendez-vous sur Doctolib**](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
+[**Prendre rendez-vous sur Doctolib**](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
 
 Vous hésitez encore ? C'est normal. N'hésitez pas à me poser vos questions via la messagerie Doctolib.
 
@@ -128,15 +139,15 @@ Vous hésitez encore ? C'est normal. N'hésitez pas à me poser vos questions vi
 
 En cas d'empêchement, merci de prévenir **au moins 48h à l'avance** pour annuler ou reporter votre rendez-vous.
 
-## 🔒 Confidentialité
+## Confidentialité
 
 Tout ce qui est dit en séance reste **strictement confidentiel**.
 Le secret professionnel est un principe fondamental de la pratique psychologique.
 
 ---
 
-:::warning[Public reçu]
-⚠️ **Important** : Je ne propose pas de suivis psychologiques pour les **enfants et adolescents**.
+:::note[Public reçu]
+Je ne propose pas de suivis psychologiques pour les **enfants et adolescents**.
 
 Mon accompagnement s'adresse aux adultes (en individuel, couple ou famille), futurs parents, jeunes parents et parents d'enfants de tout âge dans le cadre du soutien parental. Les consultations avec bébé concernent la relation parent-enfant.
 :::

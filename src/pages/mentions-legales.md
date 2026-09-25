@@ -29,46 +29,39 @@ L'ensemble du contenu de ce site (textes, images, graphismes, logo, icônes, etc
 
 Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable.
 
-## Protection des données personnelles (RGPD)
+## Données personnelles et confidentialité
 
-### Responsable du traitement
+### Consultation du site
 
-Adeline Poirette est responsable du traitement des données personnelles collectées sur ce site.
+Ce site présente l’activité du cabinet. Il ne propose ni compte utilisateur, ni formulaire de contact, ni paiement en ligne. Aucun dossier patient ni renseignement de santé n’est collecté ou conservé par ce site.
 
-### Données collectées
+Le site n’utilise pas de traceur publicitaire ou de mesure d’audience. La recherche dans les pages est effectuée dans votre navigateur, sans envoyer les mots recherchés à un service externe.
 
-Ce site ne collecte **aucune donnée personnelle directement**. 
+### Préférence d’affichage et stockage local
 
-**Doctolib :** Les prises de rendez-vous s'effectuent via la plateforme Doctolib. Veuillez consulter la politique de confidentialité de Doctolib pour plus d'informations : https://www.doctolib.fr/conditions-generales-d-utilisation
+Lorsque vous choisissez le mode clair ou sombre, cette préférence est mémorisée dans le stockage local de votre navigateur. Il ne s’agit pas d’un cookie : ce réglage reste sur votre appareil et n’est pas transmis au cabinet.
 
-**Google Analytics :** Ce site utilise Google Analytics pour collecter des données anonymisées sur la navigation (pages visitées, durée, provenance). L'anonymisation des adresses IP est activée. Ces données sont utilisées uniquement pour améliorer le site et comprendre son utilisation.
+Vous pouvez modifier ce choix à tout moment avec le bouton de thème, ou l’effacer en supprimant les données de ce site dans les paramètres de votre navigateur. Le site ne fixe pas de date d’expiration à cette préférence.
 
-### Vos droits
+### Données techniques de l’hébergement
 
-Conformément au RGPD, vous disposez des droits suivants :
-- **Droit d'accès** : obtenir une copie de vos données
-- **Droit de rectification** : corriger vos données inexactes
-- **Droit à l'effacement** : supprimer vos données
-- **Droit à la limitation** : limiter le traitement de vos données
-- **Droit à la portabilité** : recevoir vos données dans un format structuré
-- **Droit d'opposition** : vous opposer au traitement de vos données
+L’accès aux pages nécessite une connexion aux serveurs de GitHub Pages. GitHub indique enregistrer les adresses IP des visiteurs à des fins de sécurité, même lorsque ceux-ci ne sont pas connectés à un compte GitHub. Ces journaux techniques relèvent de l’hébergement ; ils ne constituent pas un fichier de patients tenu par le site.
 
-Pour exercer ces droits, vous pouvez me contacter via la messagerie sécurisée Doctolib.
+Pour connaître les modalités de traitement de ces données et exercer vos droits auprès de l’hébergeur, consultez la [politique de confidentialité de GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). La [documentation de GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) précise l’enregistrement des adresses IP.
 
-### Cookies
+### Rendez-vous et services externes
 
-Ce site utilise des cookies pour :
-- **Analyser le trafic** du site via Google Analytics (avec anonymisation IP)
-- **Améliorer votre expérience** de navigation
-- **Mémoriser vos préférences** (mode sombre/clair, si activé)
+La prise de rendez-vous s’effectue sur Doctolib. Les informations que vous y communiquez sont traitées dans le cadre de ce service et de la gestion des rendez-vous du cabinet ; elles ne sont pas enregistrées sur ce site vitrine.
 
-Vous pouvez désactiver les cookies dans les paramètres de votre navigateur. Cela peut affecter certaines fonctionnalités du site.
+Les liens vers Doctolib et Google Maps vous conduisent vers des sites externes. Aucun formulaire de réservation ni carte de ces services n’est intégré aux pages. Lorsque vous les consultez, leurs propres politiques de confidentialité s’appliquent.
+
+Pour une question relative à vos données de rendez-vous ou à votre suivi, contactez le cabinet aux coordonnées indiquées sur sa [fiche Doctolib](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette). Cette page décrit uniquement le fonctionnement du site vitrine.
 
 ## Confidentialité médicale
 
 Les consultations psychologiques sont soumises au **secret professionnel** conformément à l'article 226-13 du Code pénal.
 
-Les informations échangées lors des séances restent strictement confidentielles et ne sont jamais partagées sans votre consentement explicite, sauf dans les cas prévus par la loi (danger imminent).
+Les informations échangées lors des séances restent strictement confidentielles et ne sont jamais partagées sans votre consentement explicite, sauf dans les cas prévus par la loi.
 
 ## Code de déontologie
 
@@ -82,12 +75,9 @@ En cas de litige, les tribunaux français seront seuls compétents.
 
 ## Contact
 
-Pour toute question concernant les mentions légales ou la protection de vos données, vous pouvez me contacter via :
-
-**Messagerie Doctolib :** https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette  
-**Téléphone :** Disponible sur Doctolib
+Pour toute question concernant ce site, les coordonnées du cabinet sont disponibles sur la [fiche Doctolib d’Adeline Poirette](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette).
 
 ---
 
-*Dernière mise à jour : 28 décembre 2025*
+*Dernière mise à jour : 23 septembre 2026*
 
