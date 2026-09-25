@@ -1,9 +1,7 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
 import GlobalStructuredData from '@site/src/components/GlobalStructuredData';
-
-const appointmentUrl =
-  'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette';
+import {appointmentUrl} from '@site/src/data/navigation';
 
 /**
  * Root wrapper component de Docusaurus

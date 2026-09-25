@@ -44,10 +44,6 @@ h1, h2, h3, h4, h5, h6 { color: var(--ifm-heading-color); }
 .button--primary { --ifm-button-color: #fff; background: #42634f; border-color: #42634f; color: #fff; }
 .button--primary:hover { background: #304c3a; border-color: #304c3a; color: #fff; }
 .navbar .button { padding: .5rem .9rem; }
-.footer--dark { --ifm-footer-background-color: #293c32; --ifm-footer-color: #e6ebe1; --ifm-footer-link-color: #e6ebe1; --ifm-footer-title-color: #fff; }
-.footer { padding-block: 3rem; }
-.footer__title { font-family: var(--ifm-font-family-base); font-size: .9rem; }
-.footer__link-item, .footer__copyright { font-size: .83rem; }
 .markdown { max-width: 760px; margin-inline: auto; }
 .markdown h1 { font-size: clamp(2.2rem, 5vw, 3rem); }
 .markdown h2 { font-size: 1.9rem; }

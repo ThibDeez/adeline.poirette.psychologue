@@ -1,29 +1,19 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import {
+  appointmentUrl,
+  careLinks,
+  mapsUrl,
+  navigationLinks,
+} from './src/data/navigation';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-// Shared labels, destinations and order for both navigation areas.
-const navigationLinks = [
-  {label: 'À propos', to: '/#apropos'},
-  {label: 'Spécialités', to: '/#specialites'},
-  {label: 'Tarifs', to: '/#tarifs'},
-  {label: 'Le cabinet', to: '/#contact'},
-  {label: 'Consultations', to: '/consultations'},
-  {label: 'Blog', to: '/blog'},
-];
-
 const appointmentLink = {
   label: 'Prendre rendez-vous',
-  href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
+  href: appointmentUrl,
 };
-
-const careLinks = [
-  {label: 'Périnatalité', to: '/perinatalite'},
-  {label: 'Parentalité', to: '/parentalite'},
-  {label: 'Mon soutien psy', to: '/mon-soutien-psy'},
-];
 
 const config: Config = {
   title: 'Adeline Poirette',
@@ -215,7 +205,7 @@ const config: Config = {
             appointmentLink,
             {
               label: 'Itinéraire sur Google Maps',
-              href: 'https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux',
+              href: mapsUrl,
             },
           ],
         },
