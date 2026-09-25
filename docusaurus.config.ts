@@ -19,6 +19,12 @@ const appointmentLink = {
   href: 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette',
 };
 
+const careLinks = [
+  {label: 'Périnatalité', to: '/perinatalite'},
+  {label: 'Parentalité', to: '/parentalite'},
+  {label: 'Mon soutien psy', to: '/mon-soutien-psy'},
+];
+
 const config: Config = {
   title: 'Adeline Poirette',
   tagline: 'Psychologue clinicienne spécialisée en périnatalité et accompagnement à la parentalité',
@@ -198,6 +204,10 @@ const config: Config = {
         {
           title: 'Navigation',
           items: navigationLinks,
+        },
+        {
+          title: 'Accompagnements',
+          items: careLinks,
         },
         {
           title: 'Rendez-vous & accès',

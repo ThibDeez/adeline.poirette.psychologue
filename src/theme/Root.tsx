@@ -1,5 +1,9 @@
 import React from 'react';
+import Link from '@docusaurus/Link';
 import GlobalStructuredData from '@site/src/components/GlobalStructuredData';
+
+const appointmentUrl =
+  'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette';
 
 /**
  * Root wrapper component de Docusaurus
@@ -14,7 +18,15 @@ export default function Root({children}: {children: React.ReactNode}) {
 
       {/* Contenu du site */}
       {children}
+
+      <aside className="mobileAppointmentBar" aria-label="Prise de rendez-vous">
+        <Link
+          className="button button--primary mobileAppointmentButton"
+          href={appointmentUrl}
+          aria-label="Prendre rendez-vous sur Doctolib">
+          Prendre rendez-vous
+        </Link>
+      </aside>
     </>
   );
 }
-
