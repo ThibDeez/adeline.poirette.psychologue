@@ -2,9 +2,14 @@ import type {ReactNode} from 'react';
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
+import {
+  appointmentUrl,
+  mapsUrl,
+  phoneNumber,
+  phoneUrl,
+} from '@site/src/data/navigation';
 import styles from './index.module.css';
 
-const appointment = 'https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette';
 const services = [
   ['Clinique adulte', 'Traverser une période difficile', 'Anxiété, mal-être, épuisement, deuil ou besoin de prendre du recul : un espace pour mettre des mots sur ce que vous vivez.', '/consultations'],
   ['Périnatalité', 'Devenir parent, à votre rythme', 'Désir d’enfant, parcours de PMA, grossesse et post-partum : un accompagnement dans les changements et les questionnements de cette période.', '/perinatalite'],
@@ -47,7 +52,7 @@ export default function Home(): ReactNode {
           <p className={styles.eyebrow}>Psychologue clinicienne · Saint-Amand-les-Eaux</p>
           <h1>Psychologue à Saint-Amand-les-Eaux,<br /><em>un espace pour vous.</em></h1>
           <p className={styles.intro}>Je suis Adeline Poirette. J’accompagne les adultes, les parents et les futurs parents dans les moments de questionnement, de changement ou de difficulté.</p>
-          <div className={styles.actions}><Link className="button button--primary" href={appointment}>Prendre rendez-vous</Link><Link className={styles.textLink} to="#apropos">Découvrir mon approche <span aria-hidden="true">↗</span></Link></div>
+          <div className={styles.actions}><Link className="button button--primary" href={appointmentUrl}>Prendre rendez-vous</Link><Link className={styles.textLink} to="#apropos">Découvrir mon approche <span aria-hidden="true">↗</span></Link></div>
           <p className={styles.heroNote}>Au cabinet · En individuel, en couple ou en famille</p>
         </div>
         <div className={styles.art} aria-hidden="true"><div className={styles.arch}><div className={styles.sun} /><div className={styles.hillOne} /><div className={styles.hillTwo} /><div className={styles.line} /></div><span>Écouter. Comprendre. Avancer.</span></div>
@@ -81,8 +86,8 @@ export default function Home(): ReactNode {
         </div>
       </section>
       <section className={styles.contact}>
-        <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p><Link className={styles.textLink} href="https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux">Voir l’itinéraire sur Google Maps <span aria-hidden="true">↗</span></Link></div>
-        <div className={styles.appointment}><h3>Faire le premier pas</h3><p>Les disponibilités et la prise de rendez-vous sont accessibles directement sur Doctolib.</p><Link className="button button--primary" href={appointment}>Prendre rendez-vous sur Doctolib</Link><p className={styles.small}>Consultations au cabinet, sur rendez-vous uniquement.</p></div>
+        <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</p><p><Link className={styles.textLink} href={phoneUrl}>Téléphone : {phoneNumber}</Link></p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p><Link className={styles.textLink} href={mapsUrl}>Voir l’itinéraire sur Google Maps <span aria-hidden="true">↗</span></Link></div>
+        <div className={styles.appointment}><h3>Faire le premier pas</h3><p>Les disponibilités et la prise de rendez-vous sont accessibles directement sur Doctolib.</p><Link className="button button--primary" href={appointmentUrl}>Prendre rendez-vous sur Doctolib</Link><p className={styles.small}>Consultations au cabinet, sur rendez-vous uniquement.</p></div>
       </section>
       <section className={styles.localSeo} aria-labelledby="zone-consultation">
         <Heading as="h2" id="zone-consultation">Psychologue dans le secteur de Saint-Amand-les-Eaux</Heading>

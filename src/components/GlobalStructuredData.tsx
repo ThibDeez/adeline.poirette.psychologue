@@ -24,6 +24,7 @@ export default function GlobalStructuredData() {
         description:
           'Psychologue clinicienne à Saint-Amand-les-Eaux, spécialisée en périnatalité et accompagnement à la parentalité.',
         url: 'https://www.adelinepoirette-psychologue.fr',
+        telephone: '+33614477000',
         image: 'https://www.adelinepoirette-psychologue.fr/img/og-image.jpg',
         logo: 'https://www.adelinepoirette-psychologue.fr/img/logo.svg',
         address: {

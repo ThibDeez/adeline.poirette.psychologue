@@ -1,7 +1,6 @@
 ---
 title: Mentions légales - Adeline Poirette
 description: Mentions légales, confidentialité et données personnelles du site d’Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux.
-keywords: [mentions légales, RGPD, protection données, confidentialité, psychologue]
 ---
 
 # Mentions légales
@@ -11,6 +10,7 @@ keywords: [mentions légales, RGPD, protection données, confidentialité, psych
 **Nom :** Adeline Poirette  
 **Activité :** Psychologue clinicienne  
 **Adresse :** 13 Rue du 18 Juin 1940, 59230 Saint-Amand-les-Eaux, France  
+**Téléphone :** [06 14 47 70 00](tel:+33614477000)<br />
 **Numéro ADELI :** 599326485  
 **Numéro RPPS :** 10009288001  
 
@@ -35,7 +35,7 @@ Toute reproduction, représentation, modification, publication, adaptation de to
 
 Ce site présente l’activité du cabinet. Il ne propose ni compte utilisateur, ni formulaire de contact, ni paiement en ligne. Aucun dossier patient ni renseignement de santé n’est collecté ou conservé par ce site.
 
-Le site n’utilise pas de traceur publicitaire ou de mesure d’audience. La recherche dans les pages est effectuée dans votre navigateur, sans envoyer les mots recherchés à un service externe.
+Le site n’utilise pas de traceur publicitaire ou de mesure d’audience.
 
 ### Préférence d’affichage et stockage local
 
@@ -55,7 +55,7 @@ La prise de rendez-vous s’effectue sur Doctolib. Les informations que vous y c
 
 Les liens vers Doctolib et Google Maps vous conduisent vers des sites externes. Aucun formulaire de réservation ni carte de ces services n’est intégré aux pages. Lorsque vous les consultez, leurs propres politiques de confidentialité s’appliquent.
 
-Pour une question relative à vos données de rendez-vous ou à votre suivi, contactez le cabinet aux coordonnées indiquées sur sa [fiche Doctolib](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette). Cette page décrit uniquement le fonctionnement du site vitrine.
+Pour une question relative à vos données de rendez-vous ou à votre suivi, contactez le cabinet au [06 14 47 70 00](tel:+33614477000) ou par l’intermédiaire de [Doctolib](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette). Cette page décrit uniquement le fonctionnement du site vitrine.
 
 ## Confidentialité médicale
 
@@ -75,8 +75,8 @@ En cas de litige, les tribunaux français seront seuls compétents.
 
 ## Contact
 
-Pour toute question concernant ce site, les coordonnées du cabinet sont disponibles sur la [fiche Doctolib d’Adeline Poirette](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette).
+Pour toute question concernant ce site, vous pouvez joindre le cabinet au [06 14 47 70 00](tel:+33614477000).
 
 ---
 
-*Dernière mise à jour : 23 septembre 2026*
+*Dernière mise à jour : 25 septembre 2026*

@@ -62,16 +62,16 @@
   line-height: 1.65;
 }
 
-.mapLink {
+.contactLink {
   color: #dfe7dd;
-  display: inline-block;
+  display: block;
   font-size: .82rem;
   margin-top: .75rem;
   text-decoration: underline;
   text-underline-offset: 4px;
 }
 
-.mapLink:hover {
+.contactLink:hover {
   color: #fff;
 }
 

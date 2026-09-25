@@ -6,6 +6,8 @@ import {
   careLinks,
   mapsUrl,
   navigationLinks,
+  phoneNumber,
+  phoneUrl,
 } from '@site/src/data/navigation';
 import styles from './styles.module.css';
 
@@ -38,7 +40,10 @@ export default function Footer(): ReactNode {
             <br />
             59230 Saint-Amand-les-Eaux
           </address>
-          <Link className={styles.mapLink} href={mapsUrl}>
+          <Link className={styles.contactLink} href={phoneUrl}>
+            {phoneNumber}
+          </Link>
+          <Link className={styles.contactLink} href={mapsUrl}>
             Voir l’itinéraire <span aria-hidden="true">↗</span>
           </Link>
         </div>

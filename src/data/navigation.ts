@@ -18,3 +18,6 @@ export const appointmentUrl =
 
 export const mapsUrl =
   'https://www.google.com/maps/search/?api=1&query=13+Rue+du+18+Juin+1940+Saint-Amand-les-Eaux';
+
+export const phoneNumber = '06 14 47 70 00';
+export const phoneUrl = 'tel:+33614477000';
