@@ -3,6 +3,10 @@ title: Mon soutien psy à Saint-Amand-les-Eaux
 description: Adeline Poirette est psychologue partenaire de Mon soutien psy à Saint-Amand-les-Eaux. Accès direct, séances à 50 € et remboursement par l’Assurance Maladie.
 ---
 
+import Breadcrumbs from '@site/src/components/Breadcrumbs';
+
+<Breadcrumbs current="Mon soutien psy" />
+
 # Mon soutien psy à Saint-Amand-les-Eaux
 
 Je suis psychologue partenaire du dispositif **Mon soutien psy** de l’Assurance Maladie. Au cabinet, cet accompagnement s’adresse aux **adultes** présentant une souffrance psychique légère à modérée.

@@ -3,6 +3,10 @@ title: Accompagnement à la parentalité à Saint-Amand-les-Eaux
 description: Soutien psychologique des parents, consultations parent-bébé, épuisement parental et difficultés de coparentalité à Saint-Amand-les-Eaux.
 ---
 
+import Breadcrumbs from '@site/src/components/Breadcrumbs';
+
+<Breadcrumbs current="Parentalité" />
+
 # Accompagnement à la parentalité
 
 Devenir parent transforme les repères, les relations et la vie quotidienne. Les difficultés rencontrées ne disent rien de votre valeur comme parent. Elles peuvent cependant devenir lourdes à porter seul.

@@ -3,6 +3,10 @@ title: Psychologue périnatalité à Saint-Amand-les-Eaux
 description: Accompagnement psychologique autour du désir d’enfant, de la PMA, de la grossesse, du post-partum et du deuil périnatal à Saint-Amand-les-Eaux.
 ---
 
+import Breadcrumbs from '@site/src/components/Breadcrumbs';
+
+<Breadcrumbs current="Périnatalité" />
+
 # Psychologue spécialisée en périnatalité
 
 La période qui entoure l’arrivée d’un enfant peut être traversée par des émotions intenses, des changements profonds et parfois une souffrance difficile à partager. Je vous reçois à Saint-Amand-les-Eaux pour vous offrir un espace d’écoute, avant, pendant ou après la grossesse.

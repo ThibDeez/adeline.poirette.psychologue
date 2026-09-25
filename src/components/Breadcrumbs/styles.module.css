@@ -1,0 +1,24 @@
+.breadcrumbs {
+  color: var(--site-muted);
+  font-size: .8rem;
+  margin-bottom: 2rem;
+}
+
+.breadcrumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumbs li {
+  align-items: center;
+  display: flex;
+  gap: .35rem;
+}
+
+.breadcrumbs a {
+  color: var(--ifm-color-primary);
+}

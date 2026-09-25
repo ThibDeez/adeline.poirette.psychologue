@@ -39,7 +39,7 @@ const config: Config = {
   projectName: 'adeline.poirette.psychologue', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenAnchors: 'warn', // Les ancres de la page d'accueil sont valides
+  onBrokenAnchors: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

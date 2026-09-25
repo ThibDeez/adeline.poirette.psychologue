@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6 { color: var(--ifm-heading-color); }
 .markdown { max-width: 760px; margin-inline: auto; }
 .markdown h1 { font-size: clamp(2.2rem, 5vw, 3rem); }
 .markdown h2 { font-size: 1.9rem; }
+.markdown a:not(.hash-link):not(.button) { text-decoration: underline; text-decoration-thickness: .08em; text-underline-offset: .18em; }
 :focus-visible { outline: 3px solid var(--ifm-color-primary); outline-offset: 4px; }
 .button:focus-visible { outline-color: #fff; box-shadow: 0 0 0 6px var(--ifm-color-primary-darkest); }
 .mobileAppointmentBar { display: none; }
