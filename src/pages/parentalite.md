@@ -9,13 +9,13 @@ import Breadcrumbs from '@site/src/components/Breadcrumbs';
 
 # Accompagnement à la parentalité
 
-Devenir parent transforme les repères, les relations et la vie quotidienne. Les difficultés rencontrées ne disent rien de votre valeur comme parent. Elles peuvent cependant devenir lourdes à porter seul.
+Devenir parent transforme les repères, les relations et l’organisation de la vie quotidienne. Ces changements peuvent susciter de l’incertitude, de l’épuisement ou des difficultés relationnelles qui deviennent parfois difficiles à traverser sans soutien.
 
-Je vous reçois à Saint-Amand-les-Eaux pour prendre du recul sur ce que vous vivez, mieux comprendre vos réactions et retrouver des ressources adaptées à votre famille.
+Je vous reçois à Saint-Amand-les-Eaux afin d’analyser la situation, de mieux comprendre les enjeux rencontrés et de soutenir les ressources propres à votre famille.
 
 ## Quand consulter ?
 
-Un accompagnement peut être utile notamment en cas de :
+Une consultation peut être indiquée notamment en cas de :
 
 - fatigue intense ou épuisement parental ;
 - sentiment d’être débordé, irritable ou en perte de repères ;
@@ -24,27 +24,27 @@ Un accompagnement peut être utile notamment en cas de :
 - désaccords ou tensions dans la coparentalité ;
 - culpabilité ou manque de confiance dans votre rôle de parent ;
 - changement familial difficile à traverser ;
-- besoin d’être soutenu sans être jugé.
+- besoin de disposer d’un espace de réflexion sur sa pratique parentale.
 
-Il n’est pas nécessaire d’attendre que la situation devienne insupportable pour consulter.
+La consultation peut intervenir dès que les difficultés ont un retentissement sur l’équilibre personnel, conjugal ou familial.
 
 ## Les consultations parent-bébé
 
-Les premières relations avec un bébé se construisent progressivement. Une naissance difficile, la fatigue, l’anxiété ou des attentes déçues peuvent parfois compliquer cette rencontre.
+Les premières relations avec un bébé se construisent progressivement. Une naissance difficile, la fatigue, l’anxiété ou l’écart entre les attentes et l’expérience vécue peuvent compliquer cette rencontre.
 
-Vous pouvez venir avec votre bébé pour parler de vos inquiétudes et observer ensemble ce qui se joue dans la relation. Ces consultations peuvent concerner les pleurs, le sommeil, l’alimentation, la difficulté à se sentir parent ou le sentiment de ne pas comprendre son bébé.
+Vous pouvez venir avec votre bébé afin d’aborder vos inquiétudes et d’examiner ce qui se joue dans la relation. Ces consultations peuvent concerner les pleurs, le sommeil, l’alimentation, la difficulté à investir son rôle de parent ou le sentiment de ne pas comprendre les besoins de son bébé.
 
 Elles ne constituent pas un suivi psychologique individuel de l’enfant : elles s’intéressent à la relation parent-enfant et à ce que vit la famille.
 
 ## Venir seul, en couple ou en famille
 
-Selon votre situation, je peux recevoir un parent seul, les deux parents, le couple ou plusieurs membres de la famille. La première rencontre permet de décider ensemble du cadre le plus pertinent.
+Selon la situation, je peux recevoir un parent seul, les deux parents, le couple ou plusieurs membres de la famille. Le premier entretien permet de déterminer le cadre le plus pertinent.
 
 Je ne propose pas de suivi psychologique individuel pour les enfants et les adolescents.
 
 ## Comment se déroule l’accompagnement ?
 
-La première séance dure une heure. Elle permet de préciser ce qui vous amène et ce que vous attendez de l’accompagnement. Le nombre et la fréquence des séances sont ensuite adaptés à votre situation.
+La première séance dure une heure. Elle permet de préciser le motif de consultation et les attentes liées à l’accompagnement. Le nombre et la fréquence des séances sont ensuite déterminés en fonction de la situation.
 
 La consultation coûte **50 €**.
 

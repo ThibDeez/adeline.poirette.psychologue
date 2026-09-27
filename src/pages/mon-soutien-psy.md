@@ -7,15 +7,15 @@ import Breadcrumbs from '@site/src/components/Breadcrumbs';
 
 <Breadcrumbs current="Mon soutien psy" />
 
-# Mon soutien psy à Saint-Amand-les-Eaux
+# Le dispositif Mon soutien psy à Saint-Amand-les-Eaux
 
-Je suis psychologue partenaire du dispositif **Mon soutien psy** de l’Assurance Maladie. Au cabinet, cet accompagnement s’adresse aux **adultes** présentant une souffrance psychique légère à modérée.
+Je suis psychologue partenaire du dispositif **Mon soutien psy** de l’Assurance Maladie. Au cabinet, ce dispositif s’adresse aux **adultes** présentant une souffrance psychique d’intensité légère à modérée.
 
 ## À qui s’adresse cet accompagnement ?
 
-Mon soutien psy peut notamment convenir en cas d’anxiété, de mal-être, de tristesse persistante ou de trouble dépressif d’intensité légère à modérée.
+Mon soutien psy peut notamment être proposé en cas d’anxiété, de mal-être, de tristesse persistante ou de manifestations dépressives d’intensité légère à modérée.
 
-La première rencontre permet d’évaluer vos besoins et de vérifier que ce cadre est adapté à votre situation. Lorsqu’un suivi plus spécialisé paraît nécessaire, une orientation vers un médecin, un psychiatre ou une structure de soins peut être proposée.
+L’entretien d’évaluation permet d’apprécier vos besoins et de vérifier que ce cadre est adapté à votre situation. Lorsqu’une prise en charge plus spécialisée paraît nécessaire, une orientation vers un médecin, un psychiatre ou une structure de soins peut être proposée.
 
 En cas d’urgence ou de risque suicidaire, appelez le **15** ou le **3114**, numéro national de prévention du suicide accessible 24 heures sur 24 et 7 jours sur 7.
 
@@ -23,7 +23,7 @@ En cas d’urgence ou de risque suicidaire, appelez le **15** ou le **3114**, nu
 
 Vous pouvez prendre rendez-vous directement avec un psychologue partenaire. Une prescription ou un courrier d’adressage n’est pas obligatoire.
 
-Vous pouvez également en parler au préalable avec votre médecin ou votre sage-femme, notamment si vous suivez un traitement ou si vous avez un doute sur le type d’accompagnement dont vous avez besoin.
+Vous pouvez également en parler au préalable avec votre médecin ou votre sage-femme, notamment si vous suivez un traitement ou si vous vous interrogez sur le type d’accompagnement le plus approprié.
 
 ## Nombre de séances et tarif
 
@@ -45,7 +45,7 @@ Le tiers payant obligatoire peut notamment concerner les bénéficiaires de la C
 
 ## Prendre rendez-vous
 
-Les disponibilités du cabinet et la prise de rendez-vous sont accessibles sur Doctolib :
+Les disponibilités du cabinet et la prise de rendez-vous sont accessibles directement sur Doctolib :
 
 [Prendre rendez-vous avec Adeline Poirette](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
 

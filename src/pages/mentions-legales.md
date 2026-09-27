@@ -25,7 +25,7 @@ description: Mentions légales, confidentialité et données personnelles du sit
 
 ## Propriété intellectuelle
 
-L'ensemble du contenu de ce site (textes, images, graphismes, logo, icônes, etc.) est la propriété exclusive d'Adeline Poirette, à l'exception des éléments libres de droits.
+L’ensemble du contenu de ce site (textes, images, graphismes, logo et icônes) est la propriété exclusive d’Adeline Poirette, à l’exception des éléments appartenant à des tiers ou diffusés sous une licence distincte.
 
 Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable.
 
@@ -57,15 +57,15 @@ Les liens vers Doctolib et Google Maps vous conduisent vers des sites externes. 
 
 Pour une question relative à vos données de rendez-vous ou à votre suivi, contactez le cabinet au [06 14 47 70 00](tel:+33614477000) ou par l’intermédiaire de [Doctolib](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette). Cette page décrit uniquement le fonctionnement du site vitrine.
 
-## Confidentialité médicale
+## Confidentialité des consultations
 
-Les consultations psychologiques sont soumises au **secret professionnel** conformément à l'article 226-13 du Code pénal.
+Les consultations psychologiques sont soumises au **secret professionnel**, conformément à l’article 226-13 du Code pénal.
 
 Les informations échangées lors des séances restent strictement confidentielles et ne sont jamais partagées sans votre consentement explicite, sauf dans les cas prévus par la loi.
 
 ## Code de déontologie
 
-En tant que psychologue, j'adhère au **Code de déontologie des psychologues** de la SFP (Société Française de Psychologie), accessible sur : https://www.sfpsy.org
+Ma pratique se réfère au **Code de déontologie des psychologues**, consultable sur le site de la [Société Française de Psychologie](https://www.sfpsy.org).
 
 ## Droit applicable
 
@@ -79,4 +79,4 @@ Pour toute question concernant ce site, vous pouvez joindre le cabinet au [06 14
 
 ---
 
-*Dernière mise à jour : 25 septembre 2026*
+*Dernière mise à jour : 27 septembre 2026*

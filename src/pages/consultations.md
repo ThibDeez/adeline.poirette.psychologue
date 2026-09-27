@@ -5,41 +5,41 @@ description: Consultations psychologiques pour adultes, périnatalité et parent
 
 # Consultations
 
-Consulter un psychologue peut permettre de prendre soin de sa santé psychique, de traverser une période difficile ou de mieux comprendre ce qui se joue dans sa vie.
+Une consultation psychologique offre un cadre pour aborder une souffrance psychique, traverser une période difficile ou approfondir la compréhension d’une situation personnelle ou relationnelle.
 
-Je reçois à Saint-Amand-les-Eaux les adultes, les futurs parents et les parents, dans un cadre confidentiel et respectueux du rythme de chacun.
+Je reçois à Saint-Amand-les-Eaux les adultes, les futurs parents et les parents. Chaque accompagnement s’inscrit dans un cadre confidentiel, défini en fonction de la demande et respectueux du rythme de chacun.
 
 ## Clinique adulte
 
-Vous pouvez consulter lorsque vous traversez une période d’anxiété, de mal-être, d’épuisement, de deuil ou de changement. La consultation peut également répondre à un besoin de recul, d’introspection ou de connaissance de soi.
+Vous pouvez consulter en cas d’anxiété, de mal-être, d’épuisement, de deuil ou de changement important. La démarche peut également répondre à un besoin de recul, d’élaboration ou de meilleure connaissance de soi.
 
-Il n’est pas nécessaire de pouvoir définir précisément ce qui ne va pas. La première rencontre permet justement de prendre le temps d’en parler.
+Il n’est pas nécessaire de pouvoir formuler précisément ce qui motive la consultation. Le premier entretien permet de clarifier la situation et les attentes.
 
 ## Des accompagnements adaptés à votre situation
 
 ### Périnatalité
 
-Désir d’enfant, PMA, grossesse, post-partum ou deuil périnatal : un espace pour traverser les changements et les épreuves qui entourent l’arrivée d’un enfant.
+Désir d’enfant, PMA, grossesse, post-partum ou deuil périnatal : un accompagnement clinique consacré aux enjeux psychiques qui entourent la naissance et l’accès à la parentalité.
 
 [Découvrir l’accompagnement en périnatalité](/perinatalite)
 
 ### Parentalité
 
-Épuisement parental, difficultés éducatives, coparentalité ou consultations parent-bébé : un accompagnement pour comprendre ce que vous vivez et soutenir vos ressources.
+Épuisement parental, difficultés éducatives, coparentalité ou relation parent-bébé : un accompagnement pour analyser la situation, soutenir les ressources familiales et construire des repères adaptés.
 
 [Découvrir l’accompagnement à la parentalité](/parentalite)
 
 ### Mon soutien psy
 
-Je suis psychologue partenaire du dispositif de l’Assurance Maladie. Au cabinet, il permet aux adultes éligibles de bénéficier de séances à 50 €, remboursées dans les conditions prévues par le dispositif.
+Je suis psychologue partenaire du dispositif de l’Assurance Maladie. Au cabinet, les adultes qui répondent aux critères peuvent bénéficier de séances à 50 €, remboursées selon les conditions du dispositif.
 
 [Comprendre le fonctionnement de Mon soutien psy](/mon-soutien-psy)
 
 ## Déroulement des séances
 
-La première consultation dure une heure. Elle permet de faire connaissance, de parler des raisons de votre venue et de définir ensemble vos besoins.
+La première consultation dure une heure. Elle permet de présenter le motif de votre venue, de préciser vos attentes et d’évaluer le cadre d’accompagnement le plus approprié.
 
-La suite de l’accompagnement est adaptée à votre situation. La fréquence peut être hebdomadaire, bimensuelle ou mensuelle.
+Les modalités et la fréquence des séances sont ensuite déterminées en fonction de votre situation et peuvent évoluer au cours du suivi.
 
 Selon les besoins, je peux vous recevoir :
 
@@ -66,7 +66,7 @@ En cas d’empêchement, merci de prévenir au moins **48 heures à l’avance**
 
 ## Confidentialité
 
-Les consultations se déroulent dans le respect du secret professionnel et du Code de déontologie des psychologues.
+Les consultations sont conduites dans le respect du secret professionnel et du Code de déontologie des psychologues.
 
 ---
 

@@ -32,8 +32,8 @@ export default function Footer(): ReactNode {
             </span>
           </Link>
           <p>
-            Accompagnement des adultes, des futurs parents et des parents,
-            dans un cadre confidentiel à Saint-Amand-les-Eaux.
+            Consultations pour adultes, futurs parents et parents, dans un
+            cadre clinique et confidentiel à Saint-Amand-les-Eaux.
           </p>
           <address>
             13 Rue du 18 Juin 1940
@@ -79,11 +79,11 @@ export default function Footer(): ReactNode {
 
         <div className={styles.appointment}>
           <p className={styles.appointmentLabel}>Prendre rendez-vous</p>
-          <p>Consultez les disponibilités du cabinet directement sur Doctolib.</p>
+          <p>Consultez les disponibilités du cabinet et choisissez votre créneau sur Doctolib.</p>
           <Link className="button button--primary" href={appointmentUrl}>
             Voir les disponibilités
           </Link>
-          <small>Consultations au cabinet, sur rendez-vous uniquement.</small>
+          <small>Consultations au cabinet, uniquement sur rendez-vous.</small>
         </div>
       </div>
 
