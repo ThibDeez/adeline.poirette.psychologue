@@ -1,5 +1,5 @@
 export const navigationLinks = [
-  {label: 'À propos', to: '/#apropos'},
+  {label: 'Qui suis-je ?', to: '/#qui-suis-je'},
   {label: 'Spécialités', to: '/#specialites'},
   {label: 'Tarifs', to: '/#tarifs'},
   {label: 'Le cabinet', to: '/#contact'},

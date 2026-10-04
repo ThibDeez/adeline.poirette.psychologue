@@ -28,7 +28,7 @@ const frequentlyAskedQuestions = [
   },
   {
     question: 'Puis-je venir avec mon bébé, en couple ou en famille ?',
-    answer: 'Oui, selon le motif de consultation. Je reçois les adultes en individuel, en couple ou en famille, ainsi que les parents avec leur bébé dans le cadre de consultations parent-enfant.',
+    answer: 'Oui, selon le motif de consultation. N’hésitez pas à m’envoyer un message pour évoquer cette question en amont avec moi. Je reçois les adultes en individuel, ainsi que les parents seuls, en couple ou avec leur bébé.',
   },
   {
     question: 'Recevez-vous les enfants et les adolescents ?',
@@ -52,15 +52,14 @@ export default function Home(): ReactNode {
           <p className={styles.eyebrow}>Psychologue clinicienne · Saint-Amand-les-Eaux</p>
           <h1>Psychologue clinicienne<br /><em>à Saint-Amand-les-Eaux.</em></h1>
           <p className={styles.intro}>J’accompagne les adultes, les futurs parents et les parents confrontés à une difficulté psychique, une période de transition ou des questionnements liés à la périnatalité et à la parentalité.</p>
-          <div className={styles.actions}><Link className="button button--primary" href={appointmentUrl}>Prendre rendez-vous</Link><Link className={styles.textLink} to="#apropos">Découvrir mon approche <span aria-hidden="true">↗</span></Link></div>
-          <p className={styles.heroNote}>Au cabinet · En individuel, en couple ou en famille</p>
+          <div className={styles.actions}><Link className="button button--primary" href={appointmentUrl}>Prendre rendez-vous</Link><Link className={styles.textLink} to="#qui-suis-je">En savoir plus sur mon parcours <span aria-hidden="true">↗</span></Link></div>
         </div>
         <div className={styles.art} aria-hidden="true"><div className={styles.arch}><div className={styles.sun} /><div className={styles.hillOne} /><div className={styles.hillTwo} /><div className={styles.line} /></div><span>Écouter. Comprendre. Accompagner.</span></div>
       </section>
-      <div className={styles.facts}><span>Adultes & parentalité</span><span>Séance de 1 heure</span><span>50 € la consultation</span><span>Dispositif Mon soutien psy</span></div>
+      <div className={styles.facts}><span>Adultes, périnatalité & parentalité</span><span>Séance de 1 heure</span><span>50 € la consultation</span><span>Dispositif Mon soutien psy</span></div>
       <section className={styles.section}>
-        <div className={styles.sectionHeading}><p className={styles.eyebrow}>À propos</p><Heading as="h2" id="apropos">Une approche clinique,<br /><em>attentive à chaque parcours.</em></Heading></div>
-        <div className={styles.prose}><p>Psychologue clinicienne spécialisée en périnatalité et en accompagnement à la parentalité, je vous reçois dans mon cabinet à Saint-Amand-les-Eaux.</p><p>Ma pratique repose sur une écoute clinique, bienveillante et respectueuse du rythme de chacun. Le travail thérapeutique permet d’examiner les difficultés rencontrées, d’en comprendre les enjeux et de soutenir les ressources propres à chaque personne.</p><p>Les consultations peuvent se dérouler en individuel, en couple, avec votre bébé ou en famille. Les consultations avec un bébé portent sur la relation parent-enfant ; je ne propose pas de suivi psychologique individuel aux enfants ni aux adolescents.</p><Link className={styles.textLink} to="/consultations">Découvrir le cadre des consultations <span aria-hidden="true">→</span></Link></div>
+        <div className={styles.sectionHeading}><Heading as="h2" id="qui-suis-je">Qui suis-je ?</Heading></div>
+        <div className={styles.prose}><p>Je suis psychologue clinicienne diplômée depuis 2015. J’accompagne des adultes à différentes périodes de leur vie : pour traverser une difficulté, mieux comprendre ce qui se rejoue dans certaines situations ou relations, ou prendre un temps pour soi lorsque quelque chose ne va plus comme avant.</p><p>Au fil de mon parcours professionnel, je me suis particulièrement spécialisée dans les questions liées à la <strong>périnatalité et à la parentalité</strong>. Je suis notamment titulaire d’un <strong>diplôme universitaire en psychopathologie périnatale et développement précoce</strong>.</p><p>Cette spécialisation me permet d’accompagner les futurs parents et les parents autour de ce qui peut se vivre psychiquement pendant la grossesse, après la naissance ou dans les premières années de la parentalité : anxiété ou dépression périnatale, vécu difficile ou traumatique de l’accouchement, parcours de PMA, deuil périnatal, difficultés dans la rencontre avec son bébé, épuisement parental, questionnements autour du lien et de l’attachement.</p><Link className={styles.textLink} to="/consultations">Découvrir le cadre des consultations <span aria-hidden="true">→</span></Link></div>
       </section>
       <section className={styles.services}>
         <div className={styles.sectionHeading}><p className={styles.eyebrow}>Les accompagnements</p><Heading as="h2" id="specialites">Des consultations adaptées<br /><em>à votre situation.</em></Heading></div>
@@ -68,7 +67,7 @@ export default function Home(): ReactNode {
         <Link className={styles.textLink} to="/consultations">En savoir plus sur les consultations <span aria-hidden="true">→</span></Link>
       </section>
       <section className={styles.section}>
-        <div className={styles.sectionHeading}><p className={styles.eyebrow}>En pratique</p><Heading as="h2" id="tarifs">Un cadre clair,<br /><em>dès le premier rendez-vous.</em></Heading></div>
+        <div className={styles.sectionHeading}><Heading as="h2" id="tarifs">En pratique</Heading></div>
         <div className={styles.pricing}><div className={styles.price}><strong>50 €</strong><span>la séance · 1 heure</span></div><p>Règlement par carte bancaire ou en espèces.</p><p>Je participe au dispositif <strong>Mon soutien psy</strong>. Pour les adultes éligibles, jusqu’à 12 séances par année civile peuvent être prises en charge : 60 % par l’Assurance Maladie et, le cas échéant, 40 % par votre complémentaire santé.</p><Link className={styles.textLink} to="/mon-soutien-psy">Comprendre le remboursement et le tiers payant <span aria-hidden="true">→</span></Link><p className={styles.small}>En cas d’empêchement, merci de prévenir au moins 48 heures à l’avance.</p></div>
       </section>
       <section className={styles.faq} aria-labelledby="questions-frequentes">

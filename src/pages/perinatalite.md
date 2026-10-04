@@ -38,18 +38,16 @@ Les motifs de consultation peuvent notamment concerner :
 
 Vous pouvez venir seul, en couple ou avec votre bébé.
 
+## Les consultations parent-bébé
+
+Les premières relations avec un bébé se construisent progressivement. Une naissance difficile, la fatigue, l’anxiété ou l’écart entre les attentes et l’expérience vécue peuvent compliquer cette rencontre.
+
+Vous pouvez venir avec votre bébé afin d’aborder vos inquiétudes et d’examiner ce qui se joue dans la relation. Ces consultations peuvent concerner les pleurs, le sommeil, l’alimentation, la difficulté à investir son rôle de parent ou le sentiment de ne pas comprendre les besoins de son bébé.
+
+Elles ne constituent pas un suivi psychologique individuel de l’enfant : elles s’intéressent à la relation parent-enfant et à ce que vit la famille.
+
 <h2 id="deuil-perinatal">Deuil périnatal</h2>
 
 Une fausse couche, une interruption médicale de grossesse, un décès in utero ou néonatal constituent des pertes singulières, parfois difficiles à faire reconnaître et à partager avec l’entourage.
 
 La consultation offre un cadre pour élaborer cette expérience, dans le respect de votre histoire et de votre temporalité. Le partenaire ou le couple peuvent également être reçus.
-
-## Le déroulement de l’accompagnement
-
-La première consultation dure une heure. Elle permet de présenter votre situation, de préciser vos attentes et de définir un cadre d’accompagnement adapté. La fréquence des séances est ensuite déterminée en fonction de vos besoins.
-
-La consultation coûte **50 €**. Certaines séances peuvent entrer dans le cadre du dispositif [Mon soutien psy](/mon-soutien-psy), selon votre situation.
-
-[Prendre rendez-vous sur Doctolib](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
-
-Vous pouvez également consulter la page consacrée à [l’accompagnement à la parentalité](/parentalite) ou retrouver [toutes les modalités pratiques](/consultations).

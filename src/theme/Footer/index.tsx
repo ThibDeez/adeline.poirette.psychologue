@@ -83,7 +83,7 @@ export default function Footer(): ReactNode {
           <Link className="button button--primary" href={appointmentUrl}>
             Voir les disponibilités
           </Link>
-          <small>Consultations au cabinet, uniquement sur rendez-vous.</small>
+          <small>Consultations au cabinet ou en téléconsultation, uniquement sur rendez-vous.</small>
         </div>
       </div>
 
