@@ -94,7 +94,7 @@ export default function Footer(): ReactNode {
 
         <div className={styles.appointment}>
           <p className={styles.appointmentLabel}>Prendre rendez-vous</p>
-          <p>Consultez les disponibilités du cabinet et choisissez votre créneau sur Doctolib.</p>
+          <p>Consultez les disponibilités et choisissez votre créneau directement sur Doctolib.</p>
           <Link className="button button--primary" href={appointmentUrl}>
             Voir les disponibilités
           </Link>

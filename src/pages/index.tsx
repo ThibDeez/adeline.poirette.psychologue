@@ -48,7 +48,7 @@ const frequentlyAskedQuestions = [
 ];
 
 export default function Home(): ReactNode {
-  return <Layout title="Psychologue à Saint-Amand-les-Eaux" description="Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux. Consultations adultes, périnatalité, parentalité et Mon soutien psy, sur rendez-vous au cabinet.">
+  return <Layout title="Psychologue à Saint-Amand-les-Eaux" description="Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux. Consultations adultes, périnatalité, parentalité et Mon soutien psy, au cabinet ou en téléconsultation.">
     <main>
       <LocalPracticeStructuredData />
       <section className={styles.hero}>
@@ -90,7 +90,7 @@ export default function Home(): ReactNode {
       </section>
       <section className={styles.contact}>
         <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p><strong>Adresse :</strong><br /><Link className={styles.addressLink} href={mapsUrl}>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</Link></p><p className={styles.phoneContact}><strong>Téléphone :</strong><br /><Link className={styles.phoneNumber} href={phoneUrl}>{phoneNumber}</Link></p><p className={styles.instagramContact}><span className={styles.instagramLabel}><InstagramIcon /><strong>Instagram :</strong></span><Link className={styles.textLink} href={instagramUrl} target="_blank" rel="noopener noreferrer" aria-label="Compte Instagram @lapsydunord">@lapsydunord</Link></p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p></div>
-        <div className={styles.appointment}><h3>Prendre rendez-vous</h3><p>Consultez les disponibilités du cabinet et choisissez votre créneau directement sur Doctolib.</p><Link className="button button--primary" href={appointmentUrl}>Accéder à Doctolib</Link><p className={styles.small}>Consultations au cabinet, uniquement sur rendez-vous.</p></div>
+        <div className={styles.appointment}><h3>Prendre rendez-vous</h3><p>Consultez les disponibilités et choisissez votre créneau directement sur Doctolib.</p><Link className="button button--primary" href={appointmentUrl}>Accéder à Doctolib</Link><p className={styles.small}>Consultations au cabinet ou en téléconsultation, uniquement sur rendez-vous.</p></div>
       </section>
       <section className={styles.localSeo} aria-labelledby="zone-consultation">
         <Heading as="h2" id="zone-consultation">Psychologue dans le secteur de Saint-Amand-les-Eaux</Heading>
