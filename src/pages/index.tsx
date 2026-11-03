@@ -67,8 +67,7 @@ export default function Home(): ReactNode {
       </section>
       <section className={styles.services}>
         <div className={styles.sectionHeading}><p className={styles.eyebrow}>Les accompagnements</p><Heading as="h2" id="specialites">Des consultations adaptées<br /><em>à votre situation.</em></Heading></div>
-        <div className={styles.serviceGrid}>{services.map(([label, title, description, href], index) => <article className={styles.service} key={label}><span className={styles.number}>0{index + 1}</span><p className={styles.serviceLabel}>{label}</p><h3>{title}</h3><p>{description}</p><Link className={styles.serviceLink} to={href}>En savoir plus <span aria-hidden="true">→</span></Link></article>)}</div>
-        <Link className={styles.textLink} to="/consultations">En savoir plus sur les consultations <span aria-hidden="true">→</span></Link>
+        <div className={styles.serviceGrid}>{services.map(([label, title, description, href], index) => <article className={styles.service} key={label}><span className={styles.number}>0{index + 1}</span><p className={styles.serviceLabel}>{label}</p><h3><Link className={styles.serviceTitle} to={href}>{title}<span aria-hidden="true"> →</span></Link></h3><p>{description}</p></article>)}</div>
       </section>
       <section className={styles.section}>
         <div className={styles.sectionHeading}><Heading as="h2" id="tarifs">En pratique</Heading></div>
