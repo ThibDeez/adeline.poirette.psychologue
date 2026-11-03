@@ -1,15 +1,22 @@
 # Adeline Poirette — Psychologue clinicienne
 
-Site vitrine à Saint-Amand-les-Eaux, construit avec Docusaurus, React et TypeScript. Hébergement statique sur GitHub Pages, avec domaine personnalisé.
+Site vitrine construit avec Docusaurus, React et TypeScript. Le site est hébergé sur GitHub Pages avec un domaine personnalisé.
 
-## Développement
+## Prérequis
+
+- Node.js 20 ou supérieur
+- npm
+
+## Développement local
+
+Installer les dépendances puis lancer le serveur de développement :
 
 ```sh
 npm ci
 npm start
 ```
 
-## Vérifications et publication
+## Vérifier et prévisualiser le build
 
 ```sh
 npm run typecheck
@@ -17,25 +24,14 @@ npm run build
 npm run serve
 ```
 
-Les contrôles de typage et de compilation sont aussi exécutés par GitHub Actions. La publication reste une action distincte : `npm run deploy`.
+`npm run serve` prévisualise le site généré dans le dossier `build/`.
 
-## Contenu
+## Publier sur GitHub Pages
 
-- `src/pages/index.tsx` : accueil, approche, accompagnements et informations pratiques.
-- `src/pages/consultations.md` : déroulement et modalités des consultations.
-- `src/pages/mentions-legales.md` : mentions légales et confidentialité.
-- `blog/` : articles et auteurs.
-- `src/components/GlobalStructuredData.tsx` : données structurées du cabinet.
-- `docusaurus.config.ts` : navigation, pied de page et métadonnées.
+Après avoir vérifié le build, lancer :
 
-## Présentation
+```sh
+npm run deploy
+```
 
-Palette sauge et ivoire, titres en Georgia et texte en police système, sans téléchargement de polices externes. Illustration d’accueil réalisée en CSS. Le thème sombre et les petits écrans disposent de styles adaptés.
-
-La préférence de thème est mémorisée localement. Les rendez-vous se prennent sur Doctolib, via un lien externe.
-
-## Mise à jour des informations
-
-Lors d’un changement de tarif, d’adresse ou de modalités, vérifier l’accueil, la page Consultations, les mentions légales et les données structurées. Les horaires non confirmés ne sont pas publiés. Les articles déclarent leur date de publication dans le front matter ; le build ne dépend pas de l’historique Git. Le fichier `static/CNAME` conserve le domaine personnalisé dans le build.
-
-Avant publication, vérifier le rendu mobile, le thème sombre, les liens externes et l’exactitude des informations professionnelles. Aucun portrait, diplôme ou parcours supplémentaire ne doit être ajouté sans contenu validé par la praticienne.
+La publication est manuelle : ce dépôt ne contient actuellement aucun workflow GitHub Actions pour lancer les vérifications ou publier automatiquement. Le fichier `static/CNAME` conserve le domaine personnalisé lors du build.
