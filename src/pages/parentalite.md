@@ -4,14 +4,23 @@ description: Soutien psychologique des parents, consultations parent-bébé, ép
 ---
 
 import Breadcrumbs from '@site/src/components/Breadcrumbs';
+import styles from './content-pages.module.css';
 
-<Breadcrumbs current="Parentalité" />
+<div className={styles.page}>
+
+<Breadcrumbs current="Parentalité" currentPath="/parentalite" />
+
+<header className={styles.hero}>
 
 # Accompagnement à la parentalité
 
 Devenir parent transforme les repères, les relations et l’organisation de la vie quotidienne. Ces changements peuvent susciter de l’incertitude, de l’épuisement ou des difficultés relationnelles qui deviennent parfois difficiles à traverser sans soutien.
 
 Je vous reçois à Saint-Amand-les-Eaux afin d’analyser la situation, de mieux comprendre les enjeux rencontrés et de soutenir les ressources propres à votre famille.
+
+</header>
+
+<section className={styles.topic}>
 
 ## Quand consulter ?
 
@@ -28,8 +37,16 @@ Une consultation peut être indiquée notamment en cas de :
 
 La consultation peut intervenir dès que les difficultés ont un retentissement sur l’équilibre personnel, conjugal ou familial.
 
+</section>
+
+<section className={styles.topic}>
+
 ## Venir seul, en couple ou en famille
 
 Selon la situation, je peux recevoir un parent seul, les deux parents, le couple ou plusieurs membres de la famille. Le premier entretien permet de déterminer le cadre le plus pertinent.
 
 Je ne propose pas de suivi psychologique individuel pour les enfants et les adolescents.
+
+</section>
+
+</div>

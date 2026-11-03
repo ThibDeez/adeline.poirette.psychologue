@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 import InstagramIcon from '@site/src/components/InstagramIcon';
+import LocalPracticeStructuredData from '@site/src/components/LocalPracticeStructuredData';
 import {
   appointmentUrl,
   instagramUrl,
@@ -49,6 +50,7 @@ const frequentlyAskedQuestions = [
 export default function Home(): ReactNode {
   return <Layout title="Psychologue à Saint-Amand-les-Eaux" description="Adeline Poirette, psychologue clinicienne à Saint-Amand-les-Eaux. Consultations adultes, périnatalité, parentalité et Mon soutien psy, sur rendez-vous au cabinet.">
     <main>
+      <LocalPracticeStructuredData />
       <section className={styles.hero}>
         <div className={styles.heroContent}>
           <p className={styles.eyebrow}>Psychologue clinicienne · Saint-Amand-les-Eaux</p>

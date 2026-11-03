@@ -4,11 +4,11 @@ description: Adeline Poirette est psychologue partenaire de Mon soutien psy à S
 ---
 
 import Breadcrumbs from '@site/src/components/Breadcrumbs';
-import styles from './mon-soutien-psy.module.css';
+import styles from './content-pages.module.css';
 
 <div className={styles.page}>
 
-<Breadcrumbs current="Mon soutien psy" />
+<Breadcrumbs current="Mon soutien psy" currentPath="/mon-soutien-psy" />
 
 <header className={styles.hero}>
 

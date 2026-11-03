@@ -1,7 +1,16 @@
 ---
-title: Consultations psychologue à Saint-Amand-les-Eaux
+title: Consultations psychologiques à Saint-Amand-les-Eaux
 description: Consultations psychologiques pour adultes, périnatalité et parentalité à Saint-Amand-les-Eaux. Séance d’une heure à 50 €, sur rendez-vous.
 ---
+
+import Breadcrumbs from '@site/src/components/Breadcrumbs';
+import styles from './content-pages.module.css';
+
+<div className={styles.page}>
+
+<Breadcrumbs current="Consultations" currentPath="/consultations" parent={null} />
+
+<header className={styles.hero}>
 
 # Consultations
 
@@ -9,11 +18,19 @@ Une consultation psychologique offre un cadre pour aborder une souffrance psychi
 
 Je reçois à Saint-Amand-les-Eaux les adultes, les futurs parents et les parents. Chaque accompagnement s’inscrit dans un cadre confidentiel, défini en fonction de la demande et respectueux du rythme de chacun.
 
+</header>
+
+<section className={styles.topic}>
+
 ## Clinique adulte
 
 Vous pouvez consulter en cas d’anxiété, de mal-être, d’épuisement, de deuil ou de changement important. La démarche peut également répondre à un besoin de recul, d’élaboration ou de meilleure connaissance de soi.
 
 Il n’est pas nécessaire de pouvoir formuler précisément ce qui motive la consultation. Le premier entretien permet de clarifier la situation et les attentes.
+
+</section>
+
+<section className={styles.topic}>
 
 ## Des accompagnements adaptés à votre situation
 
@@ -35,6 +52,10 @@ Je suis psychologue partenaire du dispositif de l’Assurance Maladie. Au cabine
 
 [Comprendre le fonctionnement de Mon soutien psy](/mon-soutien-psy)
 
+</section>
+
+<section className={styles.topic}>
+
 ## Déroulement des séances
 
 La première consultation dure une heure. Elle permet de présenter le motif de votre venue, de préciser vos attentes et d’évaluer le cadre d’accompagnement le plus approprié.
@@ -49,6 +70,10 @@ Selon les besoins, je peux vous recevoir :
 - en famille.
 
 Je ne propose pas de suivi psychologique individuel pour les enfants et les adolescents.
+
+</section>
+
+<section className={styles.topic}>
 
 ## Tarif et règlement
 
@@ -68,7 +93,15 @@ En cas d’empêchement, merci de prévenir au moins **48 heures à l’avance**
 
 Les consultations sont conduites dans le respect du secret professionnel et du Code de déontologie des psychologues.
 
+</section>
+
+<footer className={styles.credentials}>
+
 ---
 
 *Adeline Poirette — Psychologue clinicienne*<br />
 *N° ADELI : 599326485 — N° RPPS : 10009288001*
+
+</footer>
+
+</div>

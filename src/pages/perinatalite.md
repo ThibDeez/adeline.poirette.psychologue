@@ -1,15 +1,24 @@
 ---
-title: Psychologue périnatalité à Saint-Amand-les-Eaux
+title: Psychologue en périnatalité à Saint-Amand-les-Eaux
 description: Accompagnement psychologique autour du désir d’enfant, de la PMA, de la grossesse, du post-partum et du deuil périnatal à Saint-Amand-les-Eaux.
 ---
 
 import Breadcrumbs from '@site/src/components/Breadcrumbs';
+import styles from './content-pages.module.css';
 
-<Breadcrumbs current="Périnatalité" />
+<div className={styles.page}>
+
+<Breadcrumbs current="Périnatalité" currentPath="/perinatalite" />
+
+<header className={styles.hero}>
 
 # Psychologue spécialisée en périnatalité
 
 La période qui entoure la naissance d’un enfant engage d’importants remaniements psychiques, relationnels et familiaux. Elle peut également faire apparaître une souffrance difficile à exprimer ou à partager. Je vous reçois à Saint-Amand-les-Eaux avant, pendant ou après la grossesse, dans un cadre clinique adapté à ces enjeux.
+
+</header>
+
+<section className={styles.topic}>
 
 ## Désir d’enfant et parcours de conception
 
@@ -22,6 +31,10 @@ La consultation permet d’élaborer ce vécu, d’accompagner les différentes 
 La grossesse n’est pas toujours vécue sereinement. Une consultation peut être indiquée en cas d’anxiété, de craintes liées à l’accouchement, de difficultés à investir la grossesse ou de réactivation d’éléments de l’histoire personnelle et familiale.
 
 L’accompagnement permet également de préparer psychiquement l’arrivée du bébé et les transformations qu’elle implique.
+
+</section>
+
+<section className={styles.topic}>
 
 ## Après la naissance et post-partum
 
@@ -46,8 +59,16 @@ Vous pouvez venir avec votre bébé afin d’aborder vos inquiétudes et d’exa
 
 Elles ne constituent pas un suivi psychologique individuel de l’enfant : elles s’intéressent à la relation parent-enfant et à ce que vit la famille.
 
+</section>
+
+<section className={styles.topic}>
+
 <h2 id="deuil-perinatal">Deuil périnatal</h2>
 
 Une fausse couche, une interruption médicale de grossesse, un décès in utero ou néonatal constituent des pertes singulières, parfois difficiles à faire reconnaître et à partager avec l’entourage.
 
 La consultation offre un cadre pour élaborer cette expérience, dans le respect de votre histoire et de votre temporalité. Le partenaire ou le couple peuvent également être reçus.
+
+</section>
+
+</div>
