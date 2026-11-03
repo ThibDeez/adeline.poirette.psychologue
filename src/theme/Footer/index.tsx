@@ -1,9 +1,11 @@
 import type {ReactNode} from 'react';
 import Link from '@docusaurus/Link';
 import useBaseUrl from '@docusaurus/useBaseUrl';
+import InstagramIcon from '@site/src/components/InstagramIcon';
 import {
   appointmentUrl,
   careLinks,
+  instagramUrl,
   mapsUrl,
   navigationLinks,
   phoneNumber,
@@ -36,16 +38,29 @@ export default function Footer(): ReactNode {
             cadre clinique et confidentiel à Saint-Amand-les-Eaux.
           </p>
           <address>
-            13 Rue du 18 Juin 1940
+            <strong>Adresse :</strong>
             <br />
-            59230 Saint-Amand-les-Eaux
+            <Link className={styles.addressLink} href={mapsUrl}>
+              13 Rue du 18 Juin 1940
+              <br />
+              59230 Saint-Amand-les-Eaux
+            </Link>
           </address>
-          <Link className={styles.contactLink} href={phoneUrl}>
-            {phoneNumber}
-          </Link>
-          <Link className={styles.contactLink} href={mapsUrl}>
-            Voir l’itinéraire <span aria-hidden="true">↗</span>
-          </Link>
+          <div className={styles.phoneContact}>
+            <strong>Téléphone :</strong>
+            <Link className={styles.phoneNumber} href={phoneUrl}>
+              {phoneNumber}
+            </Link>
+          </div>
+          <div className={styles.instagramRow}>
+            <div className={styles.instagramLabel}>
+              <InstagramIcon />
+              <strong>Instagram :</strong>
+            </div>
+            <Link className={styles.instagramHandle} href={instagramUrl} target="_blank" rel="noopener noreferrer" aria-label="Compte Instagram @lapsydunord">
+              @lapsydunord
+            </Link>
+          </div>
         </div>
 
         <nav className={styles.linkColumns} aria-label="Navigation du pied de page">

@@ -21,3 +21,4 @@ export const mapsUrl =
 
 export const phoneNumber = '06 14 47 70 00';
 export const phoneUrl = 'tel:+33614477000';
+export const instagramUrl = 'https://www.instagram.com/lapsydunord/';

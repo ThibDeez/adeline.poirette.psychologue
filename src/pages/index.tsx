@@ -2,8 +2,10 @@ import type {ReactNode} from 'react';
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
+import InstagramIcon from '@site/src/components/InstagramIcon';
 import {
   appointmentUrl,
+  instagramUrl,
   mapsUrl,
   phoneNumber,
   phoneUrl,
@@ -85,7 +87,7 @@ export default function Home(): ReactNode {
         </div>
       </section>
       <section className={styles.contact}>
-        <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</p><p><Link className={styles.textLink} href={phoneUrl}>Téléphone : {phoneNumber}</Link></p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p><Link className={styles.textLink} href={mapsUrl}>Voir l’itinéraire sur Google Maps <span aria-hidden="true">↗</span></Link></div>
+        <div><p className={styles.eyebrow}>Le cabinet</p><Heading as="h2" id="contact">Nous rencontrer<br /><em>à Saint-Amand-les-Eaux.</em></Heading><p><strong>Adresse :</strong><br /><Link className={styles.addressLink} href={mapsUrl}>13 Rue du 18 Juin 1940<br />59230 Saint-Amand-les-Eaux</Link></p><p className={styles.phoneContact}><strong>Téléphone :</strong><br /><Link className={styles.phoneNumber} href={phoneUrl}>{phoneNumber}</Link></p><p className={styles.instagramContact}><span className={styles.instagramLabel}><InstagramIcon /><strong>Instagram :</strong></span><Link className={styles.textLink} href={instagramUrl} target="_blank" rel="noopener noreferrer" aria-label="Compte Instagram @lapsydunord">@lapsydunord</Link></p><p className={styles.small}>Parking gratuit · Entrée accessible aux personnes à mobilité réduite</p></div>
         <div className={styles.appointment}><h3>Prendre rendez-vous</h3><p>Consultez les disponibilités du cabinet et choisissez votre créneau directement sur Doctolib.</p><Link className="button button--primary" href={appointmentUrl}>Accéder à Doctolib</Link><p className={styles.small}>Consultations au cabinet, uniquement sur rendez-vous.</p></div>
       </section>
       <section className={styles.localSeo} aria-labelledby="zone-consultation">

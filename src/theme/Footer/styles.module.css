@@ -62,17 +62,56 @@
   line-height: 1.65;
 }
 
-.contactLink {
-  color: #dfe7dd;
+.addressLink {
+  color: inherit;
   display: block;
-  font-size: .82rem;
-  margin-top: .75rem;
   text-decoration: underline;
   text-underline-offset: 4px;
 }
 
-.contactLink:hover {
+.addressLink:hover,
+.phoneNumber:hover {
   color: #fff;
+}
+
+.phoneContact {
+  color: #fff;
+  font-size: .82rem;
+  margin-top: .75rem;
+}
+
+.phoneNumber {
+  color: #dfe7dd;
+  display: block;
+  margin-top: .15rem;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.instagramRow {
+  align-items: flex-start;
+  color: #dfe7dd;
+  display: flex;
+  flex-direction: column;
+  font-size: .82rem;
+  gap: .2rem;
+  margin-top: .75rem;
+}
+
+.instagramHandle {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.instagramHandle:hover {
+  color: #fff;
+}
+
+.instagramLabel {
+  align-items: center;
+  display: flex;
+  gap: .35rem;
 }
 
 .linkColumns {
