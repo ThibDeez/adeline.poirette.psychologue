@@ -26,6 +26,10 @@ Le désir d’enfant peut faire émerger des questions personnelles, conjugales 
 
 La consultation permet d’élaborer ce vécu, d’accompagner les différentes étapes du parcours et de préserver un espace de réflexion pour soi ou pour le couple.
 
+</section>
+
+<section className={styles.topic}>
+
 ## Pendant la grossesse
 
 La grossesse n’est pas toujours vécue sereinement. Une consultation peut être indiquée en cas d’anxiété, de craintes liées à l’accouchement, de difficultés à investir la grossesse ou de réactivation d’éléments de l’histoire personnelle et familiale.
@@ -50,6 +54,10 @@ Les motifs de consultation peuvent notamment concerner :
 - des tensions dans le couple après l’arrivée de l’enfant.
 
 Vous pouvez venir seul, en couple ou avec votre bébé.
+
+</section>
+
+<section className={styles.topic}>
 
 ## Les consultations parent-bébé
 

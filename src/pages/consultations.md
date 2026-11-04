@@ -81,6 +81,10 @@ La consultation dure **une heure** et coûte **50 €**. Le règlement peut êtr
 
 Certaines consultations peuvent être prises en charge dans le cadre de [Mon soutien psy](/mon-soutien-psy). En dehors de ce dispositif, les consultations ne sont pas remboursées par l’Assurance Maladie ; certaines complémentaires santé proposent toutefois un forfait.
 
+</section>
+
+<section className={styles.topic}>
+
 ## Prendre rendez-vous
 
 Les rendez-vous se prennent exclusivement sur Doctolib :
@@ -88,6 +92,10 @@ Les rendez-vous se prennent exclusivement sur Doctolib :
 [Prendre rendez-vous avec Adeline Poirette](https://www.doctolib.fr/psychologue/saint-amand-les-eaux/adeline-poirette)
 
 En cas d’empêchement, merci de prévenir au moins **48 heures à l’avance** pour annuler ou reporter le rendez-vous.
+
+</section>
+
+<section className={styles.topic}>
 
 ## Confidentialité
 

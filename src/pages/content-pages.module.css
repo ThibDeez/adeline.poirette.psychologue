@@ -43,12 +43,6 @@
   margin: 0 0 1.2rem;
 }
 
-.page .topic :global(h2:not(:first-child)) {
-  border-top: 1px solid var(--site-border);
-  margin-top: 2rem;
-  padding-top: 1.5rem;
-}
-
 .page .topic :global(h3) {
   font-family: var(--ifm-heading-font-family);
   font-size: 1.35rem;
